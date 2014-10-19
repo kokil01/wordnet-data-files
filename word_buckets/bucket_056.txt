@@ -1,1000 +1,1000 @@
-55001	genus grison	102452095
-55002	genus groenlandia	112637586
-55003	genus grus	102015688
-55004	genus guaiacum	112742624
-55005	genus guevina	112237353
-55006	genus gulo	102451691
-55007	genus gutierrezia	111994357
-55008	genus gymnadenia	112084684
-55009	genus gymnadeniopsis	112085315
-55010	genus gymnelis	102620319
-55011	genus gymnocalycium	111867883
-55012	genus gymnocarpium	113217983
-55013	genus gymnocladus	112516712
-55014	genus gymnogyps	101622644
-55015	genus gymnopilus	113096941
-55016	genus gymnorhina	101586277
-55017	genus gymnosporangium	113085975
-55018	genus gymnura	101501218
-55019	genus gynura	111995569
-55020	genus gypaetus	101619930
-55021	genus gyps	101619611
-55022	genus gypsophila	111830659
-55023	genus gyromitra	113057884
-55024	genus haastia	111995951
-55025	genus habenaria	112085497
-55026	genus hackelia	112840713
-55027	genus haemanthus	112440840
-55028	genus haematobia	102202004
-55029	genus haematopus	102039636
-55030	genus haematoxylon	112517240
-55031	genus haematoxylum	112517240
-55032	genus haemodorum	112332793
-55033	genus haemopis	101941259
-55034	genus haemoproteus	101427579
-55035	genus haemulon	102591210
-55036	genus hakea	112239138
-55037	genus halcyon	101831038
-55038	genus haldea	101739337
-55039	genus halenia	112318195
-55040	genus halesia	112798805
-55041	genus haliaeetus	101617410
-55042	genus halicoeres	102611338
-55043	genus halimodendron	112554093
-55044	genus haliotis	101945365
-55045	genus halocarpus	111675858
-55046	genus halogeton	111854046
-55047	genus hamamelidanthum	112334252
-55048	genus hamamelidoxylon	112334471
-55049	genus hamamelis	112335169
-55050	genus hamamelites	112334663
-55051	genus hamelia	112688578
-55052	genus haminoea	101954486
-55053	genus haplopappus	111996322
-55054	genus hardenbergia	112554497
-55055	genus harpia	101616550
-55056	genus harpullia	112764440
-55057	genus harrisia	111868084
-55058	genus hatiora	111868310
-55059	genus hazardia	111997184
-55060	genus hedeoma	112868509
-55061	genus hedera	111819320
-55062	genus hedysarum	112554958
-55063	genus helenium	111997594
-55064	genus heleodytes	101588811
-55065	genus heliamphora	112802001
-55066	genus helianthemum	112395811
-55067	genus helianthus	111998504
-55068	genus helichrysum	112000557
-55069	genus helicteres	112219547
-55070	genus heliobacter	101354094
-55071	genus heliophila	111908740
-55072	genus heliopsis	112001046
-55073	genus heliothis	102299132
-55074	genus helipterum	112001336
-55075	genus helix	101947258
-55076	genus helleborus	111754238
-55077	genus helminthostachys	112982449
-55078	genus heloderma	101694784
-55079	genus helotium	112988416
-55080	genus helvella	113056281
-55081	genus helwingia	112970309
-55082	genus helxine	112414044
-55083	genus hemachatus	101751782
-55084	genus hemerocallis	112477032
-55085	genus hemigalus	102139824
-55086	genus hemigrammus	102586399
-55087	genus hemipteronatus	102612096
-55088	genus hemitripterus	102648453
-55089	genus hepatica	111755341
-55090	genus heracleum	112960424
-55091	genus heritiera	112220081
-55092	genus hermannia	112220832
-55093	genus hermissenda	101954113
-55094	genus hernaria	111831028
-55095	genus herpestes	102140080
-55096	genus herrerasaurus	101717327
-55097	genus hesperiphona	101543073
-55098	genus hesperis	111909090
-55099	genus heteranthera	112631370
-55100	genus heterocephalus	102372076
-55101	genus heterodon	101731774
-55102	genus heteromeles	112653636
-55103	genus heteroscelus	102033096
-55104	genus heterotheca	112001783
-55105	genus heuchera	112818801
-55106	genus hevea	112946596
-55107	genus hexagrammos	102651399
-55108	genus hexalectris	112089325
-55109	genus hexamita	101422805
-55110	genus hexanchus	101485528
-55111	genus hibbertia	112384097
-55112	genus hibiscus	112198109
-55113	genus hieracium	112002286
-55114	genus himantoglossum	112089989
-55115	genus himantopus	102037048
-55116	genus hippeastrum	112441496
-55117	genus hippobosca	102201366
-55118	genus hippocampus	101459272
-55119	genus hippocrepis	112555606
-55120	genus hippodamia	102169088
-55121	genus hippoglossoides	102662591
-55122	genus hippoglossus	102663042
-55123	genus hippopotamus	102401038
-55124	genus hipposideros	102146411
-55125	genus hippotragus	102428402
-55126	genus hipsurus	102573665
-55127	genus hirudo	101940953
-55128	genus hirundo	101597252
-55129	genus hoheria	112201231
-55130	genus holarrhena	111793171
-55131	genus holbrookia	101681819
-55132	genus holcus	112143098
-55133	genus holocentrus	101453094
-55134	genus holothuria	102324555
-55135	genus homarus	101985918
-55136	genus homo	102474643
-55137	genus homogyne	112003193
-55138	genus homona	102287165
-55139	genus hordeum	112143567
-55140	genus horneophyton	113239402
-55141	genus hosta	112478024
-55142	genus hottonia	112114638
-55143	genus houttuynia	113173369
-55144	genus hovea	112555966
-55145	genus hoya	113257624
-55146	genus hudsonia	112396899
-55147	genus hugueninia	111909547
-55148	genus hulsea	112003629
-55149	genus humulus	112418099
-55150	genus hunnemania	111926458
-55151	genus hyacinthoides	112479553
-55152	genus hyacinthus	112478729
-55153	genus hyaena	102120021
-55154	genus hyalophora	102305819
-55155	genus hyalosperma	112004208
-55156	genus hybanthus	112411431
-55157	genus hydnocarpus	112399795
-55158	genus hydnum	113007097
-55159	genus hydra	101914691
-55160	genus hydrangea	112808606
-55161	genus hydrastis	111755794
-55162	genus hydrilla	112634357
-55163	genus hydrobates	102063726
-55164	genus hydrocharis	112634046
-55165	genus hydrochoerus	102368008
-55166	genus hydrodamalis	102077194
-55167	genus hydromantes	101640437
-55168	genus hydromys	102337659
-55169	genus hydrophyllum	112855431
-55170	genus hyemoschus	102439145
-55171	genus hygrocybe	113091468
-55172	genus hygrophorus	113091789
-55173	genus hygrotrama	113093971
-55174	genus hyla	101653150
-55175	genus hylactophryne	101646015
-55176	genus hylobates	102485855
-55177	genus hylocereus	111868722
-55178	genus hylocichla	101561935
-55179	genus hylophylax	101556520
-55180	genus hymenaea	111770828
-55181	genus hymenanthera	112411628
-55182	genus hymenophyllum	112972428
-55183	genus hynerpeton	101630427
-55184	genus hyoscyamus	112924908
-55185	genus hypentelium	101448359
-55186	genus hypericum	112387823
-55187	genus hyperoglyphe	102637643
-55188	genus hyperoodon	102071061
-55189	genus hyphantria	102310977
-55190	genus hypochaeris	112004379
-55191	genus hypochoeris	112004379
-55192	genus hypoderma	102197539
-55193	genus hypopachus	101656025
-55194	genus hypopitys	112279639
-55195	genus hypoxis	112443436
-55196	genus hypsiglena	101742646
-55197	genus hypsiprymnodon	101882342
-55198	genus hyracotherium	102378244
-55199	genus hyssopus	112869103
-55200	genus iberis	111909942
-55201	genus ibero-mesornis	101519519
-55202	genus ibis	102008616
-55203	genus ichthyosaurus	101727344
-55204	genus ichthyostega	101630789
-55205	genus ictalurus	102522207
-55206	genus icteria	101572354
-55207	genus icterus	101574815
-55208	genus ictiobus	101447946
-55209	genus ictonyx	102446734
-55210	genus idesia	112400714
-55211	genus iguana	101679883
-55212	genus iguanodon	101710207
-55213	genus ilex	112777622
-55214	genus iliamna	112201664
-55215	genus illecebrum	111831387
-55216	genus illicium	111728911
-55217	genus impatiens	112704914
-55218	genus inachis	102281779
-55219	genus indigofera	112556325
-55220	genus indri	102502775
-55221	genus inga	111781953
-55222	genus inula	112004866
-55223	genus ipomoea	112847155
-55224	genus irena	101596498
-55225	genus iresine	111846885
-55226	genus iridoprocne	101597971
-55227	genus iris	112432215
-55228	genus irvingia	112738284
-55229	genus isatis	111910316
-55230	genus ischigualastia	101723910
-55231	genus isoetes	113247033
-55232	genus isopyrum	111756291
-55233	genus istiophorus	102633098
-55234	genus isurus	101486621
-55235	genus iva	112005323
-55236	genus ixia	112438191
-55237	genus ixobrychus	102014717
-55238	genus ixodes	101779673
-55239	genus jabiru	102006389
-55240	genus jacksonia	112556960
-55241	genus jacquinia	112120320
-55242	genus jaculus	102354827
-55243	genus jambos	112353235
-55244	genus jamesonia	113232077
-55245	genus jasminum	112327036
-55246	genus jatropha	112946154
-55247	genus javanthropus	102476913
-55248	genus jordanella	101450463
-55249	genus juglans	112338681
-55250	genus junco	101536962
-55251	genus juncus	111764039
-55252	genus juniperus	111656840
-55253	genus jynx	101844210
-55254	genus kakatoe	101821600
-55255	genus kalmia	112257867
-55256	genus kalotermes	102228059
-55257	genus katsuwonus	102631486
-55258	genus kennedia	112557170
-55259	genus kennedya	112557170
-55260	genus kenyapithecus	102481621
-55261	genus keteleeria	111665492
-55262	genus khaya	112719665
-55263	genus kiggelaria	112401114
-55264	genus kinosternon	101669608
-55265	genus kirkia	112738674
-55266	genus klebsiella	101371193
-55267	genus knightia	112240012
-55268	genus kniphofia	112457816
-55269	genus kobus	102429983
-55270	genus kochia	111852199
-55271	genus koellia	112884218
-55272	genus kogia	102070115
-55273	genus kohleria	112853450
-55274	genus kolkwitzia	112693258
-55275	genus kosteletzya	112202368
-55276	genus krigia	112006055
-55277	genus krypterophaneron	101454692
-55278	genus kyphosus	102606972
-55279	genus lablab	112557942
-55280	genus laburnum	112558493
-55281	genus laccopetalum	111756685
-55282	genus lacerta	101695661
-55283	genus lachnolaimus	102611059
-55284	genus lactarius	113027137
-55285	genus lactobacillus	101382595
-55286	genus lactophrys	102657239
-55287	genus lactuca	112006560
-55288	genus laelia	112090322
-55289	genus lagarostrobus	111676215
-55290	genus lagenaria	112186520
-55291	genus lagenophera	112008191
-55292	genus lagerstroemia	112349537
-55293	genus lagidium	102370330
-55294	genus lagodon	102594874
-55295	genus lagopus	101798863
-55296	genus lagorchestes	101880844
-55297	genus lagostomus	102370645
-55298	genus lagothrix	102496888
-55299	genus laguncularia	112345610
-55300	genus lama	102440456
-55301	genus lambertia	112240392
-55302	genus lambis	101946008
-55303	genus laminaria	101405925
-55304	genus lamium	112869630
-55305	genus lamna	101486348
-55306	genus lampris	102548318
-55307	genus lampropeltis	101736914
-55308	genus languas	112377185
-55309	genus lanius	101601461
-55310	genus lansium	112719917
-55311	genus lanthanotus	101694166
-55312	genus laportea	112414459
-55313	genus lappula	112840713
-55314	genus lardizabala	111723674
-55315	genus larix	111639201
-55316	genus larrea	112743644
-55317	genus larus	102044146
-55318	genus lasiocampa	102309324
-55319	genus lasiurus	102148716
-55320	genus lasthenia	112008425
-55321	genus lastreopsis	113218568
-55322	genus lates	102563014
-55323	genus lathyrus	112559108
-55324	genus latimeria	102518191
-55325	genus latrodectus	101776893
-55326	genus laurus	111724404
-55327	genus lavandula	112870357
-55328	genus lavatera	112202931
-55329	genus layia	112008888
-55330	genus lebistes	101451137
-55331	genus lecanopteris	113196745
-55332	genus lecanora	113008753
-55333	genus leccinum	113079207
-55334	genus ledum	112258823
-55335	genus leiopelma	101647919
-55336	genus leiophyllum	112259617
-55337	genus leipoa	101804012
-55338	genus leishmania	101421139
-55339	genus leitneria	111763214
-55340	genus lemaireocereus	111869079
-55341	genus lemmus	102347437
-55342	genus lemna	111815260
-55343	genus lemur	102500181
-55344	genus lens	112564532
-55345	genus lentinus	113022503
-55346	genus leonotis	112871478
-55347	genus leontideus	102493595
-55348	genus leontocebus	102493595
-55349	genus leontodon	112009243
-55350	genus leontopodium	112009735
-55351	genus leonurus	112872064
-55352	genus lepas	102001702
-55353	genus lepechinia	112872433
-55354	genus lepidium	111910798
-55355	genus lepidobotrys	112722251
-55356	genus lepidochelys	101666885
-55357	genus lepidocybium	102625038
-55358	genus lepidothamnus	111676831
-55359	genus lepiota	113033947
-55360	genus lepisma	102273125
-55361	genus lepisosteus	102643845
-55362	genus lepomis	102566128
-55363	genus leptarrhena	112819879
-55364	genus leptinotarsa	102172485
-55365	genus leptodactylus	101646328
-55366	genus leptoglossus	102242586
-55367	genus leptopteris	112974945
-55368	genus leptoptilus	102005529
-55369	genus leptospira	101385973
-55370	genus leptotyphlops	101743362
-55371	genus lepus	102328889
-55372	genus lespedeza	112563154
-55373	genus lesquerella	111911192
-55374	genus leucadendron	112240764
-55375	genus leucaena	111782706
-55376	genus leucanthemum	112010105
-55377	genus leuciscus	101443590
-55378	genus leucocytozoan	101427717
-55379	genus leucocytozoon	101427717
-55380	genus leucogenes	112011273
-55381	genus leucothoe	112259975
-55382	genus levisticum	112960820
-55383	genus lewisia	111880450
-55384	genus leycesteria	112693604
-55385	genus leymus	112144875
-55386	genus liatris	112011549
-55387	genus libocedrus	111659353
-55388	genus lichanura	101745321
-55389	genus ligularia	112012462
-55390	genus ligustrum	112328128
-55391	genus lilium	112446605
-55392	genus limanda	102661574
-55393	genus limax	101948221
-55394	genus limenitis	102279179
-55395	genus limnobium	112634729
-55396	genus limnocryptes	102035300
-55397	genus limnodromus	102035569
-55398	genus limonium	112119737
-55399	genus limosa	102036670
-55400	genus limulus	101790334
-55401	genus linanthus	112832054
-55402	genus linaria	112904683
-55403	genus lindera	111726390
-55404	genus lindheimera	112012809
-55405	genus linnaea	112693939
-55406	genus linum	112506902
-55407	genus liomys	102352382
-55408	genus liopelma	101647919
-55409	genus liparis	102649774 112090678
-55410	genus liposcelis	102263938
-55411	genus liquidambar	112336817
-55412	genus liriodendron	111732622
-55413	genus liriope	112493516
-55414	genus listera	112091451
-55415	genus listeria	101369522
-55416	genus litchi	112765037
-55417	genus lithocarpus	112285783
-55418	genus lithophragma	112820340
-55419	genus lithops	111840792
-55420	genus lithospermum	112841194
-55421	genus litocranius	102423321
-55422	genus littorina	101950925
-55423	genus livistona	112611956
-55424	genus loasa	112055533
-55425	genus lobelia	112188902
-55426	genus lobipes	102040664
-55427	genus lobotes	102638665
-55428	genus lobularia	111911519
-55429	genus locusta	102229771
-55430	genus lofortyx	101809381
-55431	genus logania	112505836
-55432	genus loiseleuria	112260852
-55433	genus loligo	101974158
-55434	genus lolium	112145022
-55435	genus lomatia	112241171
-55436	genus lomogramma	113224013
-55437	genus lonas	112013143
-55438	genus lonchocarpus	112565151
-55439	genus lonicera	112694516
-55440	genus lophius	102550759
-55441	genus lophodytes	101857984
-55442	genus lopholatilus	102575706
-55443	genus lophophora	111869486
-55444	genus lophophorus	101807840
-55445	genus lophosoria	113224303
-55446	genus loranthus	112758505
-55447	genus loris	102501251
-55448	genus lota	102525969
-55449	genus lotus	112565595
-55450	genus lovoa	112720245
-55451	genus loxia	101536421
-55452	genus loxodonta	102506954
-55453	genus loxoma	113224606
-55454	genus loxostege	102311504
-55455	genus lucilia	102194779
-55456	genus lufengpithecus	102481170
-55457	genus luffa	112186829
-55458	genus lumpenus	102618459
-55459	genus lunaria	111911864
-55460	genus lunda	102050896
-55461	genus lupinus	112566520
-55462	genus luscinia	101562605
-55463	genus lutjanus	102589496
-55464	genus lutra	102447278
-55465	genus luvarus	102634989
-55466	genus lycaena	102284639
-55467	genus lycaeon	102119282
-55468	genus lychnis	111831777
-55469	genus lycium	112925480
-55470	genus lycoperdon	113064506
-55471	genus lycopersicon	112926415
-55472	genus lycopersicum	112926415
-55473	genus lycopodium	113243567
-55474	genus lycopus	112872809
-55475	genus lycosa	101777871
-55476	genus lyginopteris	111625847
-55477	genus lygodium	112976789
-55478	genus lygus	102240765
-55479	genus lymantria	102288561
-55480	genus lynx	102129603
-55481	genus lyonia	112261232
-55482	genus lyrurus	101798066
-55483	genus lysichiton	111809395
-55484	genus lysichitum	111809395
-55485	genus lysiloma	111783175
-55486	genus lysimachia	112115303
-55487	genus lythrum	112348758
-55488	genus macaca	102489848
-55489	genus macadamia	112241511
-55490	genus machaeranthera	112013476
-55491	genus macleaya	111926828
-55492	genus maclura	112420289
-55493	genus macowanites	113068972
-55494	genus macrocephalon	101804674
-55495	genus macrocheira	101984852
-55496	genus macroclemys	101669072
-55497	genus macrodactylus	102177522
-55498	genus macronectes	102062376
-55499	genus macropus	101880048
-55500	genus macrothelypteris	113249916
-55501	genus macrotis	101879176
-55502	genus macrotus	102144947
-55503	genus macrotyloma	112568163
-55504	genus macrozamia	111624081
-55505	genus macrozoarces	102620586
-55506	genus madia	112014401
-55507	genus madoqua	102424258
-55508	genus maeandra	101919808
-55509	genus magicicada	102259801
-55510	genus magnolia	111729919
-55511	genus mahonia	111719752
-55512	genus maia	101984525
-55513	genus maianthemum	112493910
-55514	genus maja	101984525
-55515	genus majorana	112873690
-55516	genus makaira	102633556
-55517	genus malaclemys	101670600
-55518	genus malacosoma	102309659
-55519	genus malacothamnus	112203375
-55520	genus malaxis	112092466
-55521	genus malcolmia	111912307
-55522	genus mallotus	102543770
-55523	genus malope	112203835
-55524	genus malopterurus	102521119
-55525	genus malosma	112781482
-55526	genus malpighia	112714954
-55527	genus malus	112654147
-55528	genus malva	112190932
-55529	genus malvastrum	112204153
-55530	genus malvaviscus	112204433
-55531	genus mammea	112390528
-55532	genus mammillaria	111870135
-55533	genus mammut	102508440
-55534	genus mammuthus	102507266
-55535	genus mandevilla	111793607
-55536	genus mandragora	112927094
-55537	genus mandrillus	102489418
-55538	genus manduca	102301485
-55539	genus mangifera	112781883
-55540	genus manglietia	111732440
-55541	genus manihot	112947076
-55542	genus manilkara	112794887
-55543	genus manis	102464332
-55544	genus manta	101503001
-55545	genus mantis	102238563
-55546	genus maranta	112371994
-55547	genus marasmius	113027501
-55548	genus marattia	113235961
-55549	genus marchantia	111564243
-55550	genus marmota	102363874
-55551	genus marrubium	112874661
-55552	genus marsilea	112978227
-55553	genus martes	102452552
-55554	genus martynia	112894594
-55555	genus masdevallia	112092920
-55556	genus masticophis	101734059
-55557	genus mastigoproctus	101774265
-55558	genus mastodon	102508440
-55559	genus mastotermes	102227118
-55560	genus matricaria	112015296
-55561	genus matteuccia	113218698
-55562	genus matthiola	111912929
-55563	genus maxillaria	112093508
-55564	genus maxostoma	101448639
-55565	genus mayaca	112629381
-55566	genus mayetiola	102192187
-55567	genus mazama	102437229
-55568	genus meconopsis	111927182
-55569	genus medicago	112568639
-55570	genus medinilla	112370008
-55571	genus megachile	102213935
-55572	genus megaderma	102147444
-55573	genus megalobatrachus	101636219
-55574	genus megalosaurus	101718024
-55575	genus megaptera	102068252
-55576	genus megatherium	102461306
-55577	genus melampodium	112016152
-55578	genus melampsora	113084696
-55579	genus melanerpes	101843284
-55580	genus melanitta	101856020
-55581	genus melanogrammus	102526381
-55582	genus melanoplus	102230082
-55583	genus melanotis	101589789
-55584	genus melastoma	112369608
-55585	genus meleagris	101796629
-55586	genus meles	102450527
-55587	genus melia	112716521
-55588	genus melicocca	112765416
-55589	genus melicoccus	112765416
-55590	genus melicytus	112411797
-55591	genus melilotus	111771324
-55592	genus melissa	112875203
-55593	genus mellivora	102450831
-55594	genus melocactus	111870605
-55595	genus melogale	102451133
-55596	genus melolontha	102177173
-55597	genus melophagus	102201648
-55598	genus melopsittacus	101824368
-55599	genus melospiza	101539115
-55600	genus melursus	102136892
-55601	genus menippe	101980007
-55602	genus meniscium	113250125
-55603	genus menispermum	111733503
-55604	genus menopon	102188346
-55605	genus mentha	112875685
-55606	genus menticirrhus	102599803
-55607	genus mentzelia	112055892
-55608	genus menura	101548066
-55609	genus menyanthes	112505117
-55610	genus menziesia	112262216
-55611	genus mephitis	102448645
-55612	genus mercenaria	101960564
-55613	genus mercurialis	112944599
-55614	genus mergus	101856864
-55615	genus meriones	102346658
-55616	genus merlangus	102525621
-55617	genus merluccius	102527055
-55618	genus merops	101831497
-55619	genus mertensia	112842017
-55620	genus meryta	111819627
-55621	genus mesembryanthemum	111841220
-55622	genus mesocricetus	102345839
-55623	genus mesohippus	102378668
-55624	genus mespilus	112656868
-55625	genus mesua	112390901
-55626	genus metasequoia	111660314
-55627	genus metroxylon	112612284
-55628	genus microcentrum	102230867
-55629	genus micrococcus	101381757
-55630	genus microdipodops	102353189
-55631	genus microgramma	113197099
-55632	genus micromeria	112877784
-55633	genus micromyx	102334967
-55634	genus micropogonias	102599222
-55635	genus micropterus	102567203
-55636	genus microsorium	113197421
-55637	genus microsporum	113099412
-55638	genus microstomus	102662297
-55639	genus microstrobos	111677425
-55640	genus microtus	102343760
-55641	genus micruroides	101748704
-55642	genus micrurus	101748421
-55643	genus mikania	112016561
-55644	genus millettia	112570154
-55645	genus miltonia	112093911
-55646	genus mimosa	111775102
-55647	genus mimus	101589432
-55648	genus minuartia	111832827
-55649	genus mirabilis	111859766
-55650	genus mirounga	102082943
-55651	genus mitchella	112689125
-55652	genus mitella	112821087
-55653	genus mnium	111562030
-55654	genus mobula	101503362
-55655	genus moehringia	111833042
-55656	genus mohria	112977551
-55657	genus mola	102659180
-55658	genus mollienesia	101452498
-55659	genus molluga	111841884
-55660	genus moloch	101691453
-55661	genus molothrus	101577638
-55662	genus molucella	112878354
-55663	genus molva	102527643
-55664	genus momordica	112187799
-55665	genus momotus	101833440
-55666	genus monarda	112878779
-55667	genus monardella	112880248
-55668	genus moneses	112278437
-55669	genus monilia	113099569
-55670	genus monocanthus	102656595
-55671	genus monochamus	102171528
-55672	genus monodon	102075007
-55673	genus monomorium	102222553
-55674	genus mononychus	101721273
-55675	genus monotropa	112279180
-55676	genus monstera	111809749
-55677	genus montezuma	112211592
-55678	genus montia	111881270
-55679	genus morchella	113052716
-55680	genus morone	102568956
-55681	genus morus	112419495
-55682	genus moschus	102437730
-55683	genus motacilla	101530885
-55684	genus mucor	112993962
-55685	genus mucuna	112570481
-55686	genus mugil	102604219
-55687	genus muhlenbergia	112145915
-55688	genus mulloidichthys	102603287
-55689	genus mullus	102602765
-55690	genus muntiacus	102437465
-55691	genus muntingia	112214481
-55692	genus mus	102334612
-55693	genus musa	112372667
-55694	genus musca	102193300
-55695	genus muscardinus	102355689
-55696	genus muscari	112481054
-55697	genus muscicapa	101558681
-55698	genus muscivora	101557813
-55699	genus musophaga	101827796
-55700	genus mustela	102444354
-55701	genus mustelus	101494853
-55702	genus mutinus	113061932
-55703	genus mutisia	112016959
-55704	genus mya	101959843
-55705	genus myadestes	101563700
-55706	genus mycobacterium	101379589
-55707	genus mycoplasma	101376316
-55708	genus mycteria	102007315
-55709	genus mycteroperca	102572669
-55710	genus mylodon	102461944
-55711	genus myocastor	102369477
-55712	genus myopus	102347865
-55713	genus myosotis	112842496
-55714	genus myotis	102149178
-55715	genus myrciaria	112353383
-55716	genus myrica	111761479
-55717	genus myricaria	112407241
-55718	genus myriophyllum	112347359
-55719	genus myristica	111734619
-55720	genus myrmecia	102224851
-55721	genus myrmecobius	101888008
-55722	genus myrmecophaga	102462906
-55723	genus myrmeleon	102266500
-55724	genus myroxylon	112571473
-55725	genus myrrhis	112961187
-55726	genus myrsine	112117530
-55727	genus myrtillocactus	111870806
-55728	genus myrtus	112350853
-55729	genus mysis	101991895
-55730	genus mytilus	101966517
-55731	genus myxine	101481457
-55732	genus myxinikela	101481970
-55733	genus myxocephalus	102648747
-55734	genus nabalus	112017261
-55735	genus naemorhedus	102421294
-55736	genus nageia	111677765
-55737	genus naias	112632240
-55738	genus naja	101750380
-55739	genus najas	112632240
-55740	genus nanomia	101915329
-55741	genus napaea	112204854
-55742	genus narcissus	112441839
-55743	genus narthecium	112484079
-55744	genus nasalis	102491691
-55745	genus nasturtium	111913473
-55746	genus nasua	102512036
-55747	genus natrix	101739838
-55748	genus nauclea	112689493
-55749	genus naucrates	102582686
-55750	genus nautilus	101971373
-55751	genus necturus	101637033
-55752	genus negaprion	101493187
-55753	genus nelumbo	111737708
-55754	genus nemophila	112856793
-55755	genus neoceratodus	102519498
-55756	genus neofiber	102340971
-55757	genus neohygrophorus	113094286
-55758	genus neolentinus	113071956
-55759	genus neomys	101895517
-55760	genus neophron	101620274
-55761	genus neotoma	102342420
-55762	genus nepa	102245321
-55763	genus nepenthes	112802574
-55764	genus nepeta	112880633
-55765	genus nephelium	112765920
-55766	genus nephrolepis	113225544
-55767	genus nephrops	101986772
-55768	genus nephthytis	111810265
-55769	genus nerita	101949128
-55770	genus neritina	101949661
-55771	genus nerium	111794329
-55772	genus nerodia	101739997
-55773	genus nesokia	102336731
-55774	genus nestor	101821345
-55775	genus neurospora	112985081
-55776	genus neurotrichus	101893786
-55777	genus nicandra	112927686
-55778	genus nicotiana	112928047
-55779	genus nidularia	113067647
-55780	genus nierembergia	112929192
-55781	genus nigella	111757038
-55782	genus nigroporus	113072306
-55783	genus nimravus	102133728
-55784	genus nipa	112612658
-55785	genus nitella	101415712
-55786	genus nitrobacter	101364837
-55787	genus nitrosomonas	101365121
-55788	genus noctiluca	101420194
-55789	genus noctua	102298222
-55790	genus nolina	112500326
-55791	genus nomia	102213219
-55792	genus nopalea	111871570
-55793	genus nostoc	101361844
-55794	genus notechis	101752956
-55795	genus notemigonus	101444696
-55796	genus nothofagus	112286417
-55797	genus nothosaurus	101728720
-55798	genus notomys	102337261
-55799	genus notonecta	102243504
-55800	genus notophthalmus	101633436
-55801	genus notornis	102020261
-55802	genus notoryctus	101888497
-55803	genus notropis	101444266
-55804	genus nucifraga	101584248
-55805	genus numenius	102036098
-55806	genus numida	101811630
-55807	genus nuphar	111736754
-55808	genus nuytsia	112759240
-55809	genus nyctaginia	111856606
-55810	genus nyctanassa	102013535
-55811	genus nyctereutes	102118974
-55812	genus nycticebus	102501519
-55813	genus nycticorax	102013246
-55814	genus nyctimene	102143009
-55815	genus nymphaea	111735676
-55816	genus nymphalis	102278024
-55817	genus nymphicus	101822241
-55818	genus nypa	112612658
-55819	genus nyssa	112360719
-55820	genus oceanites	102064078
-55821	genus ochna	112403216
-55822	genus ochotona	102331314
-55823	genus ochroma	112211978
-55824	genus ocimum	112881014
-55825	genus octopus	101972671
-55826	genus ocyurus	102590391
-55827	genus odobenus	102084075
-55828	genus odocoileus	102434785
-55829	genus odontaspis	101489953
-55830	genus odontoglossum	112094245
-55831	genus odontophorus	101808087
-55832	genus oecanthus	102233007
-55833	genus oedogonium	101414512
-55834	genus oenanthe	101564254 112961538
-55835	genus oenothera	112364648
-55836	genus oestrus	102197251
-55837	genus okapia	102441917
-55838	genus olea	112321142
-55839	genus oleandra	113225000
-55840	genus olearia	112018244
-55841	genus olfersia	113219252
-55842	genus oligoplites	102580163
-55843	genus oligoporus	113072626
-55844	genus ommastrephes	101974369
-55845	genus omphalotus	113025926
-55846	genus oncidium	112094706
-55847	genus oncorhynchus	102538540
-55848	genus ondatra	102340681
-55849	genus oniscus	101994462
-55850	genus onobrychis	112572586
-55851	genus onoclea	113219626
-55852	genus ononis	112573163
-55853	genus onopordon	112019117
-55854	genus onopordum	112019117
-55855	genus onosmodium	112843044
-55856	genus onychium	113232203
-55857	genus onychogalea	101881141
-55858	genus onychomys	102340426
-55859	genus opheodrys	101732479
-55860	genus ophiodon	102555525
-55861	genus ophioglossum	112980971
-55862	genus ophiophagus	101751201
-55863	genus ophisaurus	101692980
-55864	genus ophrys	112095179
-55865	genus opisthocomus	101812233
-55866	genus opuntia	111871864
-55867	genus orbignya	112613112
-55868	genus orchestia	101995719
-55869	genus orchis	112063717
-55870	genus orcinus	102073825
-55871	genus oreamnos	102420987
-55872	genus orectolobus	101489052
-55873	genus oreopteris	113250256
-55874	genus oreortyx	101811088
-55875	genus origanum	112873486
-55876	genus oriolus	101578582
-55877	genus orites	112242460
-55878	genus ormosia	112573819
-55879	genus ornithogalum	112479976
-55880	genus ornithorhynchus	101875785
-55881	genus orontium	111810708
-55882	genus ortalis	101802927
-55883	genus orthilia	112277657
-55884	genus orthopristis	102592585
-55885	genus orthotomus	101568723
-55886	genus orycteropus	102085284
-55887	genus oryctolagus	102327369
-55888	genus oryx	102430875
-55889	genus oryza	112146299
-55890	genus oryzomys	102343173
-55891	genus oryzopsis	112146755
-55892	genus osmanthus	112329920
-55893	genus osmerus	102543268
-55894	genus osmunda	112973839
-55895	genus ostrea	101963541
-55896	genus ostrya	112307905
-55897	genus ostryopsis	112308705
-55898	genus otaria	102080811
-55899	genus othonna	112019609
-55900	genus otis	102021698
-55901	genus otus	101625925
-55902	genus ouranopithecus	102481047
-55903	genus ovalipes	101982036
-55904	genus ovibos	102413721
-55905	genus ovis	102414073
-55906	genus oxalis	112723466
-55907	genus oxandra	111716807
-55908	genus oxybelis	101741901
-55909	genus oxydendrum	112262804
-55910	genus oxylebius	102651712
-55911	genus oxytropis	112574747
-55912	genus oxyura	101852388
-55913	genus oxyuranus	101753994
-55914	genus ozonium	113103471
-55915	genus ozothamnus	112019924
-55916	genus pachycephala	101559009
-55917	genus pachyrhizus	112575574
-55918	genus pachysandra	112767493
-55919	genus packera	112020427
-55920	genus padda	101546149
-55921	genus paeonia	111739589
-55922	genus pagellus	102594123
-55923	genus pagophila	102044996
-55924	genus pagophilus	102082674
-55925	genus pagrus	102593835
-55926	genus pagurus	101988713
-55927	genus palaemon	101989994
-55928	genus palaquium	112795651
-55929	genus paleacrita	102289856
-55930	genus palinurus	101987188
-55931	genus paliurus	113164403
-55932	genus palometa	102636185
-55933	genus pan	102484260
-55934	genus panax	111819989
-55935	genus pandanus	112175145
-55936	genus pandion	101618590
-55937	genus panicum	112147428
-55938	genus panonychus	101785019
-55939	genus panthera	102130772
-55940	genus papaver	111921455
-55941	genus paphiopedilum	112095996
-55942	genus papio	102489196
-55943	genus paprilus	102636474
-55944	genus paracheirodon	102586635
-55945	genus paradoxurus	102140694
-55946	genus paralichthys	102663947
-55947	genus paralithodes	101983778
-55948	genus paramecium	101398526
-55949	genus paranthias	102572401
-55950	genus paranthropus	102480147
-55951	genus parascalops	101892674
-55952	genus parasitaxus	111678214
-55953	genus parathelypteris	113250645
-55954	genus parietaria	112415011
-55955	genus paris	112489877
-55956	genus parkia	111783942
-55957	genus parkinsonia	112517997
-55958	genus parmelia	113012405
-55959	genus parnassia	112822083
-55960	genus parochetus	112576225
-55961	genus paronychia	111833778
-55962	genus parophrys	102667141
-55963	genus parrotia	112337681
-55964	genus parrotiopsis	112338128
-55965	genus parthenium	112021078
-55966	genus parthenocissus	113168802
-55967	genus parula	101570171
-55968	genus parus	101594551
-55969	genus paspalum	112148407
-55970	genus passer	101542413
-55971	genus passerina	101540001
-55972	genus passiflora	112403773
-55973	genus pastinaca	112962120
-55974	genus patella	101951558
-55975	genus pavo	101808333
-55976	genus pavonia	112205241
-55977	genus payena	112795985
-55978	genus pecari	102400029
-55979	genus pecopteris	111565665
-55980	genus pecten	101968845
-55981	genus pediculus	102186922
-55982	genus pedilanthus	112948681
-55983	genus pediocactus	111871217
-55984	genus pedioecetes	101800693
-55985	genus pedionomus	102023104
-55986	genus peireskia	111872724
-55987	genus pelargonium	112707972
-55988	genus pelecanus	102054698
-55989	genus pellaea	113232414
-55990	genus pellicularia	113036586
-55991	genus peltandra	111811093
-55992	genus peltiphyllum	112817973
-55993	genus penelope	101802517
-55994	genus peneus	101990705
-55995	genus penicillium	113100713
-55996	genus pennatula	101918182
-55997	genus pennisetum	112149162
-55998	genus penstemon	112905283
-55999	genus peperomia	113171518
-56000	genus perca	102559664
+genus glaucium	111926053
+genus glaucomys	102363295
+genus glaux	112114286
+genus glechoma	112868014
+genus gleditsia	112516014
+genus gleichenia	113191184
+genus gliricidia	112552057
+genus glis	102355456
+genus globicephala	102074158
+genus globigerina	101396005
+genus gloriosa	112476292
+genus glossina	102193783
+genus glossodia	112083567
+genus glossopsitta	101823305
+genus gloxinia	112852900
+genus glyceria	112142641
+genus glycine	112552513
+genus glycyrrhiza	112553225
+genus gnaphalium	111993038
+genus gnetum	111617847
+genus gobiesox	102638089
+genus gobio	101445767
+genus gomphotherium	102509261
+genus gomphrena	111846457
+genus goniopteris	113249765
+genus gonorhynchus	102531742
+genus goodyera	112083915
+genus gopherus	101673602
+genus gorgonocephalus	102321450
+genus gorilla	102483304
+genus gossypium	112196314
+genus gracula	101580727
+genus grammatophyllum	112084388
+genus grampus	102073575
+genus graptophyllum	112833425
+genus grevillea	112237728
+genus grewia	112225442
+genus grias	112347924
+genus grindelia	111993628
+genus griselinia	112969738
+genus grison	102452095
+genus groenlandia	112637586
+genus grus	102015688
+genus guaiacum	112742624
+genus guevina	112237353
+genus gulo	102451691
+genus gutierrezia	111994357
+genus gymnadenia	112084684
+genus gymnadeniopsis	112085315
+genus gymnelis	102620319
+genus gymnocalycium	111867883
+genus gymnocarpium	113217983
+genus gymnocladus	112516712
+genus gymnogyps	101622644
+genus gymnopilus	113096941
+genus gymnorhina	101586277
+genus gymnosporangium	113085975
+genus gymnura	101501218
+genus gynura	111995569
+genus gypaetus	101619930
+genus gyps	101619611
+genus gypsophila	111830659
+genus gyromitra	113057884
+genus haastia	111995951
+genus habenaria	112085497
+genus hackelia	112840713
+genus haemanthus	112440840
+genus haematobia	102202004
+genus haematopus	102039636
+genus haematoxylon	112517240
+genus haematoxylum	112517240
+genus haemodorum	112332793
+genus haemopis	101941259
+genus haemoproteus	101427579
+genus haemulon	102591210
+genus hakea	112239138
+genus halcyon	101831038
+genus haldea	101739337
+genus halenia	112318195
+genus halesia	112798805
+genus haliaeetus	101617410
+genus halicoeres	102611338
+genus halimodendron	112554093
+genus haliotis	101945365
+genus halocarpus	111675858
+genus halogeton	111854046
+genus hamamelidanthum	112334252
+genus hamamelidoxylon	112334471
+genus hamamelis	112335169
+genus hamamelites	112334663
+genus hamelia	112688578
+genus haminoea	101954486
+genus haplopappus	111996322
+genus hardenbergia	112554497
+genus harpia	101616550
+genus harpullia	112764440
+genus harrisia	111868084
+genus hatiora	111868310
+genus hazardia	111997184
+genus hedeoma	112868509
+genus hedera	111819320
+genus hedysarum	112554958
+genus helenium	111997594
+genus heleodytes	101588811
+genus heliamphora	112802001
+genus helianthemum	112395811
+genus helianthus	111998504
+genus helichrysum	112000557
+genus helicteres	112219547
+genus heliobacter	101354094
+genus heliophila	111908740
+genus heliopsis	112001046
+genus heliothis	102299132
+genus helipterum	112001336
+genus helix	101947258
+genus helleborus	111754238
+genus helminthostachys	112982449
+genus heloderma	101694784
+genus helotium	112988416
+genus helvella	113056281
+genus helwingia	112970309
+genus helxine	112414044
+genus hemachatus	101751782
+genus hemerocallis	112477032
+genus hemigalus	102139824
+genus hemigrammus	102586399
+genus hemipteronatus	102612096
+genus hemitripterus	102648453
+genus hepatica	111755341
+genus heracleum	112960424
+genus heritiera	112220081
+genus hermannia	112220832
+genus hermissenda	101954113
+genus hernaria	111831028
+genus herpestes	102140080
+genus herrerasaurus	101717327
+genus hesperiphona	101543073
+genus hesperis	111909090
+genus heteranthera	112631370
+genus heterocephalus	102372076
+genus heterodon	101731774
+genus heteromeles	112653636
+genus heteroscelus	102033096
+genus heterotheca	112001783
+genus heuchera	112818801
+genus hevea	112946596
+genus hexagrammos	102651399
+genus hexalectris	112089325
+genus hexamita	101422805
+genus hexanchus	101485528
+genus hibbertia	112384097
+genus hibiscus	112198109
+genus hieracium	112002286
+genus himantoglossum	112089989
+genus himantopus	102037048
+genus hippeastrum	112441496
+genus hippobosca	102201366
+genus hippocampus	101459272
+genus hippocrepis	112555606
+genus hippodamia	102169088
+genus hippoglossoides	102662591
+genus hippoglossus	102663042
+genus hippopotamus	102401038
+genus hipposideros	102146411
+genus hippotragus	102428402
+genus hipsurus	102573665
+genus hirudo	101940953
+genus hirundo	101597252
+genus hoheria	112201231
+genus holarrhena	111793171
+genus holbrookia	101681819
+genus holcus	112143098
+genus holocentrus	101453094
+genus holothuria	102324555
+genus homarus	101985918
+genus homo	102474643
+genus homogyne	112003193
+genus homona	102287165
+genus hordeum	112143567
+genus horneophyton	113239402
+genus hosta	112478024
+genus hottonia	112114638
+genus houttuynia	113173369
+genus hovea	112555966
+genus hoya	113257624
+genus hudsonia	112396899
+genus hugueninia	111909547
+genus hulsea	112003629
+genus humulus	112418099
+genus hunnemania	111926458
+genus hyacinthoides	112479553
+genus hyacinthus	112478729
+genus hyaena	102120021
+genus hyalophora	102305819
+genus hyalosperma	112004208
+genus hybanthus	112411431
+genus hydnocarpus	112399795
+genus hydnum	113007097
+genus hydra	101914691
+genus hydrangea	112808606
+genus hydrastis	111755794
+genus hydrilla	112634357
+genus hydrobates	102063726
+genus hydrocharis	112634046
+genus hydrochoerus	102368008
+genus hydrodamalis	102077194
+genus hydromantes	101640437
+genus hydromys	102337659
+genus hydrophyllum	112855431
+genus hyemoschus	102439145
+genus hygrocybe	113091468
+genus hygrophorus	113091789
+genus hygrotrama	113093971
+genus hyla	101653150
+genus hylactophryne	101646015
+genus hylobates	102485855
+genus hylocereus	111868722
+genus hylocichla	101561935
+genus hylophylax	101556520
+genus hymenaea	111770828
+genus hymenanthera	112411628
+genus hymenophyllum	112972428
+genus hynerpeton	101630427
+genus hyoscyamus	112924908
+genus hypentelium	101448359
+genus hypericum	112387823
+genus hyperoglyphe	102637643
+genus hyperoodon	102071061
+genus hyphantria	102310977
+genus hypochaeris	112004379
+genus hypochoeris	112004379
+genus hypoderma	102197539
+genus hypopachus	101656025
+genus hypopitys	112279639
+genus hypoxis	112443436
+genus hypsiglena	101742646
+genus hypsiprymnodon	101882342
+genus hyracotherium	102378244
+genus hyssopus	112869103
+genus iberis	111909942
+genus ibero-mesornis	101519519
+genus ibis	102008616
+genus ichthyosaurus	101727344
+genus ichthyostega	101630789
+genus ictalurus	102522207
+genus icteria	101572354
+genus icterus	101574815
+genus ictiobus	101447946
+genus ictonyx	102446734
+genus idesia	112400714
+genus iguana	101679883
+genus iguanodon	101710207
+genus ilex	112777622
+genus iliamna	112201664
+genus illecebrum	111831387
+genus illicium	111728911
+genus impatiens	112704914
+genus inachis	102281779
+genus indigofera	112556325
+genus indri	102502775
+genus inga	111781953
+genus inula	112004866
+genus ipomoea	112847155
+genus irena	101596498
+genus iresine	111846885
+genus iridoprocne	101597971
+genus iris	112432215
+genus irvingia	112738284
+genus isatis	111910316
+genus ischigualastia	101723910
+genus isoetes	113247033
+genus isopyrum	111756291
+genus istiophorus	102633098
+genus isurus	101486621
+genus iva	112005323
+genus ixia	112438191
+genus ixobrychus	102014717
+genus ixodes	101779673
+genus jabiru	102006389
+genus jacksonia	112556960
+genus jacquinia	112120320
+genus jaculus	102354827
+genus jambos	112353235
+genus jamesonia	113232077
+genus jasminum	112327036
+genus jatropha	112946154
+genus javanthropus	102476913
+genus jordanella	101450463
+genus juglans	112338681
+genus junco	101536962
+genus juncus	111764039
+genus juniperus	111656840
+genus jynx	101844210
+genus kakatoe	101821600
+genus kalmia	112257867
+genus kalotermes	102228059
+genus katsuwonus	102631486
+genus kennedia	112557170
+genus kennedya	112557170
+genus kenyapithecus	102481621
+genus keteleeria	111665492
+genus khaya	112719665
+genus kiggelaria	112401114
+genus kinosternon	101669608
+genus kirkia	112738674
+genus klebsiella	101371193
+genus knightia	112240012
+genus kniphofia	112457816
+genus kobus	102429983
+genus kochia	111852199
+genus koellia	112884218
+genus kogia	102070115
+genus kohleria	112853450
+genus kolkwitzia	112693258
+genus kosteletzya	112202368
+genus krigia	112006055
+genus krypterophaneron	101454692
+genus kyphosus	102606972
+genus lablab	112557942
+genus laburnum	112558493
+genus laccopetalum	111756685
+genus lacerta	101695661
+genus lachnolaimus	102611059
+genus lactarius	113027137
+genus lactobacillus	101382595
+genus lactophrys	102657239
+genus lactuca	112006560
+genus laelia	112090322
+genus lagarostrobus	111676215
+genus lagenaria	112186520
+genus lagenophera	112008191
+genus lagerstroemia	112349537
+genus lagidium	102370330
+genus lagodon	102594874
+genus lagopus	101798863
+genus lagorchestes	101880844
+genus lagostomus	102370645
+genus lagothrix	102496888
+genus laguncularia	112345610
+genus lama	102440456
+genus lambertia	112240392
+genus lambis	101946008
+genus laminaria	101405925
+genus lamium	112869630
+genus lamna	101486348
+genus lampris	102548318
+genus lampropeltis	101736914
+genus languas	112377185
+genus lanius	101601461
+genus lansium	112719917
+genus lanthanotus	101694166
+genus laportea	112414459
+genus lappula	112840713
+genus lardizabala	111723674
+genus larix	111639201
+genus larrea	112743644
+genus larus	102044146
+genus lasiocampa	102309324
+genus lasiurus	102148716
+genus lasthenia	112008425
+genus lastreopsis	113218568
+genus lates	102563014
+genus lathyrus	112559108
+genus latimeria	102518191
+genus latrodectus	101776893
+genus laurus	111724404
+genus lavandula	112870357
+genus lavatera	112202931
+genus layia	112008888
+genus lebistes	101451137
+genus lecanopteris	113196745
+genus lecanora	113008753
+genus leccinum	113079207
+genus ledum	112258823
+genus leiopelma	101647919
+genus leiophyllum	112259617
+genus leipoa	101804012
+genus leishmania	101421139
+genus leitneria	111763214
+genus lemaireocereus	111869079
+genus lemmus	102347437
+genus lemna	111815260
+genus lemur	102500181
+genus lens	112564532
+genus lentinus	113022503
+genus leonotis	112871478
+genus leontideus	102493595
+genus leontocebus	102493595
+genus leontodon	112009243
+genus leontopodium	112009735
+genus leonurus	112872064
+genus lepas	102001702
+genus lepechinia	112872433
+genus lepidium	111910798
+genus lepidobotrys	112722251
+genus lepidochelys	101666885
+genus lepidocybium	102625038
+genus lepidothamnus	111676831
+genus lepiota	113033947
+genus lepisma	102273125
+genus lepisosteus	102643845
+genus lepomis	102566128
+genus leptarrhena	112819879
+genus leptinotarsa	102172485
+genus leptodactylus	101646328
+genus leptoglossus	102242586
+genus leptopteris	112974945
+genus leptoptilus	102005529
+genus leptospira	101385973
+genus leptotyphlops	101743362
+genus lepus	102328889
+genus lespedeza	112563154
+genus lesquerella	111911192
+genus leucadendron	112240764
+genus leucaena	111782706
+genus leucanthemum	112010105
+genus leuciscus	101443590
+genus leucocytozoan	101427717
+genus leucocytozoon	101427717
+genus leucogenes	112011273
+genus leucothoe	112259975
+genus levisticum	112960820
+genus lewisia	111880450
+genus leycesteria	112693604
+genus leymus	112144875
+genus liatris	112011549
+genus libocedrus	111659353
+genus lichanura	101745321
+genus ligularia	112012462
+genus ligustrum	112328128
+genus lilium	112446605
+genus limanda	102661574
+genus limax	101948221
+genus limenitis	102279179
+genus limnobium	112634729
+genus limnocryptes	102035300
+genus limnodromus	102035569
+genus limonium	112119737
+genus limosa	102036670
+genus limulus	101790334
+genus linanthus	112832054
+genus linaria	112904683
+genus lindera	111726390
+genus lindheimera	112012809
+genus linnaea	112693939
+genus linum	112506902
+genus liomys	102352382
+genus liopelma	101647919
+genus liparis	102649774 112090678
+genus liposcelis	102263938
+genus liquidambar	112336817
+genus liriodendron	111732622
+genus liriope	112493516
+genus listera	112091451
+genus listeria	101369522
+genus litchi	112765037
+genus lithocarpus	112285783
+genus lithophragma	112820340
+genus lithops	111840792
+genus lithospermum	112841194
+genus litocranius	102423321
+genus littorina	101950925
+genus livistona	112611956
+genus loasa	112055533
+genus lobelia	112188902
+genus lobipes	102040664
+genus lobotes	102638665
+genus lobularia	111911519
+genus locusta	102229771
+genus lofortyx	101809381
+genus logania	112505836
+genus loiseleuria	112260852
+genus loligo	101974158
+genus lolium	112145022
+genus lomatia	112241171
+genus lomogramma	113224013
+genus lonas	112013143
+genus lonchocarpus	112565151
+genus lonicera	112694516
+genus lophius	102550759
+genus lophodytes	101857984
+genus lopholatilus	102575706
+genus lophophora	111869486
+genus lophophorus	101807840
+genus lophosoria	113224303
+genus loranthus	112758505
+genus loris	102501251
+genus lota	102525969
+genus lotus	112565595
+genus lovoa	112720245
+genus loxia	101536421
+genus loxodonta	102506954
+genus loxoma	113224606
+genus loxostege	102311504
+genus lucilia	102194779
+genus lufengpithecus	102481170
+genus luffa	112186829
+genus lumpenus	102618459
+genus lunaria	111911864
+genus lunda	102050896
+genus lupinus	112566520
+genus luscinia	101562605
+genus lutjanus	102589496
+genus lutra	102447278
+genus luvarus	102634989
+genus lycaena	102284639
+genus lycaeon	102119282
+genus lychnis	111831777
+genus lycium	112925480
+genus lycoperdon	113064506
+genus lycopersicon	112926415
+genus lycopersicum	112926415
+genus lycopodium	113243567
+genus lycopus	112872809
+genus lycosa	101777871
+genus lyginopteris	111625847
+genus lygodium	112976789
+genus lygus	102240765
+genus lymantria	102288561
+genus lynx	102129603
+genus lyonia	112261232
+genus lyrurus	101798066
+genus lysichiton	111809395
+genus lysichitum	111809395
+genus lysiloma	111783175
+genus lysimachia	112115303
+genus lythrum	112348758
+genus macaca	102489848
+genus macadamia	112241511
+genus machaeranthera	112013476
+genus macleaya	111926828
+genus maclura	112420289
+genus macowanites	113068972
+genus macrocephalon	101804674
+genus macrocheira	101984852
+genus macroclemys	101669072
+genus macrodactylus	102177522
+genus macronectes	102062376
+genus macropus	101880048
+genus macrothelypteris	113249916
+genus macrotis	101879176
+genus macrotus	102144947
+genus macrotyloma	112568163
+genus macrozamia	111624081
+genus macrozoarces	102620586
+genus madia	112014401
+genus madoqua	102424258
+genus maeandra	101919808
+genus magicicada	102259801
+genus magnolia	111729919
+genus mahonia	111719752
+genus maia	101984525
+genus maianthemum	112493910
+genus maja	101984525
+genus majorana	112873690
+genus makaira	102633556
+genus malaclemys	101670600
+genus malacosoma	102309659
+genus malacothamnus	112203375
+genus malaxis	112092466
+genus malcolmia	111912307
+genus mallotus	102543770
+genus malope	112203835
+genus malopterurus	102521119
+genus malosma	112781482
+genus malpighia	112714954
+genus malus	112654147
+genus malva	112190932
+genus malvastrum	112204153
+genus malvaviscus	112204433
+genus mammea	112390528
+genus mammillaria	111870135
+genus mammut	102508440
+genus mammuthus	102507266
+genus mandevilla	111793607
+genus mandragora	112927094
+genus mandrillus	102489418
+genus manduca	102301485
+genus mangifera	112781883
+genus manglietia	111732440
+genus manihot	112947076
+genus manilkara	112794887
+genus manis	102464332
+genus manta	101503001
+genus mantis	102238563
+genus maranta	112371994
+genus marasmius	113027501
+genus marattia	113235961
+genus marchantia	111564243
+genus marmota	102363874
+genus marrubium	112874661
+genus marsilea	112978227
+genus martes	102452552
+genus martynia	112894594
+genus masdevallia	112092920
+genus masticophis	101734059
+genus mastigoproctus	101774265
+genus mastodon	102508440
+genus mastotermes	102227118
+genus matricaria	112015296
+genus matteuccia	113218698
+genus matthiola	111912929
+genus maxillaria	112093508
+genus maxostoma	101448639
+genus mayaca	112629381
+genus mayetiola	102192187
+genus mazama	102437229
+genus meconopsis	111927182
+genus medicago	112568639
+genus medinilla	112370008
+genus megachile	102213935
+genus megaderma	102147444
+genus megalobatrachus	101636219
+genus megalosaurus	101718024
+genus megaptera	102068252
+genus megatherium	102461306
+genus melampodium	112016152
+genus melampsora	113084696
+genus melanerpes	101843284
+genus melanitta	101856020
+genus melanogrammus	102526381
+genus melanoplus	102230082
+genus melanotis	101589789
+genus melastoma	112369608
+genus meleagris	101796629
+genus meles	102450527
+genus melia	112716521
+genus melicocca	112765416
+genus melicoccus	112765416
+genus melicytus	112411797
+genus melilotus	111771324
+genus melissa	112875203
+genus mellivora	102450831
+genus melocactus	111870605
+genus melogale	102451133
+genus melolontha	102177173
+genus melophagus	102201648
+genus melopsittacus	101824368
+genus melospiza	101539115
+genus melursus	102136892
+genus menippe	101980007
+genus meniscium	113250125
+genus menispermum	111733503
+genus menopon	102188346
+genus mentha	112875685
+genus menticirrhus	102599803
+genus mentzelia	112055892
+genus menura	101548066
+genus menyanthes	112505117
+genus menziesia	112262216
+genus mephitis	102448645
+genus mercenaria	101960564
+genus mercurialis	112944599
+genus mergus	101856864
+genus meriones	102346658
+genus merlangus	102525621
+genus merluccius	102527055
+genus merops	101831497
+genus mertensia	112842017
+genus meryta	111819627
+genus mesembryanthemum	111841220
+genus mesocricetus	102345839
+genus mesohippus	102378668
+genus mespilus	112656868
+genus mesua	112390901
+genus metasequoia	111660314
+genus metroxylon	112612284
+genus microcentrum	102230867
+genus micrococcus	101381757
+genus microdipodops	102353189
+genus microgramma	113197099
+genus micromeria	112877784
+genus micromyx	102334967
+genus micropogonias	102599222
+genus micropterus	102567203
+genus microsorium	113197421
+genus microsporum	113099412
+genus microstomus	102662297
+genus microstrobos	111677425
+genus microtus	102343760
+genus micruroides	101748704
+genus micrurus	101748421
+genus mikania	112016561
+genus millettia	112570154
+genus miltonia	112093911
+genus mimosa	111775102
+genus mimus	101589432
+genus minuartia	111832827
+genus mirabilis	111859766
+genus mirounga	102082943
+genus mitchella	112689125
+genus mitella	112821087
+genus mnium	111562030
+genus mobula	101503362
+genus moehringia	111833042
+genus mohria	112977551
+genus mola	102659180
+genus mollienesia	101452498
+genus molluga	111841884
+genus moloch	101691453
+genus molothrus	101577638
+genus molucella	112878354
+genus molva	102527643
+genus momordica	112187799
+genus momotus	101833440
+genus monarda	112878779
+genus monardella	112880248
+genus moneses	112278437
+genus monilia	113099569
+genus monocanthus	102656595
+genus monochamus	102171528
+genus monodon	102075007
+genus monomorium	102222553
+genus mononychus	101721273
+genus monotropa	112279180
+genus monstera	111809749
+genus montezuma	112211592
+genus montia	111881270
+genus morchella	113052716
+genus morone	102568956
+genus morus	112419495
+genus moschus	102437730
+genus motacilla	101530885
+genus mucor	112993962
+genus mucuna	112570481
+genus mugil	102604219
+genus muhlenbergia	112145915
+genus mulloidichthys	102603287
+genus mullus	102602765
+genus muntiacus	102437465
+genus muntingia	112214481
+genus mus	102334612
+genus musa	112372667
+genus musca	102193300
+genus muscardinus	102355689
+genus muscari	112481054
+genus muscicapa	101558681
+genus muscivora	101557813
+genus musophaga	101827796
+genus mustela	102444354
+genus mustelus	101494853
+genus mutinus	113061932
+genus mutisia	112016959
+genus mya	101959843
+genus myadestes	101563700
+genus mycobacterium	101379589
+genus mycoplasma	101376316
+genus mycteria	102007315
+genus mycteroperca	102572669
+genus mylodon	102461944
+genus myocastor	102369477
+genus myopus	102347865
+genus myosotis	112842496
+genus myotis	102149178
+genus myrciaria	112353383
+genus myrica	111761479
+genus myricaria	112407241
+genus myriophyllum	112347359
+genus myristica	111734619
+genus myrmecia	102224851
+genus myrmecobius	101888008
+genus myrmecophaga	102462906
+genus myrmeleon	102266500
+genus myroxylon	112571473
+genus myrrhis	112961187
+genus myrsine	112117530
+genus myrtillocactus	111870806
+genus myrtus	112350853
+genus mysis	101991895
+genus mytilus	101966517
+genus myxine	101481457
+genus myxinikela	101481970
+genus myxocephalus	102648747
+genus nabalus	112017261
+genus naemorhedus	102421294
+genus nageia	111677765
+genus naias	112632240
+genus naja	101750380
+genus najas	112632240
+genus nanomia	101915329
+genus napaea	112204854
+genus narcissus	112441839
+genus narthecium	112484079
+genus nasalis	102491691
+genus nasturtium	111913473
+genus nasua	102512036
+genus natrix	101739838
+genus nauclea	112689493
+genus naucrates	102582686
+genus nautilus	101971373
+genus necturus	101637033
+genus negaprion	101493187
+genus nelumbo	111737708
+genus nemophila	112856793
+genus neoceratodus	102519498
+genus neofiber	102340971
+genus neohygrophorus	113094286
+genus neolentinus	113071956
+genus neomys	101895517
+genus neophron	101620274
+genus neotoma	102342420
+genus nepa	102245321
+genus nepenthes	112802574
+genus nepeta	112880633
+genus nephelium	112765920
+genus nephrolepis	113225544
+genus nephrops	101986772
+genus nephthytis	111810265
+genus nerita	101949128
+genus neritina	101949661
+genus nerium	111794329
+genus nerodia	101739997
+genus nesokia	102336731
+genus nestor	101821345
+genus neurospora	112985081
+genus neurotrichus	101893786
+genus nicandra	112927686
+genus nicotiana	112928047
+genus nidularia	113067647
+genus nierembergia	112929192
+genus nigella	111757038
+genus nigroporus	113072306
+genus nimravus	102133728
+genus nipa	112612658
+genus nitella	101415712
+genus nitrobacter	101364837
+genus nitrosomonas	101365121
+genus noctiluca	101420194
+genus noctua	102298222
+genus nolina	112500326
+genus nomia	102213219
+genus nopalea	111871570
+genus nostoc	101361844
+genus notechis	101752956
+genus notemigonus	101444696
+genus nothofagus	112286417
+genus nothosaurus	101728720
+genus notomys	102337261
+genus notonecta	102243504
+genus notophthalmus	101633436
+genus notornis	102020261
+genus notoryctus	101888497
+genus notropis	101444266
+genus nucifraga	101584248
+genus numenius	102036098
+genus numida	101811630
+genus nuphar	111736754
+genus nuytsia	112759240
+genus nyctaginia	111856606
+genus nyctanassa	102013535
+genus nyctereutes	102118974
+genus nycticebus	102501519
+genus nycticorax	102013246
+genus nyctimene	102143009
+genus nymphaea	111735676
+genus nymphalis	102278024
+genus nymphicus	101822241
+genus nypa	112612658
+genus nyssa	112360719
+genus oceanites	102064078
+genus ochna	112403216
+genus ochotona	102331314
+genus ochroma	112211978
+genus ocimum	112881014
+genus octopus	101972671
+genus ocyurus	102590391
+genus odobenus	102084075
+genus odocoileus	102434785
+genus odontaspis	101489953
+genus odontoglossum	112094245
+genus odontophorus	101808087
+genus oecanthus	102233007
+genus oedogonium	101414512
+genus oenanthe	101564254 112961538
+genus oenothera	112364648
+genus oestrus	102197251
+genus okapia	102441917
+genus olea	112321142
+genus oleandra	113225000
+genus olearia	112018244
+genus olfersia	113219252
+genus oligoplites	102580163
+genus oligoporus	113072626
+genus ommastrephes	101974369
+genus omphalotus	113025926
+genus oncidium	112094706
+genus oncorhynchus	102538540
+genus ondatra	102340681
+genus oniscus	101994462
+genus onobrychis	112572586
+genus onoclea	113219626
+genus ononis	112573163
+genus onopordon	112019117
+genus onopordum	112019117
+genus onosmodium	112843044
+genus onychium	113232203
+genus onychogalea	101881141
+genus onychomys	102340426
+genus opheodrys	101732479
+genus ophiodon	102555525
+genus ophioglossum	112980971
+genus ophiophagus	101751201
+genus ophisaurus	101692980
+genus ophrys	112095179
+genus opisthocomus	101812233
+genus opuntia	111871864
+genus orbignya	112613112
+genus orchestia	101995719
+genus orchis	112063717
+genus orcinus	102073825
+genus oreamnos	102420987
+genus orectolobus	101489052
+genus oreopteris	113250256
+genus oreortyx	101811088
+genus origanum	112873486
+genus oriolus	101578582
+genus orites	112242460
+genus ormosia	112573819
+genus ornithogalum	112479976
+genus ornithorhynchus	101875785
+genus orontium	111810708
+genus ortalis	101802927
+genus orthilia	112277657
+genus orthopristis	102592585
+genus orthotomus	101568723
+genus orycteropus	102085284
+genus oryctolagus	102327369
+genus oryx	102430875
+genus oryza	112146299
+genus oryzomys	102343173
+genus oryzopsis	112146755
+genus osmanthus	112329920
+genus osmerus	102543268
+genus osmunda	112973839
+genus ostrea	101963541
+genus ostrya	112307905
+genus ostryopsis	112308705
+genus otaria	102080811
+genus othonna	112019609
+genus otis	102021698
+genus otus	101625925
+genus ouranopithecus	102481047
+genus ovalipes	101982036
+genus ovibos	102413721
+genus ovis	102414073
+genus oxalis	112723466
+genus oxandra	111716807
+genus oxybelis	101741901
+genus oxydendrum	112262804
+genus oxylebius	102651712
+genus oxytropis	112574747
+genus oxyura	101852388
+genus oxyuranus	101753994
+genus ozonium	113103471
+genus ozothamnus	112019924
+genus pachycephala	101559009
+genus pachyrhizus	112575574
+genus pachysandra	112767493
+genus packera	112020427
+genus padda	101546149
+genus paeonia	111739589
+genus pagellus	102594123
+genus pagophila	102044996
+genus pagophilus	102082674
+genus pagrus	102593835
+genus pagurus	101988713
+genus palaemon	101989994
+genus palaquium	112795651
+genus paleacrita	102289856
+genus palinurus	101987188
+genus paliurus	113164403
+genus palometa	102636185
+genus pan	102484260
+genus panax	111819989
+genus pandanus	112175145
+genus pandion	101618590
+genus panicum	112147428
+genus panonychus	101785019
+genus panthera	102130772
+genus papaver	111921455
+genus paphiopedilum	112095996
+genus papio	102489196
+genus paprilus	102636474
+genus paracheirodon	102586635
+genus paradoxurus	102140694
+genus paralichthys	102663947
+genus paralithodes	101983778
+genus paramecium	101398526
+genus paranthias	102572401
+genus paranthropus	102480147
+genus parascalops	101892674
+genus parasitaxus	111678214
+genus parathelypteris	113250645
+genus parietaria	112415011
+genus paris	112489877
+genus parkia	111783942
+genus parkinsonia	112517997
+genus parmelia	113012405
+genus parnassia	112822083
+genus parochetus	112576225
