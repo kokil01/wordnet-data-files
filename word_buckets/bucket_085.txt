@@ -1,63 +1,3 @@
-mercury-in-glass clinical thermometer	103047408
-mercury-in-glass thermometer	103755298
-mercury-vapor lamp	103755697
-mercy	101073335 101229984 104836513 107570065 114498019
-mercy killing	100220723
-mercy seat	103755928 103756031
-mere	109374444 301103400 301797082
-meredith	111195865 111195995
-merely	400005103
-merestone	107274106
-meretricious	302189932 302402358 302774456
-meretriciously	400402632
-meretriciousness	104825931 104882308
-merganser	101857056
-merge	200244010 200368338 200395719
-merged	302487032
-mergenthaler	111196220
-merger	101240989 107388202
-merger agreement	106539701
-merginae	101856688
-merging	100147676 100381689 300615006
-mergus	101856864
-mergus albellus	101857829
-mergus merganser	101857341
-mergus merganser americanus	101857479
-mergus serrator	101857673
-mericarp	111698828
-merida	108758200
-meridian	108616379 109127772 113963489 301492920 302877465
-meridional	301610027 302774596
-meringue	107636749
-meringue kiss	107622636
-merino	102416936
-merino sheep	102416936
-meriones	102346658
-meriones longifrons	102347060
-meriones unguiculatus	102346922
-meristem	113151644
-merit	104814129 105146223 202652462
-merit badge	106896003
-merit pay	113301396
-merit system	105672331
-meritable	302597188
-merited	301374064
-meritless	302512593
-meritocracy	106228761 107989535
-meritocratic	303097430
-meritorious	302597188
-meritoriously	400402786
-meritoriousness	104814129
-meriwether lewis	111150930
-merl	101561235
-merlangus	102525621
-merlangus merlangus	102525741
-merle	101561235
-merlin	101614916 111196378
-merlon	103756105
-merlot	107911814 113167822
-merluccius	102527055
-merluccius bilinearis	102527290
 mermaid	109512731
 merman	109512827 111196517
 merodach	109542423
@@ -998,3 +938,63 @@ military capability	105210917
 military censorship	100822956
 military ceremony	101030323 107467673
 military chaplain	110336185
+military commission	106490659
+military control	101135427
+military court	108351014
+military drill	100898046
+military engineer	109828961
+military expedition	100970583
+military force	108215338
+military formation	108443773
+military government	108069755
+military governor	110336341
+military greeting	106645548
+military group	108215338
+military headquarters	103509564
+military hospital	103768517
+military installation	103768668
+military intelligence	106655530 108356633
+military intelligence agency	108356633
+military intelligence section 5	108364133
+military intelligence section 6	108363582
+military issue	113388766
+military junta	108258885
+military law	108472282
+military leader	110336520
+military machine	108215965
+military man	110602198
+military march	107072508
+military mission	100972749
+military music	107072508
+military officer	110336665
+military operation	100957171
+military pace	113677526
+military personnel	108414212 110602198
+military plane	104559634
+military police	108228211
+military policeman	110337158
+military position	108640161
+military post	103768938
+military posture	105210917
+military press	100628253
+military quarters	103769262
+military rank	114454897
+military rating	114454897
+military recruit	110531965
+military reserve	108223381
+military science	106258173
+military service	100581014 108215077
+military strength	105210917
+military training	100897199
+military uniform	103769503
+military unit	108215338
+military vehicle	103769811
+military volunteer	110778999
+military-industrial complex	107985813
+militate	202435976
+militia	108407468 108407688
+militiaman	110337375
+milium	105252969
+milk	105406377 107860018 107860580 109377677 200194514 200194717 201167222
+milk adder	101737449
+milk bar	103770141

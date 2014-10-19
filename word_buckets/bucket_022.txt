@@ -1,23 +1,3 @@
-cardinalis cardinalis	101544027
-cardinality	113612789
-cardinalship	100590985
-cardiogenic shock	114090963
-cardiogram	107017173
-cardiograph	102784787 102966939
-cardiographic	302690888
-cardiography	100833753
-cardioid	113932647
-cardioid microphone	102967128
-cardioid mike	102967128
-cardiologic	302926215
-cardiologist	109913897
-cardiology	106056806
-cardiomegaly	114358036
-cardiomyopathy	114134448
-cardiopathy	114126770
-cardiopulmonary	302690979
-cardiopulmonary arrest	114048052
-cardiopulmonary exercise	100436503
 cardiopulmonary resuscitation	100834287
 cardiorespiratory	302690979
 cardiospasm	100227578
@@ -998,3 +978,23 @@ catholic reaction force	108041161
 catholic school	108428326
 catholicise	200387237
 catholicism	106237394
+catholicity	104772946 106237394
+catholicize	200387237
+catholicon	103886467
+catholicos	109921239
+cathouse	104588881
+cation	109261200
+cationic	302941700
+cationic detergent	114827865
+catjang pea	112531279
+catkin	111695249
+catkinate	302695219
+catling	102988961
+catmint	112880746
+catnap	100860015 200015491
+catnip	112880746
+catocala nupta	102298673
+catoptric	302695294
+catoptrical	302695294
+catoptrics	106110787
+catoptrophorus	102033363

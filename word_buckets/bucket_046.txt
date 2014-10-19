@@ -1,38 +1,3 @@
-explorer's gentian	112315059
-explosion	100378172 100573743 107027968 107131151 107323181 107398296 107428668
-explosive	103309675 300476610 301147494 302300305
-explosive charge	103011879
-explosive compound	103310080
-explosive detection system	103310245
-explosive device	103310467
-explosive mixture	103310789
-explosive trace detection	103310898
-explosive unit	113624165
-explosively	400336120 400336240
-expo	108424576
-exponent	106825275 109641790 109794206
-exponential	113811674 302976819
-exponential curve	113811963
-exponential decay	113499258
-exponential equation	113811839
-exponential expression	113812061
-exponential function	113811674
-exponential return	113499258
-exponential series	113812216
-exponentially	400336392
-exponentiation	100874089
-export	103311152 201381762 202237659 202351405
-export credit	113400279
-export duty	113338963
-exportable	300880298
-exportation	101113857 103311152
-exporter	110093422
-exporting	101113857
-expose	107230228 200616135 200854877 200935783 201038191 201342187 202116512 202117913 202142175 202144506
-exposed	300461363 301892719
-exposit	200957633 201003339
-exposition	106754688 106754868 106755121 108424576
-expositive	301327822
 expositor	110093550
 expository	301327822
 expostulate	200775330
@@ -214,7 +179,6 @@ extralegal	301406473
 extralinguistic	302890839
 extramarital	301555136
 extramarital sex	100849912
-
 extramural	301349986
 extraneous	301353073 301353342 301983596 302124744
 extraneousness	113818797
@@ -371,7 +335,6 @@ eysenck personality inventory	106486978
 ezechiel	106450418 110984512
 ezed	106846940
 ezekias	111069123
-
 ezekiel	106450418 110984512
 ezo	108940495
 ezo-yama-hagi	112563691
@@ -998,3 +961,40 @@ family bennettitaceae	111624844
 family berberidaceae	111717627
 family betulaceae	112301004
 family bible	106459953
+family bignoniaceae	112834153
+family bittacidae	102165483
+family blastodiaceae	112999414
+family blattidae	102236229
+family blechnaceae	113205390
+family blenniidae	102615612
+family boidae	101744385
+family boletaceae	113074971
+family bombacaceae	112209502
+family bombycidae	102302670
+family bombycillidae	101605957
+family bombyliidae	102198345
+family boraginaceae	112836685
+family bothidae	102663399
+family bovidae	102402791
+family bradypodidae	102459407
+family bramidae	102585068
+family branchiobdellidae	101938384
+family branchiostegidae	102585550
+family branchiostomidae	101470145
+family brassicaceae	111887994
+family brevicipitidae	101655224
+family bromeliaceae	112627668
+family brotulidae	102561611
+family bruchidae	102184515
+family bryaceae	111561421
+family buccinidae	101949916
+family bucconidae	101845021
+family bucerotidae	101831784
+family bufonidae	101648275
+family burhinidae	102042596
+family burmanniaceae	112107724
+family burseraceae	112711149
+family business	108400640
+family buxaceae	112766548
+family cactaceae	111861998
+family caeciliadae	101657757

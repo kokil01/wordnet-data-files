@@ -1,113 +1,3 @@
-thamnophilus	101556261
-thamnophis	101737703
-thamnophis proximus	101738369
-thamnophis sauritus	101738218
-thamnophis sirtalis	101738080
-thanatology	106163204
-thanatophobia	114408007
-thanatopsis	106421926
-thanatos	109203864 109578643
-thane	110724535 110724749
-thaneship	100606025
-thank	200893836
-thank offering	113294073
-thank you	107243905
-thankful	301149996
-thankfully	400201311 400201415
-thankfulness	107519768
-thankless	301150547 302023359
-thankless wretch	110226382
-thanks	101211287 107243631
-thanksgiving	107204699 115225951
-thanksgiving cactus	111874948
-thanksgiving day	115225951
-thar desert	109196314
-tharp	111357624
-that is to say	400190022
-thatch	104424807 105268809 111353998 115094279 201236402
-thatch palm	112618559
-thatch tree	112618559
-thatched roof	104424807
-thatcher	110724860 111357774
-
-thatcherism	105996407
-thatcherite	110724994
-thaumatolatry	101047444
-thaumaturge	110645222
-thaumaturgist	110645222
-thaumaturgy	100100771 105976844
-thaw	107458139 111502540 113587738 200376777
-thawed	301083885 301510340
-thawing	111502540 113587738
-thb	106712689
-thc	104423920
-thd	106717245
-the absurd	113951224
-the admirable crichton	110934777
-the alps	109217235
-the boot	102876605
-the city	108090191 108894500
-the devil	100625387
-the flood	111475803
-the gambia	108965594
-the great calamity	107330565
-the great charter	106488674
-the great compromiser	110919703
-the great hunger	107330565
-the great starvation	107330565
-the great unwashed	108197108
-the hague	108970180
-the halt	107963102
-the hill	109093847
-the holy see	109183883
-the hots	107505278
-the indies	108764887
-the irish famine	107330565
-the least bit	400057267
-the like	105854415
-the likes of	105854415
-the nazarene	111103646
-the netherlands	108968866
-the other way around	400179172
-the pamirs	109407116
-the pits	108600365
-the purple	103268195 114455697
-the shits	114395691
-the skinny	106648638
-the star-spangled banner	107063331
-the states	109067337
-the street	108090304
-the tempter	109566482
-the three estates	108184264
-the trots	114395691
-the true	113979774
-the venerable bede	110860365
-the virgin	111181402
-the way of the world	101228778
-the ways of the world	101228778
-the whole way	400153124
-thea	109599342
-theaceae	112949821
-theanthropism	105775383 105775577
-theater	104424944 107019235 108569203
-theater company	108204378
-theater critic	110049872
-theater curtain	104425492
-theater director	110034960
-theater in the round	102739650
-theater light	104425779
-theater of operations	108569203
-theater of the absurd	107022277
-theater of war	108568995
-theater prompter	110501999
-theater stage	104425953
-theater ticket	106531719
-theatergoer	110460291
-theatre	104424944 107019235 108569203
-theatre curtain	104425492
-theatre director	110034960
-theatre of operations	108569203
-theatre of war	108568995
 theatre stage	104425953
 theatre ticket	106531719
 theatregoer	110460291
@@ -998,3 +888,113 @@ thunderbolt	107313014 111539554
 thunderclap	107313014 107412152
 thundercloud	109284678
 thunderer	104439059 109597528
+thunderhead	109480823
+thundering	301289379 301928429
+thunderous	300179764 301456246
+thundershower	111522406
+thunderstorm	111539686
+thunderstruck	302366833
+thundery	300306832 301456246
+thunk	107412241
+thunnus	102629220
+thunnus alalunga	102629667
+thunnus albacares	102630162
+thunnus thynnus	102629922
+thurber	111361755
+thurible	102996823
+thurifer	110729820
+thurify	202131151
+thuringia	108794153
+thursday	115189401
+thus	114898102 400043413 400122019
+thus far	400028314
+thusly	400122019
+thwack	100134387 201417570
+thwart	104439177 202563998
+thwarted	302341968
+thwarter	110368974
+thwarting	100068810 301769257
+thwartwise	301448808
+thylacine	101887117
+thylacinus	101886989
+thylacinus cynocephalus	101887117
+thylogale	101881736
+thyme	107837734 112891295
+thyme camphor	115098130
+thyme-leaved sandwort	111827283
+thyme-leaved speedwell	112912773
+thymelaeaceae	112366696
+thymelaeales	112343404
+thymic acid	115098130
+thymidine	115097991
+thymine	115097424
+thymol	115098130
+thymosin	105420445
+thymus	105340117 112891152
+thymus gland	105340117
+thymus serpyllum	112891651
+thymus vulgaris	112891442
+thyreophora	101703975
+thyreophoran	101703975
+thyrocalcitonin	105420808
+thyroglobulin	114946917
+thyroid	105337792 302992547 302992761
+thyroid cartilage	105537929
+thyroid gland	105337792
+thyroid hormone	105420584
+thyroid vein	105390941
+thyroid-stimulating hormone	115098540
+thyroidal	302992761
+thyroidectomy	100689473
+thyroiditis	114380565
+thyromegaly	114222959
+thyronine	115099023
+thyroprotein	114946775
+thyrotoxic	302992656
+thyrotoxicosis	114144249
+thyrotrophic hormone	115098540
+thyrotrophin	115098540
+thyrotropic hormone	115098540
+thyrotropin	115098540
+thyrotropin-releasing factor	115098770
+thyrotropin-releasing hormone	115098770
+thyroxin	105420990
+thyroxine	105420990
+thyrse	113153515
+thyrsopteris	113212782
+thyrsopteris elegans	113212782
+thyrsus	113153515
+thysanocarpus	111919496
+thysanopter	102274222
+thysanoptera	102274079
+thysanopteron	102274222
+thysanopterous insect	102274222
+thysanura	102272481
+thysanuran insect	102272663
+thysanuron	102272663
+thz	115305326
+ti	106882179 112499011 114683390
+tia	114190071
+tiamat	109545357
+tianjin	108746715
+tiara	104439337
+tiarella	112824277
+tiarella cordifolia	112824514
+tiarella unifoliata	112824718
+tib	113650943
+tiber	109480981
+tiberius	111361965
+tiberius claudius drusus nero germanicus	110919166
+tiberius claudius nero caesar augustus	111361965
+tibet	108926725
+tibetan	106946708 109753882 302977241
+tibetan buddhism	106251955
+tibetan mastiff	102111203
+tibetan terrier	102100126
+tibeto-burman	106943976
+tibeto-burman language	106943976
+tibia	105602122
+tibia valga	114583575
+tibia vara	105569467
+tibial	302826074
+tibial vein	105391643

@@ -1,6 +1,3 @@
-allium sphaerocephalum	112456470
-allium tricoccum	112455843
-allium triquetrum	112456595
 allium tuberosum	112456282
 allium ursinum	112456154
 allium vineale	112455991
@@ -532,7 +529,6 @@ ambrose bierce	110870735
 ambrose everett burnside	110893524
 ambrose gwinett bierce	110870735
 ambrosia	107625904 107626111 111939916 114798251
-
 ambrosia artemisiifolia	111940230
 ambrosia psilostachya	111940602
 ambrosia trifida	111940444
@@ -998,3 +994,7 @@ amphibious vehicle	102707651
 amphibole	114689946
 amphibole group	114690191
 amphibolips	102219702
+amphibolite	114690548
+amphibology	106617096
+amphiboly	106617096
+amphibrach	107110182

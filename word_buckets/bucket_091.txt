@@ -1,69 +1,3 @@
-new zealand wren	101591072
-new zealander	109743947 303143148
-new-fangled	301646326
-new-made	301072287
-new-mown	301570616
-new-sprung	301646166
-newari	106946797
-newark	109136415
-newbie	110375148
-newborn	110372747 301646166 301653626
-newburg sauce	107886710
-newburgh	109147511
-newcastle	108899615
-newcastle disease	114298303
-newcastle-upon-tyne	108899615
-newcomb	111224845
-newcomer	110375148 110375387
-newel	103826964 103827058
-newel post	103827058
-newfangled	301646326
-newfound	301646523
-newfoundland	102113929 108844203
-newfoundland and labrador	108843929
-newfoundland dog	102113929
-newfoundland dwarf birch	112304307
-newgate	103827200
-newly	400113522
-newlywed	110375765
-newman	111224952 111225236
-newmarket	100494319 103827438
-newness	104933604
-newport	108915724 109160390
-newport news	109173417
-news	105200165 106632357 106654787 106654987 106693922
-news agency	108372002
-news article	106279783
-news bulletin	106695239
-news conference	107159542
-news event	107415431
-news item	106495028
-news leak	107229845
-news magazine	106608678
-news media	106277070
-news organisation	108372002
-news organization	108372002
-news photography	106277531
-news program	106632357
-news reader	110376576
-news report	106694296
-news show	106632357
-news story	106279783
-newsagent	110375912
-newsboy	109917055
-newsbreak	106695239
-newscast	106696104
-newscaster	110376043
-newsdealer	110375912
-newsflash	106695239
-newsless	301308659 301312383
-newsletter	106694721
-newsman	110541255
-newsmonger	110158867
-newspaper	103827711 106277798 108079806 114985861
-newspaper ad	107264094
-newspaper advertisement	107264094
-newspaper article	106279783
 newspaper clipping	106625002
 newspaper column	106279220
 newspaper columnist	110376291
@@ -180,7 +114,6 @@ nickel-base alloy	114986256
 nickel-cadmium accumulator	103828852
 nickel-iron accumulator	103829213
 nickel-iron battery	103829213
-
 nickelodeon	103609369
 nicker	107401916 201061615
 nicker nut	111709666
@@ -998,3 +931,70 @@ nonopening	301658725
 nonoperational	301665283
 nonoscillatory	301977751
 nonparallel	301724326 302388926
+nonparametric	302922801
+nonparametric statistic	106032076
+nonparametric statistics	106043631
+nonparasitic	300732437
+nonpareil	107620449 107636873 110344909 300507322
+nonparticipant	110380995
+nonparticipation	101242052
+nonparticulate	301728670
+nonparticulate radiation	111471253
+nonpartisan	110381089 300734736
+nonpartisanship	106212421
+nonpartizan	110381089 300734736
+nonpasserine	302785982
+nonpasserine bird	101527402
+nonpayment	101123176 113321164 113321434
+nonperformance	100740568
+nonperiodic	301977529
+nonperson	110381224
+nonpersonal	301774268
+nonphotosynthetic	302788638
+nonphysical	300630484
+nonplus	200624056
+nonplused	301770438
+nonplussed	301770438
+nonpoisonous	300832685 302459992
+nonpolar	302762139
+nonpolitical	301820414
+nonporous	300330593
+nonpregnant	300174955
+nonprehensile	300130101
+nonprescription	301852128
+nonproductive	301873139
+nonprofessional	301875320
+nonprofit	101139918 300486668
+nonprofit organization	101139918
+nonprognosticative	301889818
+nonprogressive	300577235
+nonproliferation	101080496
+nonproliferation center	108142704
+nonproprietary	301113070
+nonprotractile	300948226
+nonpsychoactive	301782618
+nonpublic	301866147
+nonpurulent	302123677
+nonracial	301934780
+nonracist	300287336
+nonradioactive	300428752
+nonrandom	301931557
+nonrapid eye movement	114048949
+nonrapid eye movement sleep	114048949
+nonrational	301434344 301933320
+nonreader	110218722 110381600
+nonreciprocal	301953528
+nonreciprocating	301953638
+nonrecreational	301875076
+nonreflecting	302015476
+nonreflective	302015476
+nonreligious person	109648959
+nonremittal	113321164 113321434
+nonrenewable	301969942
+nonrepetitive	301971600
+nonrepresentational	301987315
+nonrepresentative	301989603
+nonresident	110381702 302132982
+nonresidential	300487240
+nonresilient	300849395
+nonresinous	300055382

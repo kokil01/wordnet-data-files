@@ -1,28 +1,3 @@
-cyme	113153699
-cymene	114852149
-cymling	112180642
-cymograph	103634934
-cymose	300744823
-cymric	106974297
-cymru	108914683
-cymry	109766660
-cymule	113153899
-cynancum	113257393
-cynara	111979958
-cynara cardunculus	111980331
-cynara scolymus	111980101
-cynewulf	110939248
-cynic	110006070 110006238
-cynical	302472810
-cynically	400291936
-cynicism	107558592
-cynipid gall wasp	102219392
-cynipid wasp	102219392
-cynipidae	102219199
-cynips	102219576
-cynocephalidae	102504843
-cynocephalus	102504988
-cynocephalus variegatus	102505438
 cynodon	112136080
 cynodon dactylon	112136265
 cynodon plectostachyum	112136575
@@ -425,7 +400,6 @@ damaging	300590583 301165528
 damaliscus	102424895
 damaliscus lunatus	102425037
 damar	114919958
-
 damaraland mole rat	102372789
 damascene	103165259 109753012 201686341 301800119 303071093
 damascus	109056411
@@ -655,7 +629,6 @@ dark lantern	103166963
 dark matter	114606400
 dark meat	107666246
 dark red	104970917
-
 dark-blue	300375539
 dark-brown	300373173
 dark-coated	300215108
@@ -849,7 +822,6 @@ david garrick	111011411
 david glasgow farragut	110986974
 david grun	110864401
 david hartley	111052999
-
 david herbert lawrence	111140136
 david hilbert	111069830
 david hubel	111083939
@@ -925,7 +897,6 @@ day of the week	115188052
 day off	115162508
 day return	106532083
 day school	103170282 108428542 108428806
-
 day shift	108235513 115317965
 day watch	108235513
 day-after-day	301975230
@@ -998,3 +969,32 @@ de niro	110950664
 de novo	400113930
 de quincey	110950918
 de rigueur	300852103
+de sade	111298110
+de saussure	110951385
+de sica	110951891
+de spinoza	111331445
+de valera	110951995
+de vries	110952246
+de-access	202252557
+de-aerate	202368971
+de-emphasise	200515811
+de-emphasize	200515811
+de-energise	200023237
+de-energize	200023237
+de-escalate	200291502 200291745
+de-escalation	100356078
+de-ice	200377478
+de-iodinase	114853243
+de-iodinate	200522113
+de-iodinating	301234978
+de-iodination	113482066
+de-ionate	200521840
+de-nazification	113482925
+de-stalinisation	113484859
+de-stalinization	113484859
+dea	108158374
+deaccession	202248749
+deacon	110014058 110014211
+deaconess	110014346
+deactivate	200191849 200192060
+deactivation	100234481 100234662

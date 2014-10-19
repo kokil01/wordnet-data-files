@@ -1,79 +1,3 @@
-personalize	200388736
-personalized	301772764 301773481
-personally	400132870 400132968 400133132 400368062 400368189
-personalty	113266525
-personate	200729535 200838967
-personation	100549839 100550321
-personhood	104626138
-personification	100935074 107122808 110437846
-personify	200729535 202703567 202704786
-personnel	108135966 108224937
-personnel carrier	103925218
-personnel casualty	107355325
-personnel department	108135966
-personnel office	108135966
-personnel pouch	102866110
-persoonia	112242851
-perspective	104683665 106218486
-perspex	114618212
-perspicacious	300775362 302580114
-perspicaciousness	105629222
-perspicacity	104899279 105629222
-perspicuity	104828846
-perspicuous	300430851
-perspicuously	400391499
-perspicuousness	104828846
-perspiration	105413094 113556464
-perspire	200067316
-perspirer	110438480
-persuadable	302370402
-persuade	200768463 202592213
-persuader	110438586
-persuasible	302370402
-persuasion	105954491 107259785
-persuasive	301774367
-persuasively	400422738
-persuasiveness	105199100
-pert	302287824
-pertain	202659801 202681865
-pertainym	106333350
-perth	108853798
-pertinacious	302335561
-pertinaciously	400422859
-pertinacity	104871746
-pertinence	113817392
-pertinency	113817392
-pertinent	300139582 301982897
-pertinently	400423009
-pertly	400368286
-pertness	104640060 104657008
-perturb	200277400 201768023 202069257 202069580
-perturbation	100554210 104912173 107443050 111434988 114426686
-perturbed	300534780
-perturbing	301192929
-pertusaria	113010061
-pertusariaceae	113009902
-pertussis	114168108
-peru	109001424
-peruke	103923449
-peruked	302575413
-perusal	106610798
-peruse	202157242
-perusing	106610798
-perutz	111250967
-peruvian	109745913 302977699
-peruvian balsam	112571962
-peruvian bark	112685471
-peruvian cotton	112197646
-peruvian current	111510278
-peruvian lily	112459288
-peruvian mastic tree	112785875
-peruvian monetary unit	113702378
-pervade	201231635
-pervaporate	200367894 200368069
-pervaporation	100376156
-pervasion	113556157
-pervasive	300470786
 pervasively	400423235
 pervasiveness	104772421
 perverse	300624143 301618393 301824324
@@ -998,3 +922,79 @@ phylogeny	113498226
 phylum	108119521 108120601
 phylum acanthocephala	101925812
 phylum annelida	101936848
+phylum arthropoda	101769840
+phylum aschelminthes	101932037
+phylum brachiopoda	102317961
+phylum bryozoa	102316147
+phylum chaetognatha	101926278
+phylum chordata	101468635
+phylum cnidaria	101911752
+phylum coelenterata	101911752
+phylum cryptophyta	101423653
+phylum ctenophora	101920951
+phylum cycliophora	102317369
+phylum echinodermata	102319044
+phylum ectoprocta	102316653
+phylum entoprocta	102316973
+phylum mollusca	101943129
+phylum nematoda	101932037
+phylum nemertea	101931001
+phylum nemertina	101931001
+phylum phoronida	102315847
+phylum platyhelminthes	101927231
+phylum pogonophora	101931378
+phylum porifera	101909193
+phylum protozoa	101391829
+phylum pyrrophyta	101391633
+phylum rotifera	101931688
+phylum sipuncula	102318348
+physa	101955353
+physalia	101915676
+physalis	112930901
+physalis alkekengi	112931635
+physalis ixocarpa	112932200
+physalis peruviana	112931839
+physalis philadelphica	112932433
+physalis pruinosa	112932024
+physalis pubescens	112931436
+physalis viscosa	112932674
+physaria	111913920
+physeter	102069753
+physeter catodon	102069893
+physeteridae	102069603
+physiatrics	100701253
+physic	104032142
+physic nut	112946343
+physical	300629845 300630045 300845863 300877400 301578652 301782757 302790581
+physical ability	105208927
+physical anthropology	106156592
+physical attraction	107503095
+physical body	105224424
+physical change	113557219
+physical chemistry	106099035
+physical composition	104940721
+physical condition	114057659
+physical contact	100125700
+physical education	105764885
+physical entity	100001930
+physical exercise	100625978
+physical exertion	100625978
+physical fitness	114570034
+physical geography	106132052
+physical object	100002684
+physical pendulum	103934030
+physical phenomenon	111439518
+physical process	100029976
+physical property	105016354
+physical rehabilitation	100401803
+physical restoration	100401803
+physical science	106104194
+physical therapist	110447528
+physical therapy	100701253
+physical topology	105739168
+physical value	113324067
+physicalism	105981452
+physicality	104631874
+physically	400116161
+physicalness	104768026
+physician	110040615

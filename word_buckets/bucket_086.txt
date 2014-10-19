@@ -1,64 +1,3 @@
-military commission	106490659
-military control	101135427
-military court	108351014
-military drill	100898046
-military engineer	109828961
-military expedition	100970583
-military force	108215338
-military formation	108443773
-military government	108069755
-
-military governor	110336341
-military greeting	106645548
-military group	108215338
-military headquarters	103509564
-military hospital	103768517
-military installation	103768668
-military intelligence	106655530 108356633
-military intelligence agency	108356633
-military intelligence section 5	108364133
-military intelligence section 6	108363582
-military issue	113388766
-military junta	108258885
-military law	108472282
-military leader	110336520
-military machine	108215965
-military man	110602198
-military march	107072508
-military mission	100972749
-military music	107072508
-military officer	110336665
-military operation	100957171
-military pace	113677526
-military personnel	108414212 110602198
-military plane	104559634
-military police	108228211
-military policeman	110337158
-military position	108640161
-military post	103768938
-military posture	105210917
-military press	100628253
-military quarters	103769262
-military rank	114454897
-military rating	114454897
-military recruit	110531965
-military reserve	108223381
-military science	106258173
-military service	100581014 108215077
-military strength	105210917
-military training	100897199
-military uniform	103769503
-military unit	108215338
-military vehicle	103769811
-military volunteer	110778999
-military-industrial complex	107985813
-militate	202435976
-militia	108407468 108407688
-militiaman	110337375
-milium	105252969
-milk	105406377 107860018 107860580 109377677 200194514 200194717 201167222
-milk adder	101737449
-milk bar	103770141
 milk can	103770271
 milk chocolate	107619916
 milk cow	102408826
@@ -319,7 +258,6 @@ miniaturist	110339764
 miniaturization	100361427
 miniaturize	200242382
 minibar	103775145
-
 minibike	103775257
 minibus	103775416
 minicab	103775502
@@ -663,7 +601,6 @@ misrepresented	301314022
 misrule	101127883
 miss	106352619 107334374 110149362 200616690 200812219 201240465 201809490 202026505 202132318 202619707 202638434 202638919
 miss.	109126551
-
 missal	106428922
 missed	300537393
 missel thrush	101560603
@@ -998,3 +935,66 @@ modulus	113608966 113752487 113757762
 modulus of elasticity	113609166
 modulus of rigidity	113609584
 modus operandi	101028424
+modus vivendi	104937809 107193852
+moehringia	111833042
+moehringia lateriflora	111833379
+moehringia mucosa	111833546
+moeller's glossitis	114370739
+mogadiscio	109021223
+mogadishu	109021223
+mogdad coffee	112521256
+mogen david	106895383
+moghul	110346549
+mogul	109859605 110346549 113918242
+mogul empire	108422830
+mohair	103784661
+mohammad	111204082
+mohammed	111204082
+mohammed ali	111204263
+mohammed reza pahlavi	111240451
+mohammed reza pahlevi	111240451
+mohammedan	110346668 303046627
+mohammedan calendar	115203888
+mohammedanism	106244979
+mohandas karamchand gandhi	111009335
+moharram	115242104
+mohave	106935959 109193893 109681248
+mohave desert	109193893
+mohawk	105268427 106929089 109681436
+mohawk haircut	105268427
+mohawk river	109379826
+mohican	106923734 109681578
+moho	109379977
+mohorovicic	111204521
+mohorovicic discontinuity	109379977
+mohria	112977551
+mohria caffrorum	112977682
+mohs scale	113873874
+moiety	108389226 113759229
+moil	200218640 201889423 202424873
+moira shearer	111316765
+moirae	109588228
+moirai	109588228
+moire	103784779 301793868
+moist	302559590
+moisten	200218382 201378747
+moistener	103165682
+moistening	100278884
+moistly	400298995
+moistness	114559507
+moisture	114559033
+moisturise	200216226
+moisturize	200216226
+mojarra	102639484
+mojave	106935959 109193893 109681248
+mojave aster	112014144
+mojave desert	109193893
+mojave rattlesnake	101759756
+mojo	105977076
+moke	102392517
+moksa	107336257
+mokulu	106998382
+mol	113746191
+mola	102659300
+mola lanceolata	102659599
+molal	302911633

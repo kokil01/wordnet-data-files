@@ -1,56 +1,3 @@
-jebel musa	109344600
-jed'dah	109017204
-jeddah	109017204
-jeep	103600138
-jeer	106729173 200851872
-jeerer	110580748
-jeering	106729173 302002696
-jeeringly	400349656
-jeffers	111101663
-jefferson	111101818
-jefferson city	109129534
-jefferson davis	110944401
-jefferson davis' birthday	115214519
-jeffersonian	110240477 302763268
-jeffrey pine	111635164
-jeffrey's pine	111635164
-jehad	100998599
-jehovah	109559474 109561429
-jehovah's witness	110268074
-jehovah's witnesses	108108541
-jejunal artery	105356246
-jejune	301348845 301495744 302344882
-jejunely	400385631
-jejuneness	104798663 105213841 114449972
-jejunitis	114371475
-jejunity	104798663 105213841
-jejunoileitis	114371581
-jejunostomy	100682694
-jejunum	105542880
-jekyll and hyde	110240594
-jell	200443624
-jell-o	107629424
-jellaba	103600248
-jelled	302268326
-jellied	302268326
-jellify	200508224 200508412
-jello	107629424
-jelly	107658915 107659590 114949336 200508224
-jelly bean	107622278
-jelly doughnut	107654953
-jelly egg	107622278
-jelly fungus	113080950
-jelly roll morton	111213048
-jellyfish	101913388 101915807
-jellyleaf	112207071
-jellylike	302425406
-jellyroll	107647966
-jem	108042950
-jemaah islamiyah	108044271
-jemmy	103604544
-jena	101284782
-jenghiz khan	111014304
-jenner	111102125
 jennet	102392667
 jenny	102392667 111102343
 jenny ass	102392667
@@ -998,3 +945,56 @@ june 14	115214673
 june 21	115246808
 june 23	115247165
 june 24	115246998
+june 29	115218611
+june 3	115214519
+june beetle	102175522
+june bug	102175522
+june grass	112152284
+juneau	109078249
+juneberry	107761637 112644285
+juneberry holly	112779010
+jung	111114601
+jungermanniaceae	111563715
+jungermanniales	111563371
+jungian	110246836 303045299
+jungian psychology	106066966
+jungle	108456014 108495182 108526132
+jungle cat	102128680
+jungle cock	101793955
+jungle fever	114097277
+jungle fowl	101793748
+jungle gym	103608655
+jungle hen	101794029
+jungle rot	114251288
+jungly	302584425
+junin virus	101333337
+junior	110246936 110247063 110247160 110803957 301018782 301653333 302107989
+junior class	108256409
+junior college	108299285
+junior featherweight	110247271
+junior high	108426792
+junior high school	108426792
+junior lightweight	110247368
+junior middleweight	110247463
+junior school	108294533
+junior status	113975604
+junior varsity	108097387
+junior welterweight	110247559
+junior-grade	302108248
+juniper	111657017 112587995
+juniper berries	107843106
+juniper berry	111657286
+juniper bush	112587995
+juniperic acid	114638922
+junipero serra	111313460
+juniperus	111656840
+juniperus bermudiana	111657933
+juniperus communis	111658560
+juniperus communis depressa	111658829
+juniperus flaccida	111659149
+juniperus horizontalis	111658976
+juniperus procera	111658110
+juniperus sabina	111658442
+juniperus silicicola	111658261
+juniperus virginiana	111657698
+junk	103608807 114882048 202228020

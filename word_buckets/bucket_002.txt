@@ -1,4 +1,3 @@
-acceptance sampling	100808282
 acceptant	301992640
 acceptation	100181262 106615154 114436129
 accepted	300027712
@@ -998,3 +997,4 @@ adlai ewing stevenson	111337744
 adlai stevenson	111337744
 adlumia	111930214
 adlumia fungosa	111930333
+adman	109793385

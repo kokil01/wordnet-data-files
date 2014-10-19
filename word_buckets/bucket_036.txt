@@ -1,32 +1,3 @@
-demantoid	114853342
-demarcate	200732286 200732484
-demarcation	105756783 108610212
-demarcation line	108610212
-demarche	100168942
-demasculinise	200060604
-demasculinize	200060604
-dematerialise	200345146
-dematerialize	200345146
-dematiaceae	113101231
-demavend	109197354
-demean	201804404
-demeaning	300756076
-demeaningly	400212529
-demeanor	104904939
-demeanour	104904939
-demeclocycline hydrochloride	103178877
-demented	302082451
-dementedly	400081240
-dementedness	114418807
-dementia	114418807
-dementia praecox	114421927
-demerara	107612137 107921536 108968731 109288040 114853640
-demerara rum	107921536
-demerara sugar	107612137
-demerit	105146359 106807837
-demerol	103752594
-demesne	108574028 113267561
-demeter	109581698
 demetrius	110949408
 demetrius i	110949408
 demetrius poliorcetes	110949408
@@ -998,3 +969,32 @@ devil nettle	112945939
 devil ray	101503495
 devil tree	111790725
 devil worshiper	110030179
+devil's advocate	110030054
+devil's apples	112927258
+devil's cigar	113005249
+devil's claw	112896029
+devil's darning needle	102271095 111751626
+devil's fig	111923178
+devil's flax	112905020
+devil's food	107646718
+devil's food cake	107646718
+devil's milk	112939369 112939570
+devil's tongue	111803631
+devil's turnip	112183796
+devil's urn	113005355
+devil's walking stick	111817977
+devil's weed	112744370
+devil-may-care	300611718 302005360
+devil-worship	101047930
+deviled egg	107858409
+devilfish	101502732 101972805 102068898
+devilise	200548573
+devilish	301136874 302129677 400303492
+devilishly	400047177 400303492 400310309
+devilize	200548573
+devilment	100737673
+devilry	100737673 100747241
+deviltry	100737673 100747241
+devilwood	112330147
+devious	300766556 300771658 302475607
+deviously	400311562

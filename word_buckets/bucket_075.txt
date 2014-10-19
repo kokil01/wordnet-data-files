@@ -1,56 +1,3 @@
-kinda	400018764
-kindergarten	108429093
-kindergartener	110485626
-kindergartner	110485626
-kindhearted	301376472
-kindheartedness	107569056
-kindle	201763170 202767330 202767643
-kindled	300477615
-kindliness	104848895
-kindling	100379287 115126153
-kindly	300228483 301375875 400004775
-kindness	100035041 104836995 104847242
-kindred	107986142 301979544 302079186
-kine	102405077
-kinematics	106123384
-kinescope	103622803
-kinesiology	106092047
-kinesis	100864900
-kinesthesia	105666830 105730155
-kinesthesis	105666830
-kinesthetic	302881757
-kinesthetically	400199662
-kinesthetics	105666830
-kinetic	300812733 301567742 302905079
-kinetic energy	111490892
-kinetic theory	106115912
-kinetic theory of gases	106115912
-kinetic theory of heat	106117946
-kinetics	106123204
-kinetochore	105451900
-kinetoscope	103623043
-kinetosis	114226828
-kinfolk	107987168
-king	103623310 103623428 103623548 109859605 110251212 110254721 111125044 111125288 111125453 114459136
-king arthur	110844492
-king arthur's round table	104121648
-king begonia	112382463
-king camp gilette	111020168
-king charles spaniel	102089405
-king cobra	101751547
-king crab	101790476 101983917 101984709 107804411
-king devil	112002811
-king ferdinand	110989297
-king fern	112974244 112975559
-king harold i	111049450
-king harold ii	111049633
-king hussein	111088186
-king james	111099792
-king james bible	106460765
-king james i	111099792
-king james version	106460765
-king john	111106269
-king lear	109624223
 king mackerel	102628481
 king nut	112341912
 king nut hickory	112341912
@@ -998,3 +945,56 @@ lad's love	111949946
 ladanum	112395624
 ladder	103637568 107457610 113963344 200335613
 ladder truck	103638143
+ladder-back	103637868 103638020
+ladder-back chair	103638020
+ladder-proof	301779825
+laddie	109890635
+lade	201492646 201581670
+laden	201492646 201581670 300873280 301089350
+ladened	301089350
+ladies' man	110594533
+ladies' room	103638254
+ladies' slipper	112076686
+ladies' tobacco	111942661
+ladies' tresses	112104092
+ladies'-eardrop	112364270
+ladies'-eardrops	112364270
+ladin	106980726
+lading	102967841
+ladino	106979956
+ladle	103638382 201581670 201581842
+ladoga	109354725
+ladrone islands	108856544
+lady	110008828 110262488 110262834
+lady beetle	102168108
+lady chapel	103638632
+lady crab	101982167
+lady day	115210982
+lady diana frances spencer	110953409
+lady emma hamilton	111046074
+lady fern	113215470
+lady friend	110150206
+lady godiva	111023272
+lady jane grey	111035868
+lady killer	110594533
+lady of pleasure	110505025
+lady of the house	110209395
+lady palm	112616725
+lady peel	111152107
+lady slipper	112076686
+lady tulip	112475061
+lady with the lamp	111227400
+lady's earrings	112705140
+lady's laces	112150255
+lady's leek	112454274
+lady's maid	110263180
+lady's slipper	112076686
+lady's smock	111902543
+lady's thistle	112035994
+lady's tobacco	111942661
+lady's tresses	112104092
+lady's-eardrop	112364270
+lady's-eardrops	112364270
+lady's-finger	112192483
+lady's-slipper	112076686
+lady-in-waiting	110262970

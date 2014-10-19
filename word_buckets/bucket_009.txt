@@ -1,11 +1,3 @@
-aromatic aster	111956184
-aromatic compound	114634266
-aromatic hydrocarbon	114792175
-aromatise	202130847
-aromatize	202130847
-arouet	111388633
-around	400007414 400071450 400071565 400071856 400072001 400072141 400072240 400072443 400072601 400072729
-around the bend	302082059
 around the clock	400153617
 around-the-clock	300597829
 arousal	100243675 100855465 105686586 114047468
@@ -311,7 +303,6 @@ arthur robert ashe	110845322
 arthur rubinstein	111293469
 arthur schlesinger	111304732 111304874
 arthur schlesinger jr.	111304874
-
 arthur schopenhauer	111306344
 arthur seymour sullivan	111344207
 arthur stanley jefferson laurel	111139180
@@ -998,3 +989,12 @@ asthmatic	109836941 301177592
 astigmatic	300109509
 astigmatism	113961932 114577182
 astigmia	113961932 114577182
+astilbe	112815745
+astilbe biternata	112815969
+astilbe chinensis pumila	112816112
+astilbe japonica	112816315
+astir	300032471 300188413
+astomatal	302656537
+astomatous	302318451
+astonied	302366366
+astonish	200726794

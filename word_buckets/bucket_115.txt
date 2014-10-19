@@ -1,100 +1,3 @@
-sacred cow	110564744
-sacred fig	112423101
-sacred ibis	102009018
-sacred lotus	111737868
-sacred mushroom	111869936
-sacred scripture	106442055
-sacred text	106441260
-sacred trinity	109559900
-sacred writing	106441260
-sacredly	400179946
-sacredness	104862563
-sacrifice	100131666 100206740 100228462 107355495 113349095 201328775 202330554 202348591 202348957
-sacrifice fly	100131807
-sacrifice operation	100733054
-sacrificeable	300936187
-sacrificer	110564853
-sacrificial	303124939
-sacrilege	100747885
-sacrilegious	302019844
-sacrilegiously	400126997
-sacrilegiousness	104863413
-sacristan	110604669
-sacristy	104539799
-sacrosanct	302063304
-sacrum	105286906
-sad	301130672 301364779 301369193
-sad sack	109899210
-sad-faced	300237678
-sadat	111297890
-saddam	111088391
-saddam bin hussein at-takriti	111088391
-saddam hussein	111088391
-saddam's martyrs	108224593
-sadden	201817020 201817360
-saddhu	110565239
-saddle	101897860 102839120 104130834 104131081 107683381 109441688 200752538 201493471 201495079
-saddle blanket	104131303
-saddle block anaesthesia	114053168
-saddle block anesthesia	114053168
-saddle feather	101901234
-saddle hackle	101901234
-saddle horn	103542111
-saddle horse	102380355
-saddle of lamb	107683523
-saddle oxford	104131471
-saddle oyster	101965147
-saddle roof	103414501
-saddle seat	104131674
-saddle shoe	104131471
-saddle soap	104131865
-saddle sore	114207988 114298742
-saddle stitch	104131988
-saddle-shaped	302157012
-saddle-sore	301717110
-saddleback	103414501 109441688
-saddleback roof	103414501
-saddlebag	104131199
-saddlebill	102006785
-saddlebow	103986536
-saddlecloth	104131303
-saddled	300462419 300873435
-saddled-shaped false morel	113059136
-saddler	110564972
-saddlery	104131589 104302219
-sadducean	302802454
-sadducee	110565081
-sade	111298110
-sadhe	106851593
-sadhu	110565239
-sadi carnot	110903132
-sadism	107508970
-sadist	110565349
-sadistic	302064939
-sadleria	113206718
-sadly	400043024 400093820 400406411
-sadness	104638827 107547828 114012536
-sadomasochism	107509158
-sadomasochist	110565497
-sadomasochistic	302802307
-saek	106949317
-safaqis	109060747
-safar	115242239
-safari	100310732
-safari park	108662995
-safe	103092620 104132122 104132217 300067542 302065233 302068711 302281393
-safe and sound	302066060
-safe harbor	100177615
-safe house	104132642
-safe period	115321282
-safe sex	100845709
-safe-conduct	106704012
-safe-deposit	104132358
-safe-deposit box	104132358
-safebreaker	110565619
-safecracker	110565619
-safeguard	100824631 106704012 201140528 202030173
-safehold	104132567
 safekeeping	100820127
 safely	400155346
 safeness	104863539
@@ -998,3 +901,100 @@ santolina	112029719
 santolina chamaecyparissus	112029889
 santos	108875622
 sanvitalia	112030085
+sanvitalia procumbens	112030261
+sanwa millet	112138429
+sanyasi	110570108
+sao bernardo do campo	108875785
+sao francisco	109446495
+sao goncalo	108875937
+sao joao de meriti	108876091
+sao jose dos campos	108876252
+sao louis	108876397
+sao paulo	108876521
+sao thome e principe	109015018
+sao thome e principe monetary unit	113697561
+sao tiago island	108736086
+sao tome	109015407
+sao tome and principe	109015018
+sao tome e principe	109015018
+saone	109446632
+saone river	109446632
+sap	102850699 110120530 115062694 201313215 202285714
+sapele mahogany	112718787
+saphar	115242239
+saphead	110120530
+saphenous nerve	105575982
+saphenous vein	105387077
+sapid	302405496
+sapidity	105003278 105723811
+sapidness	105003278
+sapience	105624890
+sapiens	302802662
+sapient	302580114
+sapiential	302580602
+sapiential book	106472747
+sapiently	400274018
+sapindaceae	112761274
+sapindales	112760956
+sapindus	112762169
+sapindus drumondii	112762346
+sapindus marginatus	112762346
+sapindus saponaria	112762552
+sapir	111301164
+sapless	301372418 302047640
+sapling	113129240
+sapodilla	107780291 112795401
+sapodilla family	112792841
+sapodilla plum	107780291
+sapodilla tree	112795401
+saponaceous	303037833
+saponaria	111834909
+saponaria officinalis	111835053
+saponaria vaccaria	111839105
+saponification	113574061
+saponified	303167204
+saponify	200539651 200539932
+saponin	114912076
+saporous	302405496
+sapota	107780291
+sapotaceae	112792841
+sapote	107780462 112796679
+sapper	110571133
+sapphic	301205665 302027708
+sapphic ode	106395577
+sapphire	104976419 113393985 115044050 300384353
+sapphire berry	112797534
+sapphirine	115037377 303032177
+sapphism	100859053
+sappho	111301335
+sapporo	108945325
+sappy	300857592 301372201
+sapraemia	114213614
+sapremia	114213614
+saprobe	113145117
+saprobic	303032398
+saprolegnia	113000390
+saprolegnia ferax	113000589
+saprolegniales	113000238
+saprolite	114868730
+sapropel	114981060
+saprophagous	300315691
+saprophyte	113144923
+saprophytic	300315824 303032264
+saprophytic organism	113144923
+saprozoic	300315691
+sapsago	107871164
+sapsucker	101843743
+sapwood	113118295
+saqqara	108920274
+saqqarah	108920274
+saquinavir	104300746
+sara teasdale	111354210
+saraband	100528235 107071041
+saracen	110571326 110571447 110571631
+sarafem	103375773
+saragossa	109050049
+sarah	111301545
+sarah bernhardt	110867590
+sarah kemble siddons	111319496
+sarah siddons	111319496

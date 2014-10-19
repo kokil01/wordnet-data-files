@@ -1,57 +1,3 @@
-laurel-tree	111727411
-laureled	301384703
-laurelled	301384703
-laurels	106709228 114460341
-laurelwood	112385802
-laurence olivier	111234310
-laurence stephen lowry	111163034
-laurence sterne	111336965
-laurens	111139466
-laurentian highlands	108840311
-laurentian plateau	108840311
-laurentius	111141098
-lauric acid	114954614
-lauritz lebrecht hommel melchior	111192401
-lauritz melchior	111192401
-laurus	111724404
-laurus nobilis	111724562
-lauryl alcohol	114954808
-lausanne	109055456
-lautaro faction of the united popular action movement	108048416
-lautaro popular rebel forces	108048416
-lautaro youth movement	108048416
-lav	104453410
-lava	114955127
-lavabo	104560989
-lavage	100697740
-lavalava	103654317
-lavalier	103654475
-lavaliere	103654475
-lavalliere	103654475
-lavandula	112870357
-lavandula angustifolia	112870712
-lavandula latifolia	112871096
-lavandula officinalis	112870712
-lavandula stoechas	112870928
-lavatera	112202931
-lavatera arborea	112203132
-lavation	100256577
-lavatory	103376721 104453410 104561206
-lave	200025027 200036355 200218002
-lavender	104977737 112870477 300377979
-lavender cotton	112029889
-lavender-pink	300378385
-lavender-tinged	300378098
-laver	101411384 101418165 103654602 111139624
-lavish	202269409 301115676 302032677
-lavishly	400189129 400337069
-lavishness	100744939 105153718
-lavoisier	111139907
-lavrenti pavlovich beria	110866289
-law	100612411 105879538 105881589 106171434 106544321 108226608 108458195
-law agent	110268888
-law court	103654773
-law degree	106717503
 law enforcement	101130458
 law enforcement agency	108365742
 law firm	108080875
@@ -998,3 +944,57 @@ leptodactylus	101646328
 leptodactylus pentadactylus	101646537
 leptoglossus	102242586
 leptomeninges	105489980
+leptomeningitis	114372851
+lepton	109360919 113697454
+leptopteris	112974945
+leptopteris superba	112975113
+leptoptilus	102005529
+leptoptilus crumeniferus	102005858
+leptoptilus dubius	102005691
+leptorhine	301411565
+leptorrhine	301411565
+leptorrhinian	301411565
+leptorrhinic	301411565
+leptospira	101386143
+leptospirosis	114296867
+leptosporangiate	301412193
+leptosporangium	113113861
+leptotene	113528539
+leptotyphlopidae	101743034
+leptotyphlops	101743362
+leptotyphlops humilis	101743526
+lepus	102328889 109361149
+lepus americanus	102330494
+lepus arcticus	102330308
+lepus californicus	102330087
+lepus europaeus	102329514
+lepus townsendi	102329827
+ler	109532902
+leresis	104659040
+lermontov	111149007
+lerner	111149120
+leroi jones	110853607
+lerot	102356063
+leroy robert paige	111240654
+lesbian	109730926 110274662 301205665
+lesbianism	100859053
+lesbos	108801435
+lescol	103377502
+lese majesty	100783726
+lesion	114234776 114322317
+leslie howard	111082280
+leslie howard stainer	111082280
+leslie richard groves	111037657
+leslie townes hope	111079258
+lesotho	108978603
+lesotho monetary unit	113709629
+lespedeza	112563415
+lespedeza bicolor	112563691
+lespedeza cuneata	112564331
+lespedeza sericea	112564331
+lespedeza stipulacea	112564144
+lespedeza striata	112563960
+lesquerella	111911192
+less	301559809 301561306 302355910 400100077 400100418
+less-traveled	301822517
+lessee	110271772

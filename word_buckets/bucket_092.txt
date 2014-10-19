@@ -1,70 +1,3 @@
-nonparametric	302922801
-nonparametric statistic	106032076
-nonparametric statistics	106043631
-nonparasitic	300732437
-nonpareil	107620449 107636873 110344909 300507322
-nonparticipant	110380995
-nonparticipation	101242052
-nonparticulate	301728670
-nonparticulate radiation	111471253
-nonpartisan	110381089 300734736
-nonpartisanship	106212421
-nonpartizan	110381089 300734736
-nonpasserine	302785982
-nonpasserine bird	101527402
-nonpayment	101123176 113321164 113321434
-nonperformance	100740568
-nonperiodic	301977529
-nonperson	110381224
-nonpersonal	301774268
-nonphotosynthetic	302788638
-nonphysical	300630484
-nonplus	200624056
-nonplused	301770438
-nonplussed	301770438
-nonpoisonous	300832685 302459992
-nonpolar	302762139
-nonpolitical	301820414
-nonporous	300330593
-nonpregnant	300174955
-nonprehensile	300130101
-nonprescription	301852128
-nonproductive	301873139
-nonprofessional	301875320
-nonprofit	101139918 300486668
-nonprofit organization	101139918
-nonprognosticative	301889818
-nonprogressive	300577235
-nonproliferation	101080496
-nonproliferation center	108142704
-nonproprietary	301113070
-nonprotractile	300948226
-nonpsychoactive	301782618
-nonpublic	301866147
-nonpurulent	302123677
-nonracial	301934780
-nonracist	300287336
-nonradioactive	300428752
-nonrandom	301931557
-nonrapid eye movement	114048949
-nonrapid eye movement sleep	114048949
-nonrational	301434344 301933320
-nonreader	110218722 110381600
-nonreciprocal	301953528
-nonreciprocating	301953638
-nonrecreational	301875076
-nonreflecting	302015476
-nonreflective	302015476
-nonreligious person	109648959
-nonremittal	113321164 113321434
-nonrenewable	301969942
-nonrepetitive	301971600
-nonrepresentational	301987315
-nonrepresentative	301989603
-nonresident	110381702 302132982
-nonresidential	300487240
-nonresilient	300849395
-nonresinous	300055382
 nonresiny	300055382
 nonresistance	101172088
 nonresistant	300700543 302370732
@@ -174,7 +107,6 @@ nonwoody	302587095
 nonworker	109649219
 noodle	105547087 107715329
 nook	103114532 108661223
-
 nook and cranny	105828167
 nookie	100847651
 nooks and crannies	105828167
@@ -251,7 +183,6 @@ normandy	108964334
 normative	300735987 303007747
 normodyne	103635835
 normotensive	301603922
-
 normothermia	114067854
 norn	109605518
 norris	111229533
@@ -998,3 +929,72 @@ o ring	103861124
 o'brien	111231312
 o'casey	111231409
 o'clock	400198594
+o'connor	111231977
+o'er	400228075
+o'flaherty	111232659
+o'hara	111232978
+o'keeffe	111233206
+o'neill	111235060
+o'toole	111238463
+o. henry	111263092
+o.d.	200085106
+o.e.d.	106432067
+o.k.	106700446 200808164 302088253 400015933
+oaf	110294336
+oafish	301956681
+oahu	109103079
+oahu island	109103079
+oak	112288763 112289435
+oak apple	113120493
+oak blight	114241775
+oak chestnut	112285029
+oak fern	113218172
+oak leaf cluster	106721603
+oak tree	112288763
+oak-leaved goosefoot	111850141
+oaken	302586661
+oakland	109086741
+oakleaf goosefoot	111850141
+oakley	111230796
+oakum	114990722
+oar	103842942
+oarfish	102549645
+oarlock	103911849
+oarsman	110388619
+oarsmanship	105647401
+oarswoman	110388794
+oas	108192976
+oasis	103504940 108523517
+oast	103843126
+oast house	103843218
+oat	107820128 112130344
+oat cell carcinoma	114275098
+oatcake	107701048
+oaten	303142253
+oates	111230953 111231061
+oath	106697317 107139804 107241501
+oatmeal	107584067 107890971
+oatmeal cookie	107653835
+oaxaca	108762583
+oaxaca de juarez	108762583
+ob	106062970 109398803
+ob river	109398803
+obadiah	106451382 111231226
+obama	110895767
+obbligato	106828828 107043068
+obduracy	104871024
+obdurate	301161687 301964522
+obdurately	400200274
+obeah	106235798 108169195
+obeche	112222455 112222751
+obechi	112222455
+obedience	101135185 101169636 104913450
+obedience plant	112372307
+obedient	301616581
+obedient plant	112882876
+obediently	400318413
+obeisance	101169636 107289130
+obelion	105241645
+obelisk	103843389 106841579
+oberson	109569409
+obese	300990368

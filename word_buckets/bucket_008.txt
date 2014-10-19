@@ -1,10 +1,3 @@
-appetising	300134488
-appetisingness	105002696
-appetite	107500766
-appetite suppressant	104368616
-appetitive	303009037
-appetizer	107596911
-appetizing	300134488
 appetizingness	105002696
 appian way	102732004
 applaud	200861956 200863593
@@ -440,7 +433,6 @@ archaeological	302649043
 archaeologist	109824229
 archaeology	106153532
 archaeopteryx	101518853
-
 archaeopteryx lithographica	101518853
 archaeornis	101520030
 archaeornithes	101518452
@@ -998,3 +990,11 @@ arolla pine	111632469
 aroma	104987257 105722413
 aromatherapy	100663439
 aromatic	301056127 302652029
+aromatic aster	111956184
+aromatic compound	114634266
+aromatic hydrocarbon	114792175
+aromatise	202130847
+aromatize	202130847
+arouet	111388633
+around	400007414 400071450 400071565 400071856 400072001 400072141 400072240 400072443 400072601 400072729
+around the bend	302082059

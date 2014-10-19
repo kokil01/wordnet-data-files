@@ -1,56 +1,3 @@
-ladder-back	103637868 103638020
-ladder-back chair	103638020
-ladder-proof	301779825
-laddie	109890635
-lade	201492646 201581670
-laden	201492646 201581670 300873280 301089350
-ladened	301089350
-ladies' man	110594533
-ladies' room	103638254
-ladies' slipper	112076686
-ladies' tobacco	111942661
-ladies' tresses	112104092
-ladies'-eardrop	112364270
-ladies'-eardrops	112364270
-ladin	106980726
-lading	102967841
-ladino	106979956
-ladle	103638382 201581670 201581842
-ladoga	109354725
-ladrone islands	108856544
-lady	110008828 110262488 110262834
-lady beetle	102168108
-lady chapel	103638632
-lady crab	101982167
-lady day	115210982
-lady diana frances spencer	110953409
-lady emma hamilton	111046074
-lady fern	113215470
-lady friend	110150206
-lady godiva	111023272
-lady jane grey	111035868
-lady killer	110594533
-lady of pleasure	110505025
-lady of the house	110209395
-lady palm	112616725
-lady peel	111152107
-lady slipper	112076686
-lady tulip	112475061
-lady with the lamp	111227400
-lady's earrings	112705140
-lady's laces	112150255
-lady's leek	112454274
-lady's maid	110263180
-lady's slipper	112076686
-lady's smock	111902543
-lady's thistle	112035994
-lady's tobacco	111942661
-lady's tresses	112104092
-lady's-eardrop	112364270
-lady's-eardrops	112364270
-lady's-finger	112192483
-lady's-slipper	112076686
-lady-in-waiting	110262970
 lady-of-the-night	112919926
 lady-slipper	112076686
 ladybeetle	102168108
@@ -840,7 +787,6 @@ lateral epicondyle	105480498
 lateral epicondylitis	114380125
 lateral geniculate	105495346
 lateral geniculate body	105495346
-
 lateral humeral epicondylitis	114380125
 lateral line	102468560
 lateral line organ	102468560
@@ -998,3 +944,57 @@ laurel oak	112293400 112294285
 laurel sumac	112781635
 laurel willow	112750281
 laurel wreath	103654118 106719615
+laurel-tree	111727411
+laureled	301384703
+laurelled	301384703
+laurels	106709228 114460341
+laurelwood	112385802
+laurence olivier	111234310
+laurence stephen lowry	111163034
+laurence sterne	111336965
+laurens	111139466
+laurentian highlands	108840311
+laurentian plateau	108840311
+laurentius	111141098
+lauric acid	114954614
+lauritz lebrecht hommel melchior	111192401
+lauritz melchior	111192401
+laurus	111724404
+laurus nobilis	111724562
+lauryl alcohol	114954808
+lausanne	109055456
+lautaro faction of the united popular action movement	108048416
+lautaro popular rebel forces	108048416
+lautaro youth movement	108048416
+lav	104453410
+lava	114955127
+lavabo	104560989
+lavage	100697740
+lavalava	103654317
+lavalier	103654475
+lavaliere	103654475
+lavalliere	103654475
+lavandula	112870357
+lavandula angustifolia	112870712
+lavandula latifolia	112871096
+lavandula officinalis	112870712
+lavandula stoechas	112870928
+lavatera	112202931
+lavatera arborea	112203132
+lavation	100256577
+lavatory	103376721 104453410 104561206
+lave	200025027 200036355 200218002
+lavender	104977737 112870477 300377979
+lavender cotton	112029889
+lavender-pink	300378385
+lavender-tinged	300378098
+laver	101411384 101418165 103654602 111139624
+lavish	202269409 301115676 302032677
+lavishly	400189129 400337069
+lavishness	100744939 105153718
+lavoisier	111139907
+lavrenti pavlovich beria	110866289
+law	100612411 105879538 105881589 106171434 106544321 108226608 108458195
+law agent	110268888
+law court	103654773
+law degree	106717503

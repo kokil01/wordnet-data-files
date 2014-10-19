@@ -1,81 +1,3 @@
-pluto	109418792 109593643 109626432
-plutocracy	108379702
-plutocrat	110463529
-plutocratic	302792053
-plutocratical	302792053
-pluton	114956441
-plutonian	301307016
-plutonic	301358226
-plutonic rock	114956441
-plutonium	114673953
-plutonium 239	114674315
-plutonium bomb	102756049
-plutonium pit	103977031
-plutonium trigger	103977031
-pluvialis	102027007
-pluvianus	102042314
-pluvianus aegyptius	102042434
-pluviometer	104056697
-pluviose	115201677
-ply	103977242 103977398 201163122 201185006 201227217 201294420 201868024 202601380
-plyboard	103977576
-plyer	110461667
-plyers	103973308
-plymouth	109121313
-plymouth colony	109121477
-plymouth rock	101792945 109121690
-plywood	103977576
-plzen	108775624
-pm	100142216 106292501 109926654 114675658
-pms	114331738
-pneumatic	302849779
-pneumatic caisson	102940477
-pneumatic drill	103977679
-pneumatic hammer	102692293
-pneumatic tire	103977780
-pneumatic tyre	103977780
-pneumatically	400428368
-pneumatics	106122777
-pneumatophore	113146641
-pneumococcal	302849921
-pneumococcal pneumonia	114172649
-pneumococcal vaccine	103978129
-pneumococcus	101383395
-pneumoconiosis	114173445
-pneumocystis carinii pneumonia	114172772
-pneumocystis pneumonia	114172772
-pneumocytosis	114172772
-pneumoencephalogram	103290641
-pneumogastric	105487728 302744388 302832994
-pneumogastric nerve	105487728
-pneumonectomy	100688388
-pneumonia	114171109
-pneumonic	302946452 302946622
-pneumonic plague	114163143
-pneumonitis	114377400
-pneumonoconiosis	114173445
-pneumothorax	114173018
-pneumovax	103978129
-pnom penh	108734892
-po	108162285 109419025 110440554 114674735
-po box	103996568
-po box no	108508541
-po box number	108508541
-po hai	109249116
-po river	109419025
-po-faced	301271947
-poa	112151733
-poa nemoralis	112152609
-poa pratensis	112152284
-poaceae	112121055
-poach	200545484 201145732
-poached	300619441
-poached egg	107858178
-poacher	102650290 103978730 110463632
-poaching	100248209
-pob	103996568
-pobeda peak	109419150
-pobedy peak	109419150
 pocahontas	111260239
 pocatello	109104689
 pochard	101853679
@@ -346,7 +268,6 @@ polaris	109419587
 polarisation	111512414 114025594
 polariscope	103982463
 polarise	200488118 200488286 200488490
-
 polarity	113878307 113878771
 polarization	111512414 114025594
 polarize	200488118 200488286 200488490
@@ -885,7 +806,6 @@ pontos	109591905
 pontus	108719533 109591905
 pony	102382987 102385089 102387750 104213292 106358595
 pony cart	103988282
-
 pony express	106276468
 pony up	202204855
 pony-trekking	100451852
@@ -998,3 +918,83 @@ populariser	110474308
 popularism	107038586
 popularity	104815891
 popularity contest	101171690
+popularization	100273921 107188911
+popularize	200579585 200972247
+popularizer	110474308
+popularly	400190181
+populate	200452234 202655932
+populated	301315170
+populated area	108693705
+population	101260649 106035684 108195659 108196797 113802016
+population commission	108315658
+population control	101126705
+population growth	113560199
+population profile	107015979
+population scientist	110021919
+population shift	107374520
+populism	105974800
+populist	110021663
+populist party	108279415
+populous	301315331
+populus	112751962
+populus alba	112752769
+populus balsamifera	112752595
+populus canescens	112753012
+populus deltoides	112753726
+populus grandidentata	112754975
+populus heterophylla	112754188
+populus nigra	112753251
+populus nigra italica	112753365
+populus tremula	112754630
+populus tremuloides	112754830
+populus trichocarpa	112753978
+porbeagle	101486471
+porc	107684447
+porcelain	103990592
+porcelain clay	114694800
+porcelainize	201618693
+porcellio	101994767
+porcellionidae	101994636
+porch	103990739
+porcine	300011346 300991162 303112378
+porcupine	102349279
+porcupine ball	107887564
+porcupine fish	102658478
+porcupine provision	100176454
+porcupinefish	102658478
+porcupines	107887564
+pore	105253249 111700483 113935130 200724156
+pore fungus	113070713
+pore mushroom	113070713
+porgy	102593617 107806057
+porifera	101909193
+poriferan	101909390
+poriferous	300330294
+poring over	106610798
+pork	107684447 113379173
+pork and beans	107890650
+pork barrel	113379173
+pork belly	107685458
+pork butcher	110474538
+pork loin	107685215
+pork pie	107888260
+pork roast	107685533
+pork sausage	107693338
+pork tenderloin	107676028
+pork-and-veal goulash	107606412
+pork-barreling	100079641
+pork-fish	102592253
+porkchop	107685999
+porker	102398583
+porkfish	102592253
+porkholt	107606545
+porkpie	103991001
+porkpie hat	103991001
+porn	100748513
+porn merchant	110474660
+porno	100748513
+pornographer	110474660
+pornographic	302141644
+pornographically	400116911
+pornography	100748513
+poronotus	102635917

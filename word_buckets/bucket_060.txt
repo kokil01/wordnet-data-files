@@ -1,45 +1,3 @@
-goodyear	111027616
-goodyera	112083915
-gooey	300054349
-goof	109950334 110177319 202572142
-goof-off	110155473
-goof-proof	200166401
-goofball	109950334 110177319
-goofing off	100742776
-goofproof	200166401
-goofy	109622807 302582052
-google	106591081 200650417
-googly	100478108
-googol	113619651
-googolplex	113619799
-gook	114980800
-goon	110203700 110294336
-gooney	102061401
-gooney bird	102061401
-goonie	102061401
-goony	102061401
-goop	104260861 114980800
-goora nut	112217876
-goosander	101857341
-goose	101858313 107662430 110177319 201228431 201233625 201459708
-goose barnacle	102001840
-goose bump	100868284
-goose down	101899601
-goose egg	113762308
-goose grass	112138931 112148285 112657884 112686920
-goose grease	114914250
-goose liver	107668010
-goose pimple	100868284
-goose plum	112659725
-goose skin	100868284
-goose step	100291998 201933086
-goose-tansy	112657884
-gooseberry	107760406 112826775
-gooseberry bush	112826775
-gooseberry family	112825381
-goosebump	100868284
-goosefish	102550878
-gooseflesh	100868284
 goosefoot	111848716
 goosefoot family	111848244
 goosefoot maple	112774522
@@ -957,7 +915,6 @@ green pea soup	107603990
 green peach aphid	102255916
 green peafowl	101809108
 green pepper	107736763
-
 green plover	102027417
 green revolution	107439397
 green river	109316972
@@ -998,3 +955,46 @@ greengrocer	110166079
 greengrocery	103462628 103462735
 greenhood	112101716
 greenhorn	110001364
+greenhouse	103462844 303081529
+greenhouse effect	111481667
+greenhouse emission	114901385
+greenhouse gas	114901385
+greenhouse warming	111481667
+greenhouse whitefly	102249868
+greening	111525964
+greenish	300377031
+greenish blue	104976975
+greenish yellow	104974271
+greenish-brown	300377317
+greenish-gray	300390922
+greenish-grey	300390922
+greenish-white	300391023
+greenishness	104974738
+greenland	108837249
+greenland caribou	102436556
+greenland sea	109317191
+greenland spar	114697311
+greenland whale	102066653
+greenling	102651255
+greenly	400244420
+greenmail	100176901
+greenmarket	103327649
+greenness	104974368 105123890 114449853
+greenockite	114701771
+greenpeace	108038840
+greenroom	103463060
+greens	107725078
+greensand	115020485
+greensboro	109151620
+greenshank	102030551
+greensick	302706126
+greensickness	114190257
+greenside	303081658
+greenskeeper	110166202
+greenstick fracture	114317180
+greensward	109487049
+greenville	109127353 109151735 109161523
+greenway	108597539
+greenweed	112551323
+greenwich	108894930
+greenwich mean time	115155157

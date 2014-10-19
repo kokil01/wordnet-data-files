@@ -1,119 +1,3 @@
-wild tamarind	111783396 111784947
-wild teasel	112703857
-wild thyme	112891651
-wild tobacco	112928853
-wild vanilla	112048481
-wild water lemon	112405356
-wild west	108700915
-wild west show	100524319
-wild wheat	112163922
-wild wilkworm	102305272
-wild winterpea	112560069
-wild yam	112109837
-wild yellow lily	112447254
-wild-eyed	300087707 301842899
-wild-goose chase	100321568
-wildcat	102127275 104591925 109864997 300881680 301638242 302282708
-wildcat strike	101246998
-wildcat well	104591925
-wildcatter	110801223
-wilde	111406341
-wilde dagga	112871666
-wildebeest	102424095
-wilder	111406498 111406687
-wilderness	105124030 108701286 109502554 114437235
-wilderness campaign	101302226
-wildfire	107319371
-wildflower	111692851
-wildfowl	107662536
-wilding	100555763 111551644
-wildlife	108010218
-wildly	400176221 400176473 400176621
-wildness	104915003 104917064 105044968 107496363
-wile	100754297
-wiley post	111263897
-wilful	301618926 302530749
-wilfully	400498325
-wilfulness	104915573
-wilhelm apollinaris de kostrowitzki	110840048
-wilhelm eduard weber	111398924
-wilhelm grimm	111036837
-wilhelm ii	111406848
-wilhelm karl grimm	111036837
-wilhelm konrad roentgen	111288316
-wilhelm konrad rontgen	111288316
-wilhelm ostwald	111238044
-wilhelm reich	111277149
-wilhelm richard wagner	111389829
-wilhelm von opel	111235714
-wiliness	105628961
-wilkes	111407055 111407174
-wilkes land	108699926
-wilkie collins	110924911
-wilkins	111407357 111407534 111407687
-wilkins micawber	109625080
-wilkinson	111407801
-will	105660438 105992539 106556133 200700164 200748352 202233837
-will durant	110965691
-will hays	111056664
-will keith kellog	111119428
-will power	104869236
-will rogers	111288873
-will-o'-the-wisp	105905122 111479768
-willa cather	110906889
-willa sibert cather	110906889
-willamette	109502765
-willamette river	109502765
-willard	111407968 111408136
-willard frank libby	111151495
-willard huntington wright	111419118
-willard van orman quine	111270981
-willebrand	111408316
-willem de kooning	110948050
-willem de sitter	111323517
-willem einthoven	110974811
-willet	102033491
-willful	301618926 302530749
-willful neglect	104673440
-willfully	400498325
-willfulness	104915573
-william a. craigie	110933886
-william and mary	108503085
-william ashley sunday	111345529
-william augustus	110936916
-william averell harriman	111050021
-william beaumont	110859065
-william benjamin hogan	111075449
-william blake	110872265
-william bligh	110872557
-william bradford	110880185
-william bradford shockley	111318800
-william burroughs	110894293
-william butler yeats	111422459
-william butterfield	110896413
-william byrd	110896767
-william carlos williams	111410053
-william caxton	110908396
-william chambers	110909657
-william christopher handy	111047881
-william claire menninger	111194720
-william clark	110918916
-william clark gable	111006433
-william claude dukenfield	110990710
-william congreve	110926855
-william cowper	110933623 110933758
-william crawford gorgas	111028458
-william crookes	110936257
-william curtis	110938310
-william cuthbert faulkner	110987625
-william dawes	110945336
-william dean howells	111083056
-william dudley haywood	111056907
-william edward burghardt du bois	110964005
-william ewart gladstone	111021664
-william f. cody	110924022
-william falkner	110987625
-william faulkner	110987625
 william felton russell	111295485
 william franklin graham	111030381
 william frederick cody	110924022
@@ -998,3 +882,119 @@ woolly-stemmed	300323059
 woolsorter	110810119
 woolsorter's disease	114096416
 woolsorter's pneumonia	114096416
+woolworth	111417266
+wooly	300218260 300437830 301157854
+wooly blue curls	112892244
+wooly lip fern	113230168
+wooly-haired	300218260
+wooly-minded	300437830
+woosh	202073048
+woozy	302554818
+wop	109735835
+worcester	108901244 109120463 111417483
+worcester sauce	107856496
+worcestershire	107856496
+worcestershire sauce	107856496
+word	106297048 106443410 106654787 106686933 106750911 107155367 107183893 107241961 109560255 113648798 200982485
+word accent	107100280
+word blindness	114122532
+word class	106328457
+word deafness	114121375
+word division	100391543
+word finder	106432797
+word for word	400259374
+word form	106301417
+word game	100502881
+word meaning	106615154
+word of advice	106685042
+word of farewell	106641899
+word of god	106443410 106467352 107338421
+word of honor	107241961
+word of mouth	107238295
+word order	106401590
+word picture	107216464
+word play	100514963
+word processing	113596131
+word processing system	106584830
+word processor	106584830
+word salad	106621529
+word sense	106615154
+word square	106799066
+word stress	107100280
+word string	107026850
+word structure	106187445
+word-blind	303051778
+word-of-mouth	302292157
+word-painter	110810453
+word-painting	107216464
+word-perfect	300634911
+word-splitting	105757207
+word-worship	101046907
+wordbook	106430336
+wordfinder	106432797
+wordily	400494741
+wordiness	107104300
+wording	107095931
+wordless	300153553
+wordlessly	400112833
+wordmonger	110810311
+wordnet	106651729 106652077
+wordnet3.1	106651972
+wordplay	106794438
+words	106294417 107023937 107066015 107124438 107198809
+words per minute	115311128
+wordsmith	110810558
+wordsworth	111417652
+wordsworthian	303050197
+wordy	300551456
+work	100576778 100585404 103846937 104606723 104609402 105763880 111473837 200100305 200149916 200459426 200459709 200636568 201165070 201237919 201528454 201544013 201632781 201663142 201672498 201745327 201821541 201856435 202054955 202121463 202378106 202413117 202415985 202418610 202441810 202449024 202531113 202542223 202600976 202757146
+work animal	101319440
+work at	202420169
+work bench	104607813
+work camp	104608091
+work clothes	104608239
+work clothing	104608239
+work day	115161875
+work flow	100251010
+work force	108229268
+work in	200183651
+work in progress	104608945
+work load	100582278
+work of art	104609048
+work off	202228640
+work on	201672498 202420169
+work out	200099475 200100305 200252156 200252349 200636568 200638921 200640247 202617141
+work over	201399864
+work papers	106543899
+work party	108259720
+work permit	106543899
+work shift	115317037
+work shoe	102908252
+work song	107068033
+work stoppage	101246221
+work study	100646608
+work surface	104610916
+work table	104611087
+work through	201164263
+work time	115143170
+work to rule	101245086
+work unit	113630750
+work up	200096402 200252156 200253876 200254163
+work-board	104607954
+work-clothes	104608239
+work-clothing	104608239
+work-in	101181494
+work-shirt	104610314
+work-shy	300295445
+work-study program	100892751
+workable	301828067
+workaday	301678797
+workaholic	110810642
+workaholism	104633551
+workbag	104607639
+workbasket	104607639
+workbench	104607813
+workboard	104607954
+workbook	106427434
+workbox	104607639
+workday	115161675 115161875

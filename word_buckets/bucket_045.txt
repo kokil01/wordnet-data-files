@@ -1,38 +1,3 @@
-eucalyptus dumosa	112357648
-eucalyptus fraxinoides	112357908
-eucalyptus globulus	112358134
-eucalyptus gum	112359607
-eucalyptus kino	112359607
-eucalyptus maculata	112358663
-eucalyptus maculata citriodora	112358775
-eucalyptus oil	114917688
-eucalyptus pauciflora	112357244
-eucalyptus regnans	112359313
-eucalyptus rostrata	112356850
-eucalyptus tree	112355408
-eucalyptus viminalis	112359496
-eucalyptusd eugenioides	112357763
-eucalytus stellulata	112358971
-eucarya	112757215
-eucarya acuminata	112757363
-eucaryote	101418267
-eucaryotic	302871063
-eucharist	101037885
-eucharistic	302726538
-eucharistic liturgy	101037885
-euchre	100493320
-eucinostomus	102639967
-eucinostomus gula	102640105
-euclid	110982294
-euclid's axiom	106015041
-euclid's fifth axiom	106015807
-euclid's first axiom	106015348
-euclid's fourth axiom	106015713
-euclid's postulate	106015041
-euclid's second axiom	106015466
-euclid's third axiom	106015592
-euclidean	303076632
-euclidean axiom	106015041
 euclidean geometry	106014867
 euclidean space	108021395
 euclidian	303076632
@@ -998,3 +963,38 @@ exploratory	300880654
 exploratory survey	100987192
 explore	200647592 200647924 200649877 200651134
 explorer	106583714 110092496
+explorer's gentian	112315059
+explosion	100378172 100573743 107027968 107131151 107323181 107398296 107428668
+explosive	103309675 300476610 301147494 302300305
+explosive charge	103011879
+explosive compound	103310080
+explosive detection system	103310245
+explosive device	103310467
+explosive mixture	103310789
+explosive trace detection	103310898
+explosive unit	113624165
+explosively	400336120 400336240
+expo	108424576
+exponent	106825275 109641790 109794206
+exponential	113811674 302976819
+exponential curve	113811963
+exponential decay	113499258
+exponential equation	113811839
+exponential expression	113812061
+exponential function	113811674
+exponential return	113499258
+exponential series	113812216
+exponentially	400336392
+exponentiation	100874089
+export	103311152 201381762 202237659 202351405
+export credit	113400279
+export duty	113338963
+exportable	300880298
+exportation	101113857 103311152
+exporter	110093422
+exporting	101113857
+expose	107230228 200616135 200854877 200935783 201038191 201342187 202116512 202117913 202142175 202144506
+exposed	300461363 301892719
+exposit	200957633 201003339
+exposition	106754688 106754868 106755121 108424576
+expositive	301327822

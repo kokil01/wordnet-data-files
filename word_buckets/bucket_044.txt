@@ -1,37 +1,3 @@
-epicurean	110081464 301301187 301301832 303012661
-epicureanism	105970008
-epicurism	105219436
-epicurus	110979471
-epicycle	113932311
-epicyclic	302951452
-epicyclic gear	103962607
-epicyclic gear train	103297647
-epicyclic train	103297647
-epicyclical	302951452
-epicycloid	113932503
-epideictic	300724221
-epideictic oratory	107257317
-epideictical	300724221
-epidemic	107450133 301429248
-epidemic cholera	114153061
-epidemic disease	114153648
-epidemic encephalitis	114367140
-epidemic hysertia	114415548
-epidemic meningitis	114161846
-epidemic myalgia	114353745
-epidemic parotitis	114161660
-epidemic pleurodynia	114353745
-epidemic roseola	114146741
-epidemiologic	302988226
-epidemiological	302988226
-epidemiologist	110081690
-epidemiology	106059555
-epidendron	112082606
-epidendrum	112082350
-epidendrum tampense	112081881
-epidendrum venosum	112082115
-epidermal	302887392
-epidermal cell	105248561
 epidermic	302887392
 epidermis	105247554
 epidiascope	103297871
@@ -200,7 +166,6 @@ eptesicus fuscus	102149825
 eptesicus serotinus	102149980
 eq	105033674
 equable	301137986 302411667
-
 equably	400331161
 equador laurel	112839106
 equal	109649426 200417926 202670846 202677976 300051265 300893124
@@ -998,3 +963,38 @@ eucalyptus camphora	112357103
 eucalyptus citriodora	112358775
 eucalyptus coriacea	112357244
 eucalyptus delegatensis	112357490
+eucalyptus dumosa	112357648
+eucalyptus fraxinoides	112357908
+eucalyptus globulus	112358134
+eucalyptus gum	112359607
+eucalyptus kino	112359607
+eucalyptus maculata	112358663
+eucalyptus maculata citriodora	112358775
+eucalyptus oil	114917688
+eucalyptus pauciflora	112357244
+eucalyptus regnans	112359313
+eucalyptus rostrata	112356850
+eucalyptus tree	112355408
+eucalyptus viminalis	112359496
+eucalyptusd eugenioides	112357763
+eucalytus stellulata	112358971
+eucarya	112757215
+eucarya acuminata	112757363
+eucaryote	101418267
+eucaryotic	302871063
+eucharist	101037885
+eucharistic	302726538
+eucharistic liturgy	101037885
+euchre	100493320
+eucinostomus	102639967
+eucinostomus gula	102640105
+euclid	110982294
+euclid's axiom	106015041
+euclid's fifth axiom	106015807
+euclid's first axiom	106015348
+euclid's fourth axiom	106015713
+euclid's postulate	106015041
+euclid's second axiom	106015466
+euclid's third axiom	106015592
+euclidean	303076632
+euclidean axiom	106015041

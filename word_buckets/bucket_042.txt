@@ -1,36 +1,3 @@
-effuse	200292048 200547160 202073716
-effusion	100330769 107027434
-effusive	300723968 300809634
-effusively	400328245
-effusiveness	104658366
-efrem zimbalist	111427043
-eft	101634304
-egadi islands	108802757
-egalitarian	110066678 300719121
-egalitarianism	105976455
-egalite	113970190
-egality	113970190
-egbert	110973180
-egeria	112635723
-egeria densa	112635524
-egest	200072742
-egg	101463098 105532266 107856780 201264055 201510900
-egg cell	105465549
-egg cream	107944504
-
-egg cup	103271409
-egg en cocotte	107858581
-egg foo yong	107882547
-egg fu yung	107882547
-egg laying	113527680
-egg noodle	107715560
-egg on	201233274
-egg roll	107882699
-egg timer	103271531
-egg white	107857013
-egg yolk	107857321
-egg-and-anchor	103271106
-egg-and-dart	103271106
 egg-and-tongue	103271106
 egg-filled	301088263
 egg-laying mammal	101874516
@@ -260,7 +227,6 @@ elapid snake	101747766
 elapidae	101747298
 elapse	202076777
 elapsed	303160735
-
 elapsed time	115156075
 elasmobranch	101484712
 elasmobranchii	101484240
@@ -998,3 +964,37 @@ emf	111543971
 emg	107017538
 emigrant	110071783
 emigrate	200417060
+emigration	100056907
+emigre	110071783
+emigree	110071783
+emil hermann fischer	110991689
+emil klaus julius fuchs	111004585
+emile	110071936
+emile coue	110932378
+emile durkheim	110966126
+emile gaboriau	111006706
+emile herzog	111185702
+emile zola	111427586
+emilia	111983627
+emilia coccinea	111983774
+emilia flammea	111983774
+emilia javanica	111983774
+emilia sagitta	111984041
+emilia-romagna	108824163
+emiliano zapata	111425172
+emilie charlotte le breton	111137098
+emily bronte	110885287
+emily dickinson	110954362
+emily jane bronte	110885287
+emily post	111263710
+emily price post	111263710
+eminence	105550319 114458911
+eminence grise	110072052
+eminent	301208145 302347190
+eminent domain	105194455
+eminently	400329771
+emir	110072305
+emirate	100593407 108574933
+emissary	110072502
+emissary vein	105373181
+emission	101255647 107448468 113487789 113495493 114876637

@@ -1,42 +1,3 @@
-foetal	302904071
-foetal circulation	105519626
-foetal distress	114117356
-foetal monitor	103283825
-foetal movement	100335000
-foetid	301057333
-foetid bugbane	111749611
-foetid pothos	111813211
-foetology	106063385
-foetometry	101004226
-foetoprotein	115058229
-foetor	105722841
-foetoscope	103335737
-foetoscopy	100946272
-foetus	101462432
-fog	105692366 111478731 114545250 202162161
-fog up	202777846
-fogbank	111478931
-fogbound	300463892
-fogey	110042633
-fogged	300435525
-fogginess	104711694 114545250
-foggy	300435525 300463642 300785203 300879271
-foggy bottom	108155079
-foghorn	103380017 107280087
-foglamp	103380175
-fogsignal	107280087
-fogy	110042633
-fogyish	300977888
-fohn	111462726
-foible	103380289 104771497
-foie gras	107874173
-foil	103380421 103380540 103380802 103558199 105862489 201337757 202563998 202745563
-foiled	302341968
-foiling	100068810
-foist	200190155 200751098
-foist off	202249208
-folacin	115116413
-folate	115116413
 fold	100407433 103381005 105499911 108007611 108007806 113504143 113930429 200399044 200565772 201280538 201348559 202431242
 fold up	200565772 201280538
 foldable	300467934
@@ -469,7 +430,6 @@ forest god	109571240
 forest red gum	112359172
 forest tent caterpillar	102310333
 forestage	104019738
-
 forestall	202458316 202571406
 forestalling	101080966
 forestay	103388057
@@ -998,3 +958,43 @@ francesco della rovere	111324134
 francesco petrarca	111251673
 franche-comte	108962050
 franchise	105194714 106538802 108077029 202452407
+franchise tax	113333984
+francis albert sinatra	111322057
+francis bacon	110850052
+francis beaumont	110858925
+francis crick	110934925
+francis drake	110962858
+francis edgar stanley	111333352
+francis everett townsend	111367075
+francis ferdinand	110997656
+francis ford coppola	110930057
+francis galton	111008566
+francis henry compton crick	110934925
+francis hopkinson	111080236
+francis ii	110997538
+francis joseph	110997877
+francis joseph i	110997877
+francis of assisi	110998094
+francis peyton rous	111292513
+francis poulenc	111264409
+francis richard stockton	111338687
+francis scott key	111123094
+francis scott key fitzgerald	110992086
+francis turbine	103397502
+francis turner palgrave	111241379
+franciscan	110798221 303078086
+franciscan order	108166321
+francisco de goya	111029769
+francisco fernandez cordoba	110930521
+francisco fernandez de cordova	110930521
+francisco franco	110998838
+francisco goya	111029769
+francisco jimenez de cisneros	111104885
+francisco jose de goya	111029769
+francisco jose de goya y lucientes	111029769
+francisco pizarro	111258716
+francisco villa	111386400
+francisella	101368115
+francisella tularensis	101368325
+francium	114662042
+franck	110998418 110998689

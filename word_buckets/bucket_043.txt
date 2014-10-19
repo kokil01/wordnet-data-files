@@ -1,37 +1,3 @@
-emigration	100056907
-emigre	110071783
-emigree	110071783
-emil hermann fischer	110991689
-emil klaus julius fuchs	111004585
-emile	110071936
-emile coue	110932378
-emile durkheim	110966126
-emile gaboriau	111006706
-emile herzog	111185702
-emile zola	111427586
-emilia	111983627
-emilia coccinea	111983774
-emilia flammea	111983774
-emilia javanica	111983774
-emilia sagitta	111984041
-emilia-romagna	108824163
-emiliano zapata	111425172
-emilie charlotte le breton	111137098
-emily bronte	110885287
-emily dickinson	110954362
-emily jane bronte	110885287
-emily post	111263710
-emily price post	111263710
-eminence	105550319 114458911
-eminence grise	110072052
-eminent	301208145 302347190
-eminent domain	105194455
-eminently	400329771
-emir	110072305
-emirate	100593407 108574933
-emissary	110072502
-emissary vein	105373181
-emission	101255647 107448468 113487789 113495493 114876637
 emission spectrum	111472361
 emit	200105087 200985856 202773266
 emitter	103288738
@@ -998,3 +964,37 @@ epicondylitis	114368709
 epicranium	105547467
 epictetus	110979366
 epicure	110081464
+epicurean	110081464 301301187 301301832 303012661
+epicureanism	105970008
+epicurism	105219436
+epicurus	110979471
+epicycle	113932311
+epicyclic	302951452
+epicyclic gear	103962607
+epicyclic gear train	103297647
+epicyclic train	103297647
+epicyclical	302951452
+epicycloid	113932503
+epideictic	300724221
+epideictic oratory	107257317
+epideictical	300724221
+epidemic	107450133 301429248
+epidemic cholera	114153061
+epidemic disease	114153648
+epidemic encephalitis	114367140
+epidemic hysertia	114415548
+epidemic meningitis	114161846
+epidemic myalgia	114353745
+epidemic parotitis	114161660
+epidemic pleurodynia	114353745
+epidemic roseola	114146741
+epidemiologic	302988226
+epidemiological	302988226
+epidemiologist	110081690
+epidemiology	106059555
+epidendron	112082606
+epidendrum	112082350
+epidendrum tampense	112081881
+epidendrum venosum	112082115
+epidermal	302887392
+epidermal cell	105248561

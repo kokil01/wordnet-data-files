@@ -1,112 +1,3 @@
-teashop	104405632
-teasing	100257828 100426908 100514852 300090253 302105282 302130499
-teasingly	400476618
-teasle	112703172
-teaspoon	104405823 113792869
-teaspoonful	113792869
-teat	105562286
-teatime	107591075
-teazel	112703172
-tebaldi	111354312
-tebet	115239864
-tebibit	113651497
-tebibyte	113650943
-tec	110028930
-tech	108302167
-techie	110715413
-technetium	114681226
-technical	100772845 104406404 300486058 301112409 302235691 302820043 302820296 302820431 302902437
-technical analysis	100650509
-technical analysis of stock trends	100650509
-technical analyst	109930298
-technical foul	100772845
-technical grade	301914722
-technical knockout	100135066
-technical school	108302167
-technical sergeant	110715597
-technical-grade	301914722
-technicality	105828731 114604142
-technically	400127721 400127856 400128014
-technician	110715747 110716004
-technicolor	105674930
-technique	105651035 105672990
-techno	107072104
-technobabble	107102511
-technocracy	108380033
-technocrat	110716168 110716251
-technological	302092125 302820431
-technological revolution	115285088
-technologically	400146377
-technologist	109638837
-technology	100951435 103707142 106134474
-technology administration	108147694
-technophile	110716384
-technophilia	107571340
-technophilic	302820697
-technophobe	110716509
-technophobia	107519497
-technophobic	302820797
-techy	301140041
-tecophilaeacea	112485612
-tectaria	113222137
-tectaria cicutaria	113222321
-tectaria macrodonta	113222464
-tectona	112937116
-tectona grandis	112937271
-tectonic	302909373 302950436
-tectonic movement	107324956
-tectonics	106127977 106133966
-tecumseh	111354423
-tecumtha	111354423
-ted	110716631
-ted hughes	111085224
-ted shawn	111316592
-ted williams	111409896
-teddy	103017234 104406517
-teddy bear	104406517
-teddy boy	110716631
-teddy boys	108387131
-tedious	300551456 301348155
-tediously	400216346
-tediousness	105213505
-tedium	105213505 107555178
-tee	104406672 104406835 108679015 201358513 201502331
-tee hinge	104406981
-tee off	201086581
-tee shirt	103600807
-tee up	201502331 201652226
-teeing ground	108679015
-teem	202032212 202720849
-teem in	202721798
-teeming	300016388
-teemingness	105122340
-teen	109791452 301652425
-teenage	301652425
-teenaged	301652425
-teenager	109791452
-teens	113769254 115173427
-teensy	301395585
-teensy-weensy	301395585
-teentsy	301395585
-teeny	301395585
-teeny-weeny	301395585
-teeoff	100575114
-teepee	104419551
-teeter	104174820 201885027
-teeter-totter	104174820 201996407
-teeterboard	104174820
-teetertotter	104174820 201996407
-teeth	105289932
-teethe	200095744
-teething	113586984
-teething ring	103079772
-teetotal	201198897 300803524
-teetotaler	110716778
-teetotaling	101071791
-teetotalism	101071791
-teetotalist	110716778
-teetotaller	110716778
-teetotum	104461511
 teff	112140864
 teff grass	112140864
 tefillin	106869239
@@ -998,3 +889,112 @@ thalweg	106814723 113935701
 thames	109480150
 thames river	109480150
 thammuz	115241182
+thamnophilus	101556261
+thamnophis	101737703
+thamnophis proximus	101738369
+thamnophis sauritus	101738218
+thamnophis sirtalis	101738080
+thanatology	106163204
+thanatophobia	114408007
+thanatopsis	106421926
+thanatos	109203864 109578643
+thane	110724535 110724749
+thaneship	100606025
+thank	200893836
+thank offering	113294073
+thank you	107243905
+thankful	301149996
+thankfully	400201311 400201415
+thankfulness	107519768
+thankless	301150547 302023359
+thankless wretch	110226382
+thanks	101211287 107243631
+thanksgiving	107204699 115225951
+thanksgiving cactus	111874948
+thanksgiving day	115225951
+thar desert	109196314
+tharp	111357624
+that is to say	400190022
+thatch	104424807 105268809 111353998 115094279 201236402
+thatch palm	112618559
+thatch tree	112618559
+thatched roof	104424807
+thatcher	110724860 111357774
+thatcherism	105996407
+thatcherite	110724994
+thaumatolatry	101047444
+thaumaturge	110645222
+thaumaturgist	110645222
+thaumaturgy	100100771 105976844
+thaw	107458139 111502540 113587738 200376777
+thawed	301083885 301510340
+thawing	111502540 113587738
+thb	106712689
+thc	104423920
+thd	106717245
+the absurd	113951224
+the admirable crichton	110934777
+the alps	109217235
+the boot	102876605
+the city	108090191 108894500
+the devil	100625387
+the flood	111475803
+the gambia	108965594
+the great calamity	107330565
+the great charter	106488674
+the great compromiser	110919703
+the great hunger	107330565
+the great starvation	107330565
+the great unwashed	108197108
+the hague	108970180
+the halt	107963102
+the hill	109093847
+the holy see	109183883
+the hots	107505278
+the indies	108764887
+the irish famine	107330565
+the least bit	400057267
+the like	105854415
+the likes of	105854415
+the nazarene	111103646
+the netherlands	108968866
+the other way around	400179172
+the pamirs	109407116
+the pits	108600365
+the purple	103268195 114455697
+the shits	114395691
+the skinny	106648638
+the star-spangled banner	107063331
+the states	109067337
+the street	108090304
+the tempter	109566482
+the three estates	108184264
+the trots	114395691
+the true	113979774
+the venerable bede	110860365
+the virgin	111181402
+the way of the world	101228778
+the ways of the world	101228778
+the whole way	400153124
+thea	109599342
+theaceae	112949821
+theanthropism	105775383 105775577
+theater	104424944 107019235 108569203
+theater company	108204378
+theater critic	110049872
+theater curtain	104425492
+theater director	110034960
+theater in the round	102739650
+theater light	104425779
+theater of operations	108569203
+theater of the absurd	107022277
+theater of war	108568995
+theater prompter	110501999
+theater stage	104425953
+theater ticket	106531719
+theatergoer	110460291
+theatre	104424944 107019235 108569203
+theatre curtain	104425492
+theatre director	110034960
+theatre of operations	108569203
+theatre of war	108568995

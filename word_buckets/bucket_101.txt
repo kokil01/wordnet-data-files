@@ -1,79 +1,3 @@
-phylum arthropoda	101769840
-phylum aschelminthes	101932037
-phylum brachiopoda	102317961
-phylum bryozoa	102316147
-phylum chaetognatha	101926278
-phylum chordata	101468635
-phylum cnidaria	101911752
-phylum coelenterata	101911752
-phylum cryptophyta	101423653
-phylum ctenophora	101920951
-phylum cycliophora	102317369
-phylum echinodermata	102319044
-phylum ectoprocta	102316653
-phylum entoprocta	102316973
-phylum mollusca	101943129
-phylum nematoda	101932037
-phylum nemertea	101931001
-phylum nemertina	101931001
-phylum phoronida	102315847
-phylum platyhelminthes	101927231
-phylum pogonophora	101931378
-phylum porifera	101909193
-phylum protozoa	101391829
-phylum pyrrophyta	101391633
-phylum rotifera	101931688
-phylum sipuncula	102318348
-physa	101955353
-physalia	101915676
-physalis	112930901
-physalis alkekengi	112931635
-physalis ixocarpa	112932200
-physalis peruviana	112931839
-physalis philadelphica	112932433
-physalis pruinosa	112932024
-physalis pubescens	112931436
-physalis viscosa	112932674
-physaria	111913920
-physeter	102069753
-physeter catodon	102069893
-physeteridae	102069603
-physiatrics	100701253
-physic	104032142
-physic nut	112946343
-physical	300629845 300630045 300845863 300877400 301578652 301782757 302790581
-physical ability	105208927
-physical anthropology	106156592
-physical attraction	107503095
-physical body	105224424
-physical change	113557219
-physical chemistry	106099035
-physical composition	104940721
-physical condition	114057659
-physical contact	100125700
-physical education	105764885
-physical entity	100001930
-physical exercise	100625978
-physical exertion	100625978
-physical fitness	114570034
-physical geography	106132052
-physical object	100002684
-physical pendulum	103934030
-physical phenomenon	111439518
-physical process	100029976
-physical property	105016354
-physical rehabilitation	100401803
-physical restoration	100401803
-physical science	106104194
-physical therapist	110447528
-physical therapy	100701253
-physical topology	105739168
-physical value	113324067
-physicalism	105981452
-physicality	104631874
-physically	400116161
-physicalness	104768026
-physician	110040615
 physician-assisted suicide	100224011
 physician-patient privilege	105188010
 physicist	110447768
@@ -800,7 +724,6 @@ pint	113640588 113641685 113643131
 pint-size	302396358
 pint-sized	302396358
 pintado	102628895
-
 pintail	101851798
 pinter	111255609
 pintle	103950300
@@ -878,7 +801,6 @@ pipe down	202194634
 pipe dream	105640577
 pipe fitter	110462606
 pipe fitting	103952438
-
 pipe in	201439024 202084899
 pipe major	110454714
 pipe of peace	102944863
@@ -998,3 +920,81 @@ piss-up	100511933
 pissaba palm	112605898
 pissed	300801674 301811355
 pissed off	301811355
+pisser	105696712 110455483
+pissing	113555089
+pissis	109415854
+pistachio	107791026 112782462
+pistachio nut	107791026
+pistachio tree	112782462
+pistacia	112782231
+pistacia lentiscus	112782809
+pistacia terebinthus	112782665
+pistacia vera	112782462
+piste	103954518 103954623
+pistia	111812038
+pistia stratiotes	111812038
+pistia stratoites	111812038
+pistil	111696951
+pistillate	300316943 301481789
+pistillode	111697595
+pistol	103954735
+pistol grip	103955106
+pistol shrimp	101989717
+pistol-whip	201400599
+pistoleer	110455622
+piston	103955226 111255916
+piston chamber	103161071
+piston ring	103955421
+piston rod	103955593
+pisum	112580347
+pisum arvense	112581814
+pisum sativum	112580925
+pisum sativum arvense	112581814
+pisum sativum macrocarpon	112581280
+pit	103074400 103858811 103955718 103955939 103956037 103956200 103956389 105637465 109416001 111705208 113894850 200179712 201083545 201553977
+pit bull terrier	102096080
+pit of the stomach	105516594
+pit run	114723482
+pit stop	101058728 101058865
+pit viper	101756600
+pit-a-pat	400426498 400426635
+pit-run gravel	114723482
+pita	107699362
+pitahaya	107767256 111863522
+pitahaya cactus	111863522
+pitanga	112352547
+pitch	100106924 100107092 100338036 100499569 100574701 104992447 105076368 107263321 108533915 108642231 114935855 200299025 200299201 201152334 201405291 201511711 201515257 201516758 201868620 201888570 201982450 202040935 202307797
+pitch accent	107100153
+pitch apple	112386830
+pitch black	104967759
+pitch blackness	114007292
+pitch contour	107098358
+pitch in	201175354
+pitch into	201245101
+pitch pine	111631807 111636418
+pitch pipe	103956923
+pitch shot	100574701
+pitch-black	300274934
+pitch-dark	300274934
+pitchblende	115109112
+pitched	301238207 303163882
+pitched battle	100958596
+pitcher	100724235 103956504 110455755 112800928 113790888
+pitcher plant	112800363
+pitcher sage	112872620 112887093
+pitcher's mound	103797867
+pitcher-plant family	112799993
+pitcher-shaped	302156568
+pitcherful	113790888
+pitchfork	103956635 201582189
+pitching	100127971 100338036
+pitching change	100197985
+pitching coach	109951556
+pitching wedge	103956813
+pitchman	110431296 110456101
+pitchstone	114905294
+pitchy	300054604 300389910
+piteous	301054589
+piteously	400426773
+pitfall	103955939 105696795
+pith	105929717 113116918 202371240

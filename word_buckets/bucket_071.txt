@@ -1,55 +1,3 @@
-interchurch	302100021
-intercollegiate	301350196
-intercom	103583224
-intercom speaker	104299710
-intercommunicate	200742582 202628893
-intercommunication	106262873
-intercommunication system	103583224
-intercommunion	101038656
-interconnect	201358349 202629050
-interconnected	301331181 302014029
-interconnectedness	114443644
-interconnection	100146749 114443644
-intercontinental	301571893
-intercontinental ballistic missile	103583420
-intercostal	105559920 302715719
-intercostal artery	105356088
-intercostal muscle	105559920
-intercostal vein	105377979
-intercourse	100847184 107149153
-intercrossed	301910664
-interdenominational	302100021
-interdepartmental	303071519 400381934
-interdepartmental support	101219542
-interdepend	202628114
-interdependence	113864062
-interdependency	113864062
-interdependent	300729889
-interdict	106570079 106723269 200797525 201624455
-interdiction	106570079 107269967
-interdiction fire	100993728
-interdisciplinary	303072655
-interest	100432492 105150324 105199719 105690773 107984994 113307824 113339606 201825361 202684248 202684473
-interest expense	113297542
-interest group	107984994
-interest rate	113340054
-interest-bearing	302696783
-interested	301345290 301519775
-interestedness	105679061
-interesting	301346766
-interestingly	400216059
-interestingness	105199719
-interface	103583604 103583825 105772776 106587403
-interfacial	302889984
-interfacial surface tension	111538601
-interfacial tension	111538601
-interfaith	301788390
-interfere	202457343 202544431
-interference	100563680 101075919 103525974 106674307 107444811
-interference fringe	111480147
-interfering	301355409
-interferometer	103584150
-interferon	103584306
 intergalactic	302860252
 intergalactic space	108518908
 interim	115297873 301761995
@@ -386,7 +334,6 @@ intractableness	104914446
 intractably	400059205
 intracutaneous	302888807
 intradepartmental	303071662
-
 intradermal	302888807
 intradermal injection	100323788
 intradermal test	105754653
@@ -998,3 +945,56 @@ irrevokable	301765182
 irridenta	108606696
 irridentism	105972965
 irridentist	110236708
+irrigate	200079704 200228662
+irrigation	100696701 101059555
+irrigation ditch	103592374
+irritability	104649615 105661555 107568195
+irritable	301140041 302111557 302111880
+irritable bowel syndrome	114329672
+irritably	400188156 400218072
+irritant	105840108
+irritate	200063062 200504796 201791774
+irritated	301811355
+irritating	300090253 300480675 302317865
+irritatingly	400516723
+irritation	100419407 101224279 107511113 107533707 114059838 114429977 114554994
+irritative	302317865
+irrupt	200157431 200308567 202022376
+irruption	100050395 107449873 113560346
+irruptive	301358226
+irs	108160321
+irtish	109338972
+irtish river	109338972
+irtysh	109338972
+irtysh river	109338972
+irula	106992152
+irving	111093314 111093443
+irving berlin	110867050
+irving howe	111082958
+irving langmuir	111136865
+irvingia	112738284
+irvingia gabonensis	112738404
+isaac	111093576
+isaac asimov	110845808
+isaac bashevis singer	111322610
+isaac hull	111085713
+isaac m. singer	111322767
+isaac mayer wise	111413119
+isaac merrit singer	111322767
+isaac newton	111225365
+isaac stern	111336823
+isaac watts	111397038
+isabella	111093785
+isabella i	111093785
+isabella stewart gardner	111010505
+isabella the catholic	111093785
+isadora duncan	110965407
+isaiah	106449796 111094130
+isak dinesen	110955737
+isamu noguchi	111229191
+isarithm	108607357
+isatis	111910316
+isatis tinctoria	111910619
+ischaemia	114189600
+ischaemic	302762505
+ischaemic stroke	114189840

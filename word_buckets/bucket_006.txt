@@ -1,7 +1,3 @@
-amphibolite	114690548
-amphibology	106617096
-amphiboly	106617096
-amphibrach	107110182
 amphicarpa	112525537
 amphicarpa bracteata	112525758
 amphicarpaea	112525537
@@ -226,7 +222,6 @@ analogize	200654954
 analogous	301223961 302079377
 analogously	400071050
 analogue	104753670 300111308
-
 analogue computer	102711083
 analogy	100652419 105788336 105951428
 analphabet	109809488
@@ -998,3 +993,8 @@ annulus	113116107 113898031
 annum	115228997
 annunciate	200976205
 annunciation	106738907 106759903 115210982
+annunciation day	115210982
+annunciation lily	112447483
+annunciator	102717050
+annunciatory	302636904
+annwfn	105634401

@@ -1,119 +1,3 @@
-wellpoint	104580415
-wells	111401188
-wellspring	106688724 108525757
-welsh	102408229 106974297 109766660 202580147 303141741
-welsh black	102408229
-welsh corgi	102115478
-welsh onion	112454457
-welsh pony	102385402
-welsh poppy	111927569
-welsh rabbit	107896300
-welsh rarebit	107896300
-welsh springer spaniel	102104829
-welsh terrier	102098379
-welsher	110793195
-welshman	109766660
-welt	104580567 114322122 200187560 201413739
-weltanschauung	106221124
-welted thistle	111965220
-welter	114524151 200602976 201870016 202090509
-welterweight	110793569 110793686 110793781 113741634
-weltschmerz	107549123
-welty	111401452
-welwitschia	111619775
-welwitschia mirabilis	111619775
-welwitschiaceae	111619442
-wembley	108895429
-wen	114226245
-wen ch'ang	109556517
-wen-ti	109556517
-wench	110008583 201430439
-wencher	110793891
-wend	201845289
-wendy house	103970107
-werdnig-hoffman disease	114193552
-werewolf	109526253
-werfel	111401578
-werlhof's disease	114588998
-werner karl heisenberg	111058806
-wernher magnus maximilian von braun	110882720
-wernher von braun	110882720
-wernicke	111401679
-wernicke's aphasia	114122654
-wernicke's area	105498022
-wernicke's center	105498022
-wernicke's encephalopathy	114420776
-weser	109500848
-weser river	109500848
-wesley	111401819 111401959
-wesleyan	110332431 302967108
-wesleyan methodist church	108109679
-wesleyan methodists	108109679
-wesleyanism	106241834
-wesleyism	106241834
-wessex	108906863
-west	108579372 108700313 108700557 111402107 111402273 111402393 113856598 113858335 300827889 400325301
-west africa	109201207
-west african	107008969 303053763
-west bank	108811341
-west bengal	108926045
-west berlin	108787669
-west berliner	109767872
-west by north	113856723
-west by south	113856479
-west chadic	106996181
-west coast	109070759
-west coast hemlock	111648538
-west country	108906504
-west end	108895596
-west germanic	106959585
-west germanic language	106959585
-west germany	108786714
-west highland white terrier	102100938
-west indian	110794108
-west indian cherry	107762310 112715247
-west indian jasmine	111795441
-west indian satinwood	112736168
-west indian smallpox	114148170
-west indian snowberry	112683140
-west indies	108764887
-west malaysia	108984077
-west midland	106961883
-west nile encephalitis	114367438
-west nile encephalitis virus	101335581
-west nile virus	101335581
-west northwest	113856842
-west pakistan	108998272
-west palm beach	109098001
-west point	109146476
-west saxon	106962169 106962524 109722497
-west side	108668168
-west southwest	113856361
-west sussex	108903870
-west tocharian	106981692
-west virginia	109178070
-west virginian	109765769
-west wind	111545913
-west yorkshire	108905717
-west-central	300830366
-west-sider	110794424
-westbound	300828077
-wester	111545913
-westerly	111546047 300828077 300828321 400325751 400325863
-western	106628388 107714417 300828199 300828321 300828657 300829509
-western australia	108853646
-western australia coral pea	112554713
-western ax	103230793
-western axe	103230793
-western balsam poplar	112753978
-western big-eared bat	102151643
-western birch	112304059
-western black-legged tick	101780290
-western blackberry	112675420
-western blind snake	101743526
-western box turtle	101672013
-western buttercup	111742811
-western chimpanzee	102484691
 western chokecherry	112671676
 western church	108100476
 western civilization	108308972
@@ -998,3 +882,119 @@ wild spurge	112939955
 wild strawberry	112651402
 wild sweet pea	112593363
 wild sweet potato vine	112848667
+wild tamarind	111783396 111784947
+wild teasel	112703857
+wild thyme	112891651
+wild tobacco	112928853
+wild vanilla	112048481
+wild water lemon	112405356
+wild west	108700915
+wild west show	100524319
+wild wheat	112163922
+wild wilkworm	102305272
+wild winterpea	112560069
+wild yam	112109837
+wild yellow lily	112447254
+wild-eyed	300087707 301842899
+wild-goose chase	100321568
+wildcat	102127275 104591925 109864997 300881680 301638242 302282708
+wildcat strike	101246998
+wildcat well	104591925
+wildcatter	110801223
+wilde	111406341
+wilde dagga	112871666
+wildebeest	102424095
+wilder	111406498 111406687
+wilderness	105124030 108701286 109502554 114437235
+wilderness campaign	101302226
+wildfire	107319371
+wildflower	111692851
+wildfowl	107662536
+wilding	100555763 111551644
+wildlife	108010218
+wildly	400176221 400176473 400176621
+wildness	104915003 104917064 105044968 107496363
+wile	100754297
+wiley post	111263897
+wilful	301618926 302530749
+wilfully	400498325
+wilfulness	104915573
+wilhelm apollinaris de kostrowitzki	110840048
+wilhelm eduard weber	111398924
+wilhelm grimm	111036837
+wilhelm ii	111406848
+wilhelm karl grimm	111036837
+wilhelm konrad roentgen	111288316
+wilhelm konrad rontgen	111288316
+wilhelm ostwald	111238044
+wilhelm reich	111277149
+wilhelm richard wagner	111389829
+wilhelm von opel	111235714
+wiliness	105628961
+wilkes	111407055 111407174
+wilkes land	108699926
+wilkie collins	110924911
+wilkins	111407357 111407534 111407687
+wilkins micawber	109625080
+wilkinson	111407801
+will	105660438 105992539 106556133 200700164 200748352 202233837
+will durant	110965691
+will hays	111056664
+will keith kellog	111119428
+will power	104869236
+will rogers	111288873
+will-o'-the-wisp	105905122 111479768
+willa cather	110906889
+willa sibert cather	110906889
+willamette	109502765
+willamette river	109502765
+willard	111407968 111408136
+willard frank libby	111151495
+willard huntington wright	111419118
+willard van orman quine	111270981
+willebrand	111408316
+willem de kooning	110948050
+willem de sitter	111323517
+willem einthoven	110974811
+willet	102033491
+willful	301618926 302530749
+willful neglect	104673440
+willfully	400498325
+willfulness	104915573
+william a. craigie	110933886
+william and mary	108503085
+william ashley sunday	111345529
+william augustus	110936916
+william averell harriman	111050021
+william beaumont	110859065
+william benjamin hogan	111075449
+william blake	110872265
+william bligh	110872557
+william bradford	110880185
+william bradford shockley	111318800
+william burroughs	110894293
+william butler yeats	111422459
+william butterfield	110896413
+william byrd	110896767
+william carlos williams	111410053
+william caxton	110908396
+william chambers	110909657
+william christopher handy	111047881
+william claire menninger	111194720
+william clark	110918916
+william clark gable	111006433
+william claude dukenfield	110990710
+william congreve	110926855
+william cowper	110933623 110933758
+william crawford gorgas	111028458
+william crookes	110936257
+william curtis	110938310
+william cuthbert faulkner	110987625
+william dawes	110945336
+william dean howells	111083056
+william dudley haywood	111056907
+william edward burghardt du bois	110964005
+william ewart gladstone	111021664
+william f. cody	110924022
+william falkner	110987625
+william faulkner	110987625

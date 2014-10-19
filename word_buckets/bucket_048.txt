@@ -1,41 +1,3 @@
-family trypetidae	102199194
-family tuberaceae	113005770
-family tuberculariaceae	113102129
-family tulostomaceae	112991139
-family tulostomataceae	112991139
-family tupaiidae	102497497
-family turdidae	101559312
-family turnicidae	102022220
-family tylenchidae	101934999
-family typhaceae	112175776
-family typhlopidae	101742924
-family tytonidae	101627916
-family uintatheriidae	102374299
-family ulmaceae	112425448
-family ulvaceae	101411024
-family umbelliferae	112950804
-family unionidae	101967277
-family unit	107986853
-family upupidae	101832243
-family uranoscopidae	102614397
-family ursidae	102134070
-family urticaceae	112412262
-family usneaceae	113010222
-family ustilaginaceae	113087391
-family valerianaceae	112970482
-family varanidae	101697071
-family veneridae	101960232
-family verbenaceae	112935193
-family vespertilionidae	102147736
-family vespidae	102214975
-family violaceae	112407718
-family viperidae	101754620
-family vireonidae	101604994
-family viscaceae	112759619
-family vitaceae	113165080
-family vittariaceae	113200308
-family viverridae	102137241
-family viverrinae	102137241
 family volvariaceae	113039339
 family volvocaceae	101411706
 family vombatidae	101885589
@@ -998,3 +960,41 @@ fetal distress	114117356
 fetal membrane	105318315
 fetal monitor	103283825
 fetal movement	100335000
+fetch	100040654 201435927 201436307 202252172
+fetch up	200353212
+fetching	300169091
+fete	100518784 107464462 202496526
+fete champetre	108272429
+fete day	115186678
+feterita	112158471
+fetich	101209832 103609171
+fetichism	100739356 105954076
+feticide	100232182
+fetid	301057333
+fetid bugbane	111749611
+fetid horehound	112862632
+fetidness	104987905
+fetish	101209832 103609171 107504434
+fetishism	100739356 105954076
+fetishist	110105317
+fetishize	200321712
+fetlock	102464980 102465095
+fetlock joint	102465095
+fetology	106063385
+fetometry	101004226
+fetoprotein	115058229
+fetor	105722841
+fetoscope	103335737
+fetoscopy	100946272
+fetter	103335892 201290655
+fetter bone	102464697
+fetter bush	112261943
+fetterbush	112261943 112264210
+fettered	300254227
+fettle	114570198 202370585
+fettuccine	107716383
+fettuccine alfredo	107716511
+fettuccini	107716383
+fetus	101462432
+feud	101238738 201125687
+feudal	302737282

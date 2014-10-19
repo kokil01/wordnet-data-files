@@ -1,69 +1,3 @@
-natural language processing	106151863
-natural language processing application	106584187
-natural language processor	106584187
-natural law	105879538
-natural logarithm	106825862
-natural number	113750477
-natural object	100019308
-natural order	109389494
-natural phenomenon	111428673
-natural philosophy	106100457
-natural process	113540166
-natural resin	114918632
-natural resource	113353024
-natural resources	113353024
-natural rubber	115030825
-natural science	106009578
-natural scientist	110366245
-natural selection	113584949
-natural shape	113884885
-natural spring	109466357
-natural state	113962386
-natural theology	106194698
-natural virtue	104854964
-naturalisation	100085462 100922770 101190110 104794552
-naturalise	200303245 200413217 200413621 200413918
-naturalised	301837507
-naturalism	105982239 108486468
-naturalist	110366245 110366686
-naturalistic	301987050
-naturalization	100085462 100922770 101190110 104794552
-naturalize	200303245 200413217 200413621 200413918 200941788
-naturalized	301039104 301837507
-naturally	400039019 400141437 400490971 400507808
-naturally occurring	301853277
-naturalness	104754486 104793136 104888025
-nature	104630470 104733982 105848940 109389659 109526814
-nature study	105805907
-nature worship	105958203
-naturism	101033595
-naturist	110385400
-naturistic	303000537
-naturopath	110366841
-naturopathy	100709585
-nauch	100527830
-nauclea	112689493
-nauclea diderrichii	112689678
-naucrates	102582686
-naucrates ductor	102582819
-naught	100067973 113762308
-naughtily	400017140
-naughtiness	104916740
-naughty	301132237 302139604
-naumachia	103816703
-naumachy	103816703
-naupathia	114227424
-nauru	108860201 108860475
-nauru island	108860201
-nauruan	109743358 303100426
-nausea	107519350 114383357
-nauseant	103288430
-nauseate	201812341 202199637
-nauseated	302556459
-nauseating	302570765
-nauseatingness	105003736
-nauseous	302556459 302570765
-naut mi	113682449 113682724
 nautch	100527830
 nautch dance	100527830
 nautch girl	110366935
@@ -998,3 +932,69 @@ new zealand mountain pine	111676043
 new zealand spinach	111842769
 new zealand white pine	111674355
 new zealand wine berry	112214182
+new zealand wren	101591072
+new zealander	109743947 303143148
+new-fangled	301646326
+new-made	301072287
+new-mown	301570616
+new-sprung	301646166
+newari	106946797
+newark	109136415
+newbie	110375148
+newborn	110372747 301646166 301653626
+newburg sauce	107886710
+newburgh	109147511
+newcastle	108899615
+newcastle disease	114298303
+newcastle-upon-tyne	108899615
+newcomb	111224845
+newcomer	110375148 110375387
+newel	103826964 103827058
+newel post	103827058
+newfangled	301646326
+newfound	301646523
+newfoundland	102113929 108844203
+newfoundland and labrador	108843929
+newfoundland dog	102113929
+newfoundland dwarf birch	112304307
+newgate	103827200
+newly	400113522
+newlywed	110375765
+newman	111224952 111225236
+newmarket	100494319 103827438
+newness	104933604
+newport	108915724 109160390
+newport news	109173417
+news	105200165 106632357 106654787 106654987 106693922
+news agency	108372002
+news article	106279783
+news bulletin	106695239
+news conference	107159542
+news event	107415431
+news item	106495028
+news leak	107229845
+news magazine	106608678
+news media	106277070
+news organisation	108372002
+news organization	108372002
+news photography	106277531
+news program	106632357
+news reader	110376576
+news report	106694296
+news show	106632357
+news story	106279783
+newsagent	110375912
+newsboy	109917055
+newsbreak	106695239
+newscast	106696104
+newscaster	110376043
+newsdealer	110375912
+newsflash	106695239
+newsless	301308659 301312383
+newsletter	106694721
+newsman	110541255
+newsmonger	110158867
+newspaper	103827711 106277798 108079806 114985861
+newspaper ad	107264094
+newspaper advertisement	107264094
+newspaper article	106279783

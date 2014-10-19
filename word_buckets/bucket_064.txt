@@ -1,49 +1,3 @@
-heilong	109218981
-heilong jiang	109218981
-heimdal	109603847
-heimdall	109603847
-heimdallr	109603847
-heimlich maneuver	100834780
-heimlich manoeuvere	100834780
-heinlein	111058501
-heinous	302524438
-heinously	400357543
-heinousness	104837574
-heinrich boell	110874223
-heinrich engelhard steinway	111335755
-heinrich hertz	111066929
-heinrich himmler	111070532
-heinrich rudolph hertz	111066929
-heinrich schliemann	111305081
-heinrich theodor boell	110874223
-heinrich von kleist	111127426
-heinz	111058653
-heir	110188177 110691052
-heir apparent	110188430
-heir presumptive	110188834
-heir-at-law	110188601
-heiress	110188740
-heirloom	113285587 113285693
-heisenberg	111058806
-heist	100783566 100784717 202577426
-heitor villa-lobos	111386543
-hejaz	109017885
-hejira	100061234 100061368
-hel	109604003
-hela	109604003
-held	303161358
-helen	109623362
-helen adams keller	111119075
-helen hayes	111056401
-helen hunt jackson	111096349
-helen keller	111119075
-helen laura sumner woodbury	111415995
-helen maria fiske hunt jackson	111096349
-helen newington wills	111208842
-helen of troy	109623362
-helen porter mitchell	111192035
-helen traubel	111368042
-helen wills	111208842
 helen wills moody	111208842
 helena	109131810
 helenium	111997594
@@ -998,3 +952,49 @@ high court	108353115
 high dam	102754628
 high dudgeon	107531995
 high energy physics	106111158
+high explosive	114877397
+high fashion	105759060
+high fidelity	101022430
+high fidelity sound system	103522923
+high finance	101101136
+high frequency	104993039 105064744
+high gear	103523794
+high german	106963290
+high ground	113972681
+high hat	103242119 103523992
+high holiday	115208843
+high holy day	115208843
+high horse	106205290
+high jinks	100511061
+high jinx	100511061
+high jump	100441449 107484616
+high life	100744939
+high mallow	112192020
+high mass	101044497
+high muckamuck	110768288
+high noon	115190537
+high pitch	104993039
+high point	105877401
+high priest	109826498 110194879
+high profile	113973921
+high quality	104735634
+high relief	102703281
+high renaissance	104936919
+high roller	110195049 110655023
+high school	108426574
+high sea	109325710
+high season	115263367
+high sierra	109457749
+high sign	106819176
+high society	108404661
+high spirits	107543044
+high spot	113832353
+high status	113971621
+high stepper	102391240
+high street	103718268
+high style	105759060
+high table	103524837
+high tea	107590957
+high tech	100952969
+high technology	100952969
+high temperature	105023355

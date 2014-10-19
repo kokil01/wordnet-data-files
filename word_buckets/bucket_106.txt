@@ -1,87 +1,3 @@
-procrustes	109592838
-proctalgia	114353670
-proctitis	114377662
-proctocele	114320652
-proctologist	110498412
-proctology	106071775
-proctoplasty	100692186
-proctor	110498545 202599510
-proctorship	100599072
-proctoscope	104013791
-proctoscopy	100644310
-procumbent	301242283
-procurable	300185663
-procural	100084549
-procurance	100084549
-procurator	110498720 110506494
-procure	201183272 202243552
-procurement	100084549
-procurer	110453501 110498913
-procuress	110499078
-procursive epilepsy	114113074
-procyclidine	104013886
-procyon	102510494 109422360
-procyon cancrivorus	102510977
-procyon lotor	102510844
-procyonid	102510280
-procyonidae	102509968
-prod	104014040 107267046 201232540 201233274 201233816
-prodding	107267046
-prodigal	110499146 302431016
-prodigality	100744939 104902002
-prodigally	400434339
-prodigious	301387664 301680620 302171721
-prodigiously	400434522
-prodigy	105947962 107301073 110499368
-prodroma	114327304
-prodromal	302795507
-prodrome	114327304
-prodromic	302795507
-produce	107721456 200094214 201624592 201743695 201756303 201756692 202145619 202161530
-producer	107343356 110311977 110499603
-producer gas	114886632
-producer price index	106654173
-product	103754377 104014270 105868214 108015510 111435956 115022266
-product development	100251749
-product introduction	100239738
-product line	103676994
-product research	100641803
-product-moment correlation coefficient	106042957
-production	100523792 100914791 100915416 100915536 104014270 107020067 107228649 113780885
-production cost	113323797
-production line	104014761
-production order	106542134
-productive	301085028 301871147 301873245 302340596
-productively	400215173
-productiveness	105155187
-productivity	105155187 113846712
-proenzyme	114715606
-prof	110500315
-profanation	100274163 100747885
-profanatory	302064848
-profane	202573980 202585532 300426521 302019844 302062330 302064284
-profaned	300576311
-profanely	400434644 400434800
-profaneness	104863245 106217609
-profanity	107143235
-profess	200758694 200762780 200820214 200821417 200889847 200890178 201012717
-professed	300691351 300691573 301875208
-professedly	400190790 400277958
-professing	106745674
-profession	100611221 106697785 106745674 108129062
-professional	110318149 110499838 110500168 301874674 301876050 302567172 302850390 302850580
-professional association	108259596
-professional baseball	100475668
-professional basketball	100482814
-professional boxing	100447296
-professional dancer	110009040
-professional football	100471629
-professional golf	100467341
-professional golfer	110156887
-professional life	100607342
-professional organisation	108282991
-professional organization	108282991
-professional person	110499838
 professional relation	113859638
 professional tennis	100484216
 professional tennis player	110721293
@@ -458,7 +374,6 @@ prosaic	300926081 301349191 302025863
 prosaically	400435530
 prosaicness	104803127
 prosauropoda	101711289
-
 proscenium	104019552 104019738
 proscenium arch	104019976
 proscenium wall	104019552
@@ -998,3 +913,88 @@ psophocarpus tetragonolobus	112584588
 psoralea	112584886
 psoralea esculenta	112585118
 psoriasis	114255276
+psoriatic arthritis	114211351
+pst	115157590
+psych up	201767334
+psyche	105619057 109600779 110646444
+psychedelia	108309219
+psychedelic	300087486 300404896 301782367
+psychedelic drug	103484730
+psychedelic rock	107079602
+psychiatric	302924317
+psychiatric hospital	103752065
+psychiatrical	302924317
+psychiatrist	110507601
+psychiatry	106065477
+psychic	110507894 301604480 301785285
+psychic communication	107270459
+psychic energy	109207731
+psychic phenomena	107271043
+psychic phenomenon	107271043
+psychic trauma	114308778
+psychical	301604480 301785285
+psychical communication	107270459
+psychically	400208579
+psycho	110509726
+psychoactive	301781519
+psychoactive drug	104023531
+psychoactive substance	104023531
+psychoanalyse	200644859
+psychoanalysis	100705558
+psychoanalyst	109809719
+psychoanalytic	302924741
+psychoanalytic process	113564150
+psychoanalytical	302924741
+psychoanalyze	200644859
+psychobabble	107086627
+psychodelic drug	103484730
+psychodid	102206630
+psychodidae	102206391
+psychodynamics	106151219 113866715
+psychogalvanic response	100861689
+psychogenesis	113564296 113564434
+psychogenetic	302917256 302917372
+psychogenic	301785482 302917372
+psychogenic fugue	114417884
+psychokinesis	107271713
+psychokinetic	301604623
+psycholinguist	110508241
+psycholinguistic	302950993
+psycholinguistics	106150038
+psychological	301785621 302917107
+psychological condition	114396987
+psychological disorder	114107272
+psychological feature	100023280
+psychological medicine	106065477
+psychological moment	115270946
+psychological operation	100986068
+psychological science	106145709
+psychological state	114396987
+psychological warfare	100955521
+psychologically	400436814 400437035
+psychologist	110508450
+psychology	106145709
+psychology department	108134677
+psychometric	302925050
+psychometric test	101008617
+psychometrics	106150474
+psychometrika	106150474
+psychometry	106150474
+psychomotor	302925183
+psychomotor development	113564621
+psychomotor epilepsy	114113456
+psychoneurosis	114416566
+psychoneurotic	110374597 301587448
+psychonomics	106148736
+psychopath	110509149
+psychopathic	302084383
+psychopathic personality	114411544
+psychopathologic	302084383
+psychopathological	302084383
+psychopathology	106065477 106147210
+psychopathy	114403545
+psychopharmacological	303023480
+psychopharmacology	106065355
+psychophysicist	110509011
+psychophysics	106148942
+psychophysiology	106150250

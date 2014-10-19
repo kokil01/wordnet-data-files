@@ -1,20 +1,3 @@
-brassica rapa	111898115
-brassica rapa chinensis	111899523
-brassica rapa pekinensis	111899277
-brassica rapa perviridis	111899760
-brassica rapa ruvo	111898570
-brassicaceae	111887994
-brassie	102895867
-brassiere	102896008
-brasslike	302681116
-brassy	300156411 302402358 302681116
-brat	107693727 110722132
-bratislava	108777096
-brattice	102896531 202341371
-brattish	300644835
-brattle	202176571
-brattleboro	109171278
-bratty	300644835
 bratwurst	107693727
 braun	110882720 110883036
 braun's holly fern	113221091
@@ -998,3 +981,20 @@ bubo virginianus	101625124
 bubonic	303062599
 bubonic plague	114162497
 bubulcus	102012798
+bubulcus ibis	102012926
+buccal	301669663 302682500
+buccal artery	105346716
+buccal cavity	105310398
+buccaneer	110455134 202622065
+buccaneering	100785181
+buccinator muscle	105301567
+buccinidae	101949916
+bucconidae	101845021
+buccula	105607524
+bucephala	101852676
+bucephala islandica	101853194
+bucephela albeola	101852833
+bucephela clangula	101853014
+buceros	101831929
+bucerotidae	101831784
+buchanan	110889518

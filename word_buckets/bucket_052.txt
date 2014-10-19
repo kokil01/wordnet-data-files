@@ -1,43 +1,3 @@
-franchise tax	113333984
-francis albert sinatra	111322057
-francis bacon	110850052
-francis beaumont	110858925
-francis crick	110934925
-francis drake	110962858
-francis edgar stanley	111333352
-francis everett townsend	111367075
-francis ferdinand	110997656
-francis ford coppola	110930057
-francis galton	111008566
-francis henry compton crick	110934925
-francis hopkinson	111080236
-francis ii	110997538
-francis joseph	110997877
-francis joseph i	110997877
-francis of assisi	110998094
-francis peyton rous	111292513
-francis poulenc	111264409
-francis richard stockton	111338687
-francis scott key	111123094
-francis scott key fitzgerald	110992086
-francis turbine	103397502
-francis turner palgrave	111241379
-franciscan	110798221 303078086
-franciscan order	108166321
-francisco de goya	111029769
-francisco fernandez cordoba	110930521
-francisco fernandez de cordova	110930521
-francisco franco	110998838
-francisco goya	111029769
-francisco jimenez de cisneros	111104885
-francisco jose de goya	111029769
-francisco jose de goya y lucientes	111029769
-francisco pizarro	111258716
-francisco villa	111386400
-francisella	101368115
-francisella tularensis	101368325
-francium	114662042
-franck	110998418 110998689
 franco	110998838
 franco-american	109761519
 franco-prussian war	101307120
@@ -998,3 +958,43 @@ fuller's teasel	112703643
 fullerene	114646319
 fullness	104996251 105113324 114475377 114485103
 fully	400010928 400180395 400507076
+fully fashioned	302147067
+fully fledged	300939061 301100001
+fully grown	301491979
+fulmar	102062786
+fulmar petrel	102062786
+fulmarus	102062669
+fulmarus glacialis	102062786
+fulminant	301147587
+fulminate	114822879 200307842 200426334 200843446
+fulminate of mercury	114822985
+fulminating mercury	114822985
+fulmination	100378715 107247964
+fulminic acid	114635982
+fulsome	302189062
+fulsomely	400487963
+fulsomeness	104875718 106709053
+fulton	111005834
+fulvic acid	114900029
+fulvicin	103465606
+fumaria	111929822
+fumaria claviculata	111924743
+fumaria fungosa	111930333
+fumaria officinalis	111929996
+fumaria sempervirens	111924946
+fumariaceae	111929517
+fumaric acid	114900217
+fumble	100076732 201077720 201213583 201317398 202055471 202533317
+fumbler	109899210
+fumbling	302237069
+fume	111528510 200068398 201799344 202131565 202773880
+fumed	301961339
+fumed oak	112289616
+fumeroot	111925212 111929996
+fumes	114861534
+fumewort	111925212 111929996
+fumigant	114900357
+fumigate	202131565
+fumigation	100714231
+fumigator	103407700 110135497
+fumimaro konoe	111128757

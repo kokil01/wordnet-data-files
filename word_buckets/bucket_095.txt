@@ -1,73 +1,3 @@
-order cuculiformes	101825064
-order cycadales	111620590
-order cycadofilicales	111625355
-order cyclostomata	101479470
-order cydippea	101922355
-order cydippida	101922355
-order cydippidea	101922355
-order cypriniformes	101440446
-order decapoda	101973507 101978521
-order dermaptera	102275359
-order dermoptera	102504716
-order diapensiales	112271225
-order dicranales	111560681
-order dictyoptera	102235258
-order dinocerata	102374123
-order dinoflagellata	101419682
-order dinornithiformes	101525235
-order diptera	102190717
-order discocephali	102577120
-order ebenales	112790575
-order edentata	102456004
-order embiodea	102186005
-order embioptera	102186005
-order endomycetales	113045727
-order entomophthorales	112995046
-order ephemerida	102264535
-order ephemeroptera	102264535
-order equisetales	113239798
-order ericales	112246526
-order erysiphales	112983900
-order eubacteriales	101358727
-order eubryales	111561198
-order euphausiacea	101991122
-order eurotiales	113047523
-order eurypterida	101791061
-order exocycloida	102322075
-order fagales	112280538
-order falconiformes	101607266
-order filicales	113190572
-order foraminifera	101395484
-order form	106485701
-order fucales	101406446
-order gadiformes	102523872
-order galliformes	101791705
-order ganoidei	102640953
-order gaviiformes	102051168
-order gentianales	112310261
-order geophilomorpha	101788472
-order geraniales	112705401
-order ginkgoales	111684264
-order gnetales	111617296
-order graminales	112120899
-order gregarinida	101426105
-order gruiformes	102014960
-order guttiferales	112380095
-order gymnophiona	101657598
-order haemosporidia	101426398
-order haplosporidia	101429107
-order heliozoa	101393268
-order helotiales	112988041
-order hemiptera	102239147
-order heterosomata	102659713
-order heterotrichales	101403937
-order hymenogastrales	112991632
-order hymenoptera	102208548
-order hypericales	112379543
-order hypermastigina	101421435
-order hypocreales	112985816
-order hyracoidea	102374903
-order ichthyosauria	101726696
 order ictodosauria	101724045
 order insectivora	101891161
 order insessores	101526297
@@ -738,7 +668,6 @@ ossified	301029012
 ossify	200268135 200268251 200419035
 osso buco	107888724
 ossuary	103863605
-
 ostariophysi	101431813
 osteal	303149892 303150332
 osteichthyes	102517206
@@ -998,3 +927,74 @@ outdoor game	100465719
 outdoor man	110658757
 outdoor sport	100434601
 outdoor stage	102790007
+outdoors	108631308 400111402
+outdoorsman	110406317
+outdoorswoman	110406453
+outdoorsy	301697093
+outdraw	201107937
+outer	300951591 300952756 300954353
+outer boundary	113926582
+outer ear	105331271
+outer garment	103869443
+outer hebrides	108914546
+outer mongolia	108991230
+outer planet	109404392
+outer space	108517454
+outercourse	100845492
+outermost	300953091
+outerwear	103865015
+outface	202137454
+outfall	103865128
+outfield	103865237
+outfielder	110406573 110406683
+outfight	201111842
+outfit	103624605 103865478 108291747 202344409
+outfitted	301098548 301101177
+outfitter	103865754 110407411
+outfitting	101159625
+outflank	201111670 202089693
+outflow	107451261 109466357 113550498
+outflowing	301298958
+outfox	201107263 201110217
+outgeneral	201112184
+outgo	113296311 201108050
+outgoer	110071783
+outgoing	301297308 301298564 302266005
+outgrow	200544825 201107508
+outgrowth	105477841 107339273 111435835
+outguess	200919622
+outhouse	103865924
+outing	100312635 115163651
+outlander	110123254
+outlandish	300611168
+outlandishly	400417406
+outlandishness	104805760
+outlast	202625819
+outlaw	109997190 202486512 301399338 301406764
+outlawed	301406764
+outlawry	104818378
+outlay	101124470 113296311
+outlet	101266940 103308910 103753653 104556057
+outlet box	103866089
+outlier	106032718 110407535
+outline	105900179 106480622 108630343 201008466 201693274 201705493
+outlined	300784271
+outlive	202625819
+outlook	100883223 105953807 106205574
+outlying	300446433
+outmaneuver	201112658
+outmanoeuvre	201112658
+outmarch	201113291
+outmatch	201108050
+outmode	200560831
+outmoded	300977350
+outmost	300953091
+outnumber	202650989
+outpace	201109081
+outpatient	110407635
+outperform	201108050
+outplay	201157423
+outpoint	201103514 201950138
+outport	108655835
+outpost	103866261 108391580 108631560
+outpouring	100330645 107097633 107422377 107454170 109466357

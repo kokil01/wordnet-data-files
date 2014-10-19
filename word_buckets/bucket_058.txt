@@ -1,43 +1,3 @@
-genus tropaeolum	112740215
-genus tropidoclonion	101738539
-genus truncocolumella	112992716
-genus tsuga	111647479
-genus tuber	113005996
-genus tubercularia	113102325
-genus tulestoma	112991320
-genus tulipa	112474526
-genus tulostoma	112991320
-genus tunga	102190079
-genus tupaia	102497730
-genus tupinambis	101689650
-genus turbatrix	101934625
-genus turdus	101560338
-genus turnix	102022416
-genus turreae	112721591
-genus turritis	111919901
-genus tursiops	102072221
-genus tussilago	112049795
-genus tylenchus	101935136
-genus tympanuchus	101800993
-genus typha	112175976
-genus tyrannosaurus	101716276
-genus tyrannus	101550784
-genus tyto	101628058
-genus uca	101982694
-genus uintatherium	102374453
-genus ulex	112595232
-genus ulmus	112425714
-genus ulva	101411188
-genus uma	101681528
-genus umbellularia	111728137
-genus umbrina	102599518
-genus unio	101967462
-genus upupa	101832380
-genus urginea	112482906
-genus uria	102049806
-genus urocyon	102123039
-genus urocystis	113089325
-genus urophycis	102527442
 genus uropsilus	101893359
 genus urosaurus	101684154
 genus ursinia	112050398
@@ -450,7 +410,6 @@ german pancake	107656989
 german police dog	102109314
 german rampion	112365000
 german shepherd	102109314
-
 german shepherd dog	102109314
 german short-haired pointer	102102888
 german silver	114986526
@@ -998,3 +957,44 @@ give the axe	200354293 202407967
 give the bounce	200354293
 give the eye	202172319
 give the gate	200354293
+give the glad eye	202168617
+give the once over	202172319
+give the sack	202407967
+give tongue to	200942415
+give up	200614907 201085437 201118003 201199057 202232523 202240011 202308311 202321284 202350643 202372031 202428446 202686624
+give vent	200946580
+give voice	200982485
+give way	200435327 200436056 201852407 201993067
+give-and-go	100565035
+give-and-take	100040890 106790633 107155367
+give-up the ghost	200359085
+giveaway	106633568 107229554 113293735
+given	105901963 300028393 301295534
+given name	106348677
+givenness	104762885
+giver	110045455 110151183
+giving	100091599 101088005 106697943 301115129
+giving birth	113554089
+giving medication	100696243
+giving up	100206392 107269695
+giza	108919376
+gizeh	108919376
+gizmo	102732963 103223248
+gizzard	101976870
+gjellerup	111021563
+glabella	105240021
+glabellar	302746647
+glabrescent	300213036
+glabrous	300213156
+glace	301075629
+glacial	301255223 301261336 302746751
+glacial boulder	109312083
+glacial epoch	115149816 115280006
+glacial period	115280006
+glacially	400142936
+glaciate	200375046 201211328
+glaciated	301082620
+glaciation	113508612 114543275
+glacier	109312237
+glacier lily	112471904
+glacier mill	103033532

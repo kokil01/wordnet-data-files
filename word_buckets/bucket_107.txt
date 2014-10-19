@@ -1,88 +1,3 @@
-psoriatic arthritis	114211351
-pst	115157590
-psych up	201767334
-psyche	105619057 109600779 110646444
-psychedelia	108309219
-psychedelic	300087486 300404896 301782367
-psychedelic drug	103484730
-psychedelic rock	107079602
-psychiatric	302924317
-psychiatric hospital	103752065
-psychiatrical	302924317
-psychiatrist	110507601
-psychiatry	106065477
-psychic	110507894 301604480 301785285
-psychic communication	107270459
-psychic energy	109207731
-psychic phenomena	107271043
-psychic phenomenon	107271043
-psychic trauma	114308778
-psychical	301604480 301785285
-psychical communication	107270459
-psychically	400208579
-psycho	110509726
-psychoactive	301781519
-psychoactive drug	104023531
-psychoactive substance	104023531
-psychoanalyse	200644859
-psychoanalysis	100705558
-psychoanalyst	109809719
-psychoanalytic	302924741
-psychoanalytic process	113564150
-psychoanalytical	302924741
-psychoanalyze	200644859
-psychobabble	107086627
-psychodelic drug	103484730
-psychodid	102206630
-psychodidae	102206391
-psychodynamics	106151219 113866715
-psychogalvanic response	100861689
-psychogenesis	113564296 113564434
-psychogenetic	302917256 302917372
-psychogenic	301785482 302917372
-psychogenic fugue	114417884
-psychokinesis	107271713
-psychokinetic	301604623
-psycholinguist	110508241
-psycholinguistic	302950993
-psycholinguistics	106150038
-psychological	301785621 302917107
-psychological condition	114396987
-psychological disorder	114107272
-psychological feature	100023280
-psychological medicine	106065477
-psychological moment	115270946
-psychological operation	100986068
-psychological science	106145709
-psychological state	114396987
-psychological warfare	100955521
-psychologically	400436814 400437035
-psychologist	110508450
-psychology	106145709
-psychology department	108134677
-psychometric	302925050
-psychometric test	101008617
-psychometrics	106150474
-psychometrika	106150474
-psychometry	106150474
-psychomotor	302925183
-psychomotor development	113564621
-psychomotor epilepsy	114113456
-psychoneurosis	114416566
-psychoneurotic	110374597 301587448
-psychonomics	106148736
-psychopath	110509149
-psychopathic	302084383
-psychopathic personality	114411544
-psychopathologic	302084383
-psychopathological	302084383
-psychopathology	106065477 106147210
-psychopathy	114403545
-psychopharmacological	303023480
-psychopharmacology	106065355
-psychophysicist	110509011
-psychophysics	106148942
-psychophysiology	106150250
 psychopomp	110509403
 psychopsis	112100700
 psychopsis krameriana	112101089
@@ -438,7 +353,6 @@ pull someone's leg	202583671
 pull strings	202541995
 pull the leg of	200852780
 pull the plug	202515886
-
 pull the wool over someone's eyes	200840873
 pull through	202557529 202626004
 pull together	201383303
@@ -998,3 +912,89 @@ pyjama	103883150 103883371
 pyknic	300831714
 pyknic type	105006379
 pyknosis	114100149
+pyknotic	303021419
+pyle	111269549
+pylodictus	102522646
+pylodictus olivaris	102522778
+pylon	104035057 104035240
+pyloric	303117028
+pyloric sphincter	105580730
+pyloric stenosis	114130567
+pyloric valve	105580730
+pyloric vein	105386193
+pylorus	105542728
+pynchon	111269702
+pyocyanase	104035357
+pyocyanin	104035491
+pyogenic	303117131
+pyongyang	108975170
+pyorrhea	114104318 114234370
+pyorrhea alveolaris	114104318
+pyorrhoea	114104318 114234370
+pyotr alexeyevich kropotkin	111131184
+pyotr ilych tchaikovsky	111353757
+pyotr tchaikovsky	111353757
+pyracanth	112671990
+pyracantha	112671990
+pyralid	102291441
+pyralid moth	102291441
+pyralidae	102291125
+pyralididae	102291125
+pyralis	102291713
+pyramid	104035601 113364299 113937870 200157902 201468676 202251082 202295717
+pyramid bugle	112862114
+pyramid plant	112313394
+pyramid scheme	105916594
+pyramidal	301816283
+pyramidal bone	105280044
+pyramidal motor system	105499264
+pyramidal tent	104035892
+pyramidal tract	105499264
+pyramidic	301816283
+pyramidical	301816283
+pyramidically	400054622
+pyramiding	100781445
+pyramids of egypt	104035601
+pyrausta	102292118
+pyrausta nubilalis	102292262 102312493
+pyre	107980108
+pyrectic	114608682 303117199
+pyrene	113157640 114983076
+pyrenees	109424349
+pyrenees daisy	112011096
+pyrenomycetes	113048830
+pyrethrum	112026338 112042523 112042851 112043188
+pyretic	301173613
+pyrex	115024181
+pyrexia	114388761
+pyridine	114716671
+pyridium	103927459
+pyridoxal	115116236
+pyridoxamine	115116236
+pyridoxine	115116236
+pyriform area	105484957
+pyriform lobe	105484957
+pyrilamine	104036017
+pyrimidine	115024368 115024480
+pyrite	114716843
+pyrites	114717005
+pyrocellulose	114819602
+pyrocephalus	101552674
+pyrocephalus rubinus mexicanus	101552813
+pyrochemical	303117313
+pyrochemical process	113565482
+pyrochemistry	113565482
+pyroelectric	303117462
+pyroelectrical	303117462
+pyroelectricity	111455775
+pyrogallic	303117633
+pyrogallic acid	114639578
+pyrogallol	114639578
+pyrogen	114608682 114608838
+pyrogenetic	303117736
+pyrogenic	302863150 303117736
+pyrogenous	302863150 303117736
+pyrograph	104036123
+pyrographer	110516300
+pyrographic	303117903
+pyrography	100940056

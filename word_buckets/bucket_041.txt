@@ -1,34 +1,3 @@
-dwarf phlox	112831787
-dwarf pipefish	101458778
-dwarf pocket rat	102353322
-dwarf russian almond	112670990
-dwarf sperm whale	102070421
-dwarf spurge	112942075
-dwarf sumac	112784522
-dwarf tulip	112474941
-dwarf willow	112749416
-dwarf-white trillium	112489224
-dwarfish	301396024
-dwarfishness	105114968
-dwarfism	114530005
-dweeb	110704113
-dwell	200706015 200961399 202655932 202659476 202761648
-dwell on	202646310
-dweller	109643248
-dwelling	103264208
-dwelling house	103264208
-dwight d. eisenhower	110974958
-dwight david eisenhower	110974958
-dwight davis	110944204
-dwight eisenhower	110974958
-dwight filley davis	110944204
-dwight lyman moody	111208732
-dwindle	200268567
-dwindle away	200268567
-dwindle down	200268567
-dwindling	107437400 302547985
-dwindling away	107437400
-dy	114660825
 dyad	113765745
 dyadic	302865142
 dyadic operation	113491595
@@ -717,7 +686,6 @@ edelweiss	112009862
 edema	114340141
 edematous	301180088
 eden	105636441 108583035
-
 edental	302448944
 edentata	102456004
 edentate	102456242 302448944
@@ -998,3 +966,35 @@ effortlessness	104715819
 effrontery	104845958
 effulgence	104961131
 effulgent	300281329
+effuse	200292048 200547160 202073716
+effusion	100330769 107027434
+effusive	300723968 300809634
+effusively	400328245
+effusiveness	104658366
+efrem zimbalist	111427043
+eft	101634304
+egadi islands	108802757
+egalitarian	110066678 300719121
+egalitarianism	105976455
+egalite	113970190
+egality	113970190
+egbert	110973180
+egeria	112635723
+egeria densa	112635524
+egest	200072742
+egg	101463098 105532266 107856780 201264055 201510900
+egg cell	105465549
+egg cream	107944504
+egg cup	103271409
+egg en cocotte	107858581
+egg foo yong	107882547
+egg fu yung	107882547
+egg laying	113527680
+egg noodle	107715560
+egg on	201233274
+egg roll	107882699
+egg timer	103271531
+egg white	107857013
+egg yolk	107857321
+egg-and-anchor	103271106
+egg-and-dart	103271106

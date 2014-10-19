@@ -1,90 +1,3 @@
-pyknotic	303021419
-pyle	111269549
-pylodictus	102522646
-pylodictus olivaris	102522778
-pylon	104035057 104035240
-pyloric	303117028
-pyloric sphincter	105580730
-pyloric stenosis	114130567
-pyloric valve	105580730
-pyloric vein	105386193
-pylorus	105542728
-pynchon	111269702
-pyocyanase	104035357
-pyocyanin	104035491
-pyogenic	303117131
-pyongyang	108975170
-pyorrhea	114104318 114234370
-pyorrhea alveolaris	114104318
-pyorrhoea	114104318 114234370
-pyotr alexeyevich kropotkin	111131184
-pyotr ilych tchaikovsky	111353757
-pyotr tchaikovsky	111353757
-pyracanth	112671990
-pyracantha	112671990
-pyralid	102291441
-
-pyralid moth	102291441
-pyralidae	102291125
-pyralididae	102291125
-pyralis	102291713
-pyramid	104035601 113364299 113937870 200157902 201468676 202251082 202295717
-pyramid bugle	112862114
-pyramid plant	112313394
-pyramid scheme	105916594
-pyramidal	301816283
-pyramidal bone	105280044
-pyramidal motor system	105499264
-pyramidal tent	104035892
-pyramidal tract	105499264
-pyramidic	301816283
-pyramidical	301816283
-pyramidically	400054622
-pyramiding	100781445
-pyramids of egypt	104035601
-pyrausta	102292118
-pyrausta nubilalis	102292262 102312493
-pyre	107980108
-pyrectic	114608682 303117199
-pyrene	113157640 114983076
-pyrenees	109424349
-pyrenees daisy	112011096
-pyrenomycetes	113048830
-pyrethrum	112026338 112042523 112042851 112043188
-pyretic	301173613
-pyrex	115024181
-pyrexia	114388761
-pyridine	114716671
-pyridium	103927459
-pyridoxal	115116236
-pyridoxamine	115116236
-pyridoxine	115116236
-pyriform area	105484957
-pyriform lobe	105484957
-pyrilamine	104036017
-pyrimidine	115024368 115024480
-pyrite	114716843
-pyrites	114717005
-pyrocellulose	114819602
-pyrocephalus	101552674
-pyrocephalus rubinus mexicanus	101552813
-pyrochemical	303117313
-pyrochemical process	113565482
-pyrochemistry	113565482
-pyroelectric	303117462
-pyroelectrical	303117462
-pyroelectricity	111455775
-pyrogallic	303117633
-pyrogallic acid	114639578
-pyrogallol	114639578
-pyrogen	114608682 114608838
-pyrogenetic	303117736
-pyrogenic	302863150 303117736
-pyrogenous	302863150 303117736
-pyrograph	104036123
-pyrographer	110516300
-pyrographic	303117903
-pyrography	100940056
 pyrola	112276629
 pyrola americana	112276842
 pyrola elliptica	112277225
@@ -145,7 +58,6 @@ pyrus communis	112672372
 pyruvic acid	115024901
 pythagoras	111270046
 pythagorean	303048319
-
 pythia	109593808
 pythiaceae	113002863
 pythian games	100517956
@@ -998,3 +910,91 @@ radiocarpal joint	105592578
 radiochemist	110384201
 radiochemistry	106100128
 radiochlorine	114659177
+radiocommunication	106287788
+radiogram	104049438 106287054
+radiograph	104049438
+radiographer	110523558
+radiographic	302848030
+radiography	100906126 113566585
+radioimmunoassay	105748749
+radioisotope	114644035
+radiolaria	101393540
+radiolarian	101393669
+radiolocate	202701362
+radiolocation	104046324
+radiologic technologist	110523683
+radiological	302797568
+radiologist	110523799
+radiology	100905007 106071957
+radiolucent	300436407
+radiolysis	113566830
+radiometer	104050065
+radiomicrometer	104050248
+radiopacity	111510735
+radiopaque	300436553
+radiopaque dye	115025779
+radiopharmaceutical	104050348
+radiophone	104051578
+radiophonic	302797690
+radiophoto	104050699
+radiophotograph	104050699
+radiophotography	100908933
+radioprotection	114564057
+radioscopy	100905007
+radiosensitive	302112170
+radiosensitivity	105662046
+radiotelegraph	104051387 106286124
+radiotelegraphic signal	106818523
+radiotelegraphy	104051387 106286124
+radiotelephone	104051578 106287154
+radiotelephonic	302797690
+radiotelephony	106287154
+radiotherapist	110523799
+radiotherapy	100706833
+radiotherapy equipment	104052035
+radiothorium	114682601
+radish	107751663 111914796 111915239 111915427 111915561
+radish plant	111914796
+radium	114676100
+radium therapy	100707272
+radius	104290516 105109363 105601073 108646153 113894177
+radius of curvature	105109840
+radius vector	105873758 105873895
+radix	113619037
+radome	104052335
+radon	114676283
+radyera	112206204
+radyera farragei	112206376
+raetam	112587995
+raf	108057858 108212072
+raffaello santi	111274018
+raffaello sanzio	111274018
+raffia	112615507 112616066 115027113
+raffia farinifera	112615750
+raffia palm	112615750
+raffia ruffia	112615750
+raffia taedigera	112616213
+raffia vinifera	112616460
+raffinose	115027246
+raffish	300611718 300975112
+raffishly	400222610
+raffle	100509683 202206757
+raffle off	202206757
+raffles	111272212
+rafflesiaceae	111823587
+raft	104052477 104052867 113796604 201657699 201846450 201953825
+raft foundation	104052867
+rafter	104052724 110524138 202342866
+raftered	301212846
+raftman	110524138
+rafts	113799721
+raftsman	110524138
+rag	100515669 104053034 106278546 107074884 115195833 200339546 200826456 200852181 201729763 201791774 201806967
+rag day	115196055
+rag doll	104053265
+rag gourd	112186941
+rag paper	114718833
+rag trade	108083153
+rag week	115195833
+ragamuffin	110524257
+ragbag	104053184 108416934

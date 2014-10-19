@@ -1,41 +1,3 @@
-fetch	100040654 201435927 201436307 202252172
-fetch up	200353212
-fetching	300169091
-fete	100518784 107464462 202496526
-fete champetre	108272429
-fete day	115186678
-feterita	112158471
-fetich	101209832 103609171
-fetichism	100739356 105954076
-feticide	100232182
-fetid	301057333
-fetid bugbane	111749611
-fetid horehound	112862632
-fetidness	104987905
-fetish	101209832 103609171 107504434
-fetishism	100739356 105954076
-fetishist	110105317
-fetishize	200321712
-fetlock	102464980 102465095
-fetlock joint	102465095
-fetology	106063385
-fetometry	101004226
-fetoprotein	115058229
-fetor	105722841
-fetoscope	103335737
-fetoscopy	100946272
-fetter	103335892 201290655
-fetter bone	102464697
-fetter bush	112261943
-fetterbush	112261943 112264210
-fettered	300254227
-fettle	114570198 202370585
-fettuccine	107716383
-fettuccine alfredo	107716511
-fettuccini	107716383
-fetus	101462432
-feud	101238738 201125687
-feudal	302737282
 feudal lord	110105505
 feudal lordship	100604981
 feudal system	107988872
@@ -270,7 +232,6 @@ field work	100641076
 field wormwood	111950507
 field-crop	302738738
 field-effect transistor	103337729
-
 field-emission microscope	103337934
 field-grade officer	110106849
 field-pea plant	112581814
@@ -998,3 +959,42 @@ fisherman's lure	103355448
 fishery	103355726
 fisheye	302739548
 fisheye lens	104590498
+fishgig	104278258
+fishhook	103355997
+fishily	400439139
+fishing	100454959 100455145
+fishing boat	103356108
+fishing eagle	101618344
+fishing expedition	105808846
+fishing gear	103356280
+fishing licence	106562372
+fishing license	106562372
+fishing line	103356614
+fishing net	103357474
+fishing permit	106562372
+fishing pole	103356825
+fishing rig	103356280
+fishing rod	103356825
+fishing season	115265685
+fishing smack	103356108
+fishing tackle	103356280
+fishing vessel	103356108
+fishing worm	101938036
+fishmonger	110113587
+fishnet	103357474
+fishpaste	107872968
+fishplate	103357699
+fishpole bamboo	112169661
+fishpond	109303819
+fishtail	200440154
+fishtail bit	103357993
+fishtail palm	112607750
+fishwife	110113587
+fishworm	101938036
+fishy	301923975 302739665
+fissile	301020236 301020466
+fission	113502427 113502611
+fission bomb	102756049
+fissionable	301020466
+fissiparity	104712544 113502783
+fissiparous	300732063 302143835

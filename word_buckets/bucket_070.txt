@@ -1,54 +1,3 @@
-ineptitude	105146826 105656304
-ineptly	400229869 400230033
-ineptness	104728334 105656304
-inequality	104759476
-inequitable	300961901
-inequitably	400331426
-inequity	104846907
-ineradicable	300901582
-inerrable	300968548
-inerrancy	104812532
-inerrant	300968548
-inert	300034435 301569431 301936403
-inert gas	114648547
-inertia	104642988 111489163
-inertial	302759529
-inertial frame	106019932
-inertial guidance	100818502
-inertial guidance system	103574473
-inertial mass	105032859
-inertial navigation	100818502
-inertial navigation system	103574473
-inertial reference frame	106019932
-inertness	104783811
-inescapable	300344258
-inescapably	400209884
-inessential	109335551 300905804 301586632
-inessentiality	105180342
-inestimable	300303247
-inevitability	104761311
-inevitable	107344850 300343913 301847749
-inevitable accident	107329950
-inevitableness	104761311
-inevitably	400113314 400209884
-inexact	300918901
-inexactitude	104811860
-inexactly	400370277
-inexactness	104811860
-inexcusable	301726102 301726477
-inexcusably	400240521 400335065
-inexhaustible	300928883 301011878
-inexhaustibly	400053027
-inexorability	104838668
-inexorable	301028427 301789850
-inexorableness	104838668
-inexorably	400219849
-inexpedience	105172830
-inexpediency	105172830
-inexpedient	300935636 301819537
-inexpediently	400335662
-inexpensive	300937468
-inexpensively	400285612 400335934
 inexpensiveness	105153986
 inexperience	105997841
 inexperienced	300940009
@@ -456,7 +405,6 @@ ink-jet printer	103577093
 inka	108505843 109746533
 inkberry	112778218
 inkblot	104702450
-
 inkblot test	101009849
 inkiness	104967454
 inking pad	103878563
@@ -998,3 +946,55 @@ interchangeability	104743169
 interchangeable	301985596 302381265
 interchangeableness	104743169
 interchangeably	400381801
+interchurch	302100021
+intercollegiate	301350196
+intercom	103583224
+intercom speaker	104299710
+intercommunicate	200742582 202628893
+intercommunication	106262873
+intercommunication system	103583224
+intercommunion	101038656
+interconnect	201358349 202629050
+interconnected	301331181 302014029
+interconnectedness	114443644
+interconnection	100146749 114443644
+intercontinental	301571893
+intercontinental ballistic missile	103583420
+intercostal	105559920 302715719
+intercostal artery	105356088
+intercostal muscle	105559920
+intercostal vein	105377979
+intercourse	100847184 107149153
+intercrossed	301910664
+interdenominational	302100021
+interdepartmental	303071519 400381934
+interdepartmental support	101219542
+interdepend	202628114
+interdependence	113864062
+interdependency	113864062
+interdependent	300729889
+interdict	106570079 106723269 200797525 201624455
+interdiction	106570079 107269967
+interdiction fire	100993728
+interdisciplinary	303072655
+interest	100432492 105150324 105199719 105690773 107984994 113307824 113339606 201825361 202684248 202684473
+interest expense	113297542
+interest group	107984994
+interest rate	113340054
+interest-bearing	302696783
+interested	301345290 301519775
+interestedness	105679061
+interesting	301346766
+interestingly	400216059
+interestingness	105199719
+interface	103583604 103583825 105772776 106587403
+interfacial	302889984
+interfacial surface tension	111538601
+interfacial tension	111538601
+interfaith	301788390
+interfere	202457343 202544431
+interference	100563680 101075919 103525974 106674307 107444811
+interference fringe	111480147
+interfering	301355409
+interferometer	103584150
+interferon	103584306

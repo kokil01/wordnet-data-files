@@ -1,46 +1,3 @@
-greenhouse	103462844 303081529
-greenhouse effect	111481667
-greenhouse emission	114901385
-greenhouse gas	114901385
-greenhouse warming	111481667
-greenhouse whitefly	102249868
-greening	111525964
-greenish	300377031
-greenish blue	104976975
-greenish yellow	104974271
-greenish-brown	300377317
-greenish-gray	300390922
-greenish-grey	300390922
-greenish-white	300391023
-greenishness	104974738
-greenland	108837249
-greenland caribou	102436556
-greenland sea	109317191
-greenland spar	114697311
-greenland whale	102066653
-greenling	102651255
-greenly	400244420
-greenmail	100176901
-greenmarket	103327649
-greenness	104974368 105123890 114449853
-greenockite	114701771
-greenpeace	108038840
-greenroom	103463060
-greens	107725078
-greensand	115020485
-greensboro	109151620
-greenshank	102030551
-greensick	302706126
-greensickness	114190257
-greenside	303081658
-greenskeeper	110166202
-greenstick fracture	114317180
-greensward	109487049
-greenville	109127353 109151735 109161523
-greenway	108597539
-greenweed	112551323
-greenwich	108894930
-greenwich mean time	115155157
 greenwich meridian	108617044
 greenwich time	115155157
 greenwich village	109145635
@@ -797,7 +754,6 @@ gum kino	114925562
 gum labdanum	114952656
 gum myrrh	112713636
 gum olibanum	114898102
-
 gum plant	111993810
 gum resin	114921902
 gum ridge	105317876
@@ -998,3 +954,47 @@ gymnastics	100434742
 gymnelis	102620319
 gymnelis viridis	102620449
 gymnocalycium	111867883
+gymnocarpium	113217983
+gymnocarpium dryopteris	113218172
+gymnocarpium robertianum	113218405
+gymnocladus	112516712
+gymnocladus dioica	112516932
+gymnogyps	101622644
+gymnogyps californianus	101622776
+gymnomycota	112995967
+gymnophiona	101657598
+gymnopilus	113096941
+gymnopilus spectabilis	113097165
+gymnopilus validipes	113097403
+gymnopilus ventricosus	113097591
+gymnorhina	101586277
+gymnorhina tibicen	101586469
+gymnosophical	302928534
+gymnosophist	110173293
+gymnosophy	105971281
+gymnosperm	111616559
+gymnosperm family	111574214
+gymnosperm genus	111574626
+gymnospermae	111615763
+gymnospermophyta	111615763
+gymnospermous	302928640
+gymnospermous tree	113129421
+gymnospermous yellowwood	111671210
+gymnosporangium	113085975
+gymnosporangium juniperi-virginianae	113086274
+gymnura	101501218
+gymslip	103477919
+gynaecological	302928282
+gynaecologist	110173582
+gynaecology	106060432
+gynaeolatry	101047230
+gynandromorph	110191752
+gynandromorphic	301482332
+gynandromorphous	301482332
+gynarchy	108378744
+gynecocracy	108378744
+gynecologic	302928282
+gynecological	302928282
+gynecologist	110173582
+gynecology	106060432
+gynecomastia	114529622

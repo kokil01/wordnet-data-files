@@ -1,8 +1,3 @@
-annunciation day	115210982
-annunciation lily	112447483
-annunciator	102717050
-annunciatory	302636904
-annwfn	105634401
 annwn	105634401
 ano	108036995
 anoa	102411684
@@ -52,7 +47,6 @@ anomie	104859096 114439302
 anomiidae	101964864
 anomy	104859096 114439302
 anon	400034196 400035707
-
 anon.	300121384
 anonym	106349648
 anonymity	114459751
@@ -613,7 +607,6 @@ antonius stradivarius	111340816
 antony	110839767
 antony tudor	111371672
 antonym	106298695
-
 antonymous	302390332
 antonymy	113830617
 antrorse	300124525
@@ -998,3 +991,10 @@ appetence	107500766
 appetency	107500766
 appetent	300891343
 appetiser	107596911
+appetising	300134488
+appetisingness	105002696
+appetite	107500766
+appetite suppressant	104368616
+appetitive	303009037
+appetizer	107596911
+appetizing	300134488

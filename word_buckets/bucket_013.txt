@@ -1,17 +1,3 @@
-bastard toadflax	112756988
-bastard turtle	101667133
-bastard wing	101900308
-bastard yellowwood	111674021
-bastardisation	100273147
-bastardise	200819914 202586938
-bastardised	301915136
-bastardization	100273147 106739227
-bastardize	200819914 202586938
-bastardized	301915136
-bastardly	300908261 301410881
-bastardy	113976433
-bastardy proceeding	101186288
-baste	102808296 200322453 201334030 201420070
 baster	102808468 109862436 109862588
 bastille	102808628 102808769
 bastille day	115225328
@@ -998,3 +984,17 @@ bell-bottom	302451627
 bell-bottomed	302451627
 bell-bottoms	102828584
 bell-like call	106809800
+bell-shaped	300539864
+bell-shaped curve	106035496
+bella sombra	111876311
+belladonna	102828146 112919102
+belladonna lily	112439899
+belladonna plant	112919102
+bellarmine	102828382 110862326
+bellarmino	110862326
+bellbird	101554675
+bellbottom	302451627
+bellbottom pants	102828584
+bellbottom trousers	102828584
+bellboy	109868183
+belle	109868420
